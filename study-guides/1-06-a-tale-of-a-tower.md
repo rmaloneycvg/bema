@@ -1,7 +1,7 @@
 # A Tale of a Tower
 
 BEMA 6 · Session 1
-Source transcript: `~/workspace/bema/transcripts/1-6-a-tale-of-a-tower.md`
+Source transcript: `~/workspace/bema/transcripts/1-06-a-tale-of-a-tower.md`
 Book: Genesis (Genesis 11:1–9; with 10:32 and 10:8–10)
 Guest: Josh Bossé (BEMA teaching team; Impact campus ministry; "Midrash Josh")
 
@@ -148,7 +148,7 @@ Following the episode's running pattern (each story parallels an earlier one), B
 
 ## Sources
 
-- Transcript: `1-6-a-tale-of-a-tower.md`
+- Transcript: `1-06-a-tale-of-a-tower.md`
 - [Genesis 10:8–10 (NIV)](https://www.biblegateway.com/passage/?search=Genesis%2010%3A8-10&version=NIV)
 - [Genesis 10:31–11:1 (NIV)](https://www.biblegateway.com/passage/?search=Genesis%2010%3A31-11%3A1&version=NIV)
 - [Genesis 11:1–9 (full, NIV)](https://www.biblegateway.com/passage/?search=Genesis%2011%3A1-9&version=NIV)

@@ -43,7 +43,7 @@ Marty Solomon, Brent Billings, and returning guest Reed Dent walk through the cr
 
 - **A God who hears the cry (continuing the Episode 17 thread).** The manna narrative repeatedly grounds God's provision in his *hearing*: "he has heard your grumbling." Rather than punishing the grumble, God answers it with abundance — Reed: *"instead of any number of reactions that I could imagine, God says, 'Okay, I'll take care of you.'... a very kind and compassionate and long suffering kind of response."* The God who heard Israel in Egypt keeps hearing them in the desert.
 
-- *(Note: the "master the beast" / sin-as-failing-to-master-the-animal motif from `1-3-master-the-beast.md` is not engaged this episode — Israel's struggle is framed through the heart/will test and communal generosity, not the beast/instinct lens, so the motif is not claimed. The El Shaddai "God who knows when to say enough" motif from Episode 2 is likewise not invoked here.)*
+- *(Note: the "master the beast" / sin-as-failing-to-master-the-animal motif from `1-03-master-the-beast.md` is not engaged this episode — Israel's struggle is framed through the heart/will test and communal generosity, not the beast/instinct lens, so the motif is not claimed. The El Shaddai "God who knows when to say enough" motif from Episode 2 is likewise not invoked here.)*
 
 ## Narrative Tensions
 

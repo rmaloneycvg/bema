@@ -42,10 +42,10 @@ Hosts: Marty Solomon (host) · Brent Billings (co-host)
 
 ## Recurring Through-lines
 
-- **Trust the story (the Session-1 arc; callback to `1-1-trust-the-story.md`).** The episode opens by retracing the whole arc of trust (Avram → Isaac → Jacob → Joseph/Judah) and lands on "trust the story" as God's one answer to Moses. Marty (as God): *"I'm going to go with you and you need to trust the story."* Marked as the overarching Session-1 motif (partnership through trust).
+- **Trust the story (the Session-1 arc; callback to `1-01-trust-the-story.md`).** The episode opens by retracing the whole arc of trust (Avram → Isaac → Jacob → Joseph/Judah) and lands on "trust the story" as God's one answer to Moses. Marty (as God): *"I'm going to go with you and you need to trust the story."* Marked as the overarching Session-1 motif (partnership through trust).
 - **God finds a partner / the family of God (partnership — the Session-1 throughline).** "Who are we?" is answered in partnership terms: *"We are people that God is looking for partners. Are we available?"* Ties directly to the Introduction's claim that *"God finds a partner, and the family of God is born"* (Avram).
 - **Chutzpah (callback to Abraham, ep. 11; Jacob, eps. 13–14).** Named in the recap as Jacob's key ingredient — *"Jacob brought chutzpah. He brought some fire... He wanted the mission of God."* Flagged as cross-reference; not re-explained here.
-- **Stories of wrath deferred and now revisited (callback to `1-4-his-bow-in-the-clouds.md` and `1-10-walking-the-blood-path.md`).** Marty explicitly reaches back: *"I told you episodes ago... that we were going to come back to these stories of wrath."* The grace-saturated backdrop ("walking the blood path, putting the bow in the clouds... grace, grace, grace, grace") is recalled to frame Sodom/Exodus as outliers.
+- **Stories of wrath deferred and now revisited (callback to `1-04-his-bow-in-the-clouds.md` and `1-10-walking-the-blood-path.md`).** Marty explicitly reaches back: *"I told you episodes ago... that we were going to come back to these stories of wrath."* The grace-saturated backdrop ("walking the blood path, putting the bow in the clouds... grace, grace, grace, grace") is recalled to frame Sodom/Exodus as outliers.
 - **God hears the cry / restorative justice (mishpat) — seeded here for Session 2.** Marty flags the retributive counterpart for later: *"diyn is retributive justice. We'll talk more about this in session two."* The "God who hears the cry" motif is set as a spine running into the Exodus narrative.
 
 ## Narrative Tensions
@@ -119,9 +119,9 @@ flowchart TB
 ## Callbacks (explicit links the hosts make)
 
 - **Genesis 15 — "God said... God said."** Marty: *"This feels very Genesis 15-y to me"* — Moses, like Avram, is reluctant/silent, so God keeps speaking (ties to `1-11-here-i-am.md`).
-- **Walking the blood path & the bow in the clouds.** Named as the grace-saturated backdrop: *"walking the blood path, putting the bow in the clouds... it's just been grace, grace, grace, grace"* (ties to `1-10-walking-the-blood-path.md` and `1-4-his-bow-in-the-clouds.md`).
+- **Walking the blood path & the bow in the clouds.** Named as the grace-saturated backdrop: *"walking the blood path, putting the bow in the clouds... it's just been grace, grace, grace, grace"* (ties to `1-10-walking-the-blood-path.md` and `1-04-his-bow-in-the-clouds.md`).
 - **"We were going to come back to these stories of wrath."** A deliberate deferred-promise callback to earlier episodes, now paid off by revisiting Sodom/Gomorrah alongside the Exodus.
-- **The Genesis arc recap.** Avram (trust/faith), Isaac (faithfulness), Jacob (chutzpah), Joseph/Judah (confession, forgiveness, reconciliation) — "the story of Genesis came full circle" (ties to `1-1-trust-the-story.md` through `1-16-out-of-the-pit.md`).
+- **The Genesis arc recap.** Avram (trust/faith), Isaac (faithfulness), Jacob (chutzpah), Joseph/Judah (confession, forgiveness, reconciliation) — "the story of Genesis came full circle" (ties to `1-01-trust-the-story.md` through `1-16-out-of-the-pit.md`).
 - **The Esau outcry.** Noted as the middle (fifth) occurrence of this form of *tsa'aqah* — "He cries out when he's deceived" (ties back to the Jacob/Esau material, eps. 13–15).
 
 ## Discussion Questions

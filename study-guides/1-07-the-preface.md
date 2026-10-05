@@ -1,7 +1,7 @@
 # The Preface
 
 BEMA 7 · Session 1
-Source transcript: `~/workspace/bema/transcripts/1-7-the-preface.md`
+Source transcript: `~/workspace/bema/transcripts/1-07-the-preface.md`
 Book: Genesis (review of Genesis 1–11; center text Genesis 5:28–29)
 Hosts: Marty Solomon (host), Brent Billings (co-host)
 
@@ -27,11 +27,11 @@ Hosts: Marty Solomon (host), Brent Billings (co-host)
 
 ## Recurring Through-lines
 
-- **Trust the story (the arc itself).** This episode names the thread explicitly and makes it the thesis of the entire preface. Marty: *"the preface of God's story really is an invitation to what we're going to say over and over again: Trust the Story."* The phrase is first named in `1-1-trust-the-story`; here it is shown to be the center of the whole Genesis 1–11 structure. Recurs across Session 1; condensed again at the Session 1 capstone (episode 32).
-- **Knowing when to say "enough" / the goodness of creation.** Explicitly present as the recurring content of the chiasms: creation = *"a God who knew when to stop, when to say enough,"* and the flood = *"a God who knew how to stop, stop destroying."* Anchored in `1-2-knowing-when-to-say-enough`; flagged here as the repeated motif, not re-explained.
+- **Trust the story (the arc itself).** This episode names the thread explicitly and makes it the thesis of the entire preface. Marty: *"the preface of God's story really is an invitation to what we're going to say over and over again: Trust the Story."* The phrase is first named in `1-01-trust-the-story`; here it is shown to be the center of the whole Genesis 1–11 structure. Recurs across Session 1; condensed again at the Session 1 capstone (episode 32).
+- **Knowing when to say "enough" / the goodness of creation.** Explicitly present as the recurring content of the chiasms: creation = *"a God who knew when to stop, when to say enough,"* and the flood = *"a God who knew how to stop, stop destroying."* Anchored in `1-02-knowing-when-to-say-enough`; flagged here as the repeated motif, not re-explained.
 - **Sabbath / rest.** The center text resolves into rest: Brent — *"Sounds like rest"*; Marty — *"sounds like Sabbath, sounds like rest."* Genuinely present as the payload of the chiasm of chiasms.
 - **The tragedy/obsession/mistrust pattern (failure to trust).** Marty traces it across the fallen stories: *"Instead of a good story, it was about tragedy. Instead of stopping, there was an obsession... Instead of rest, there was mistrust."* The dark mirror of trusting the story; recurs through the Adam-and-Eve, Cain-and-Abel, Noah's-curse, and Babel episodes.
-- **God is loving from the opening pages (not angry-then-nice).** Genuinely implied as a session-long reframe: Marty — *"God has always been loving. From the opening pages, this was a God that sat with Cain and pled with him."* Builds on the character of God surfaced in `1-3-master-the-beast` (the Cain narrative) and `1-4-his-bow-in-the-clouds` (the flood).
+- **God is loving from the opening pages (not angry-then-nice).** Genuinely implied as a session-long reframe: Marty — *"God has always been loving. From the opening pages, this was a God that sat with Cain and pled with him."* Builds on the character of God surfaced in `1-03-master-the-beast` (the Cain narrative) and `1-04-his-bow-in-the-clouds` (the flood).
 
 ## Episode Flow
 
@@ -101,7 +101,7 @@ Prose: the two "good" stories (creation, flood) echo each other — both about t
 - **Tolkien — *The Lord of the Rings* / *The Hobbit* (preface vs. setup).** Marty uses the opening of *LOTR* to distinguish backstory from plot-setup: the "preface" dumps backstory and reshapes your sense of the world (Middle Earth, orcs, elves, dwarves, the Shire, hobbits), while the later chapters in the Shire are the "introduction" that sets up the ring and the plot. Marty: *"it's helping you reframe... reshape... rethink the world that you're looking at."*
 - **Paris Shewey and the whiteboard (the discovery of the chiasm of chiasms).** Teaching his first-ever college group at Washington State University, Marty drew the chiasms on a whiteboard; his student Paris said all of them together form one big chiasm. Marty: *"it dawned on me what Paris was saying. I turned around and looked at the whiteboard and I went, 'Oh my goodness. There is a chiasm of chiasms.'"* Brent frames the pedagogy: *"your student flipped the script and brought you to the point of discovery."*
 - **"The writers of Scripture had help" (a former teacher's joke).** A wry nod to the design evident in the nested structure. Marty: *"it's almost like the writers of Scripture had help, which is always supposed to be a little funny."*
-- **God pleading with Cain (the loving God from the opening pages).** Cited as evidence the OT God is not merely wrathful. Marty: *"this was a God that sat with Cain and pled with him... 'sin is crouching at your door, but my position on you hasn't changed.'"* (Draws on the Cain narrative handled in `1-3-master-the-beast`.)
+- **God pleading with Cain (the loving God from the opening pages).** Cited as evidence the OT God is not merely wrathful. Marty: *"this was a God that sat with Cain and pled with him... 'sin is crouching at your door, but my position on you hasn't changed.'"* (Draws on the Cain narrative handled in `1-03-master-the-beast`.)
 
 ## Discussion Questions
 
@@ -114,7 +114,7 @@ Prose: the two "good" stories (creation, flood) echo each other — both about t
 
 ## Sources
 
-- Transcript: `1-7-the-preface.md`
+- Transcript: `1-07-the-preface.md`
 - [Genesis 5:28–29 (center text, NIV)](https://www.biblegateway.com/passage/?search=Genesis%205%3A28-29&version=NIV)
 - [Genesis 1–11 (the full "preface", NIV)](https://www.biblegateway.com/passage/?search=Genesis%201-11&version=NIV)
 - [Genesis 6–9 (the flood, NIV)](https://www.biblegateway.com/passage/?search=Genesis%206-9&version=NIV)

@@ -1,7 +1,7 @@
 # His Bow in the Clouds
 
 **BEMA 4 · Session 1** — Genesis (Noah and the Flood: Genesis 6–9)
-Source transcript: `transcripts/1-4-his-bow-in-the-clouds.md`
+Source transcript: `transcripts/1-04-his-bow-in-the-clouds.md`
 Speakers: Marty Solomon, Brent Billings, **Elle Grover Fricks** (guest — M.A., Bible in its ancient Near Eastern context, Hebrew University of Jerusalem)
 
 > **Session 1 arc — partnership.** Session 1 traces a God who keeps seeking partners to help him redeem a good creation. The flood story fits the arc precisely: a God grieved by violence who, rather than ruling by fear, disarms himself and binds himself to creation in covenant. Cited: *Marty* — "he keeps wanting to find people to help him redeem it."
@@ -158,7 +158,7 @@ flowchart TB
 
 ## Sources
 
-- Transcript: `1-4-his-bow-in-the-clouds.md`
+- Transcript: `1-04-his-bow-in-the-clouds.md`
 - [Genesis 6:5](https://www.biblegateway.com/passage/?search=Genesis%206%3A5&version=NIV)
 - [Genesis 8:1](https://www.biblegateway.com/passage/?search=Genesis%208%3A1&version=NIV)
 - [Genesis 9:8-17](https://www.biblegateway.com/passage/?search=Genesis%209%3A8-17&version=NIV)

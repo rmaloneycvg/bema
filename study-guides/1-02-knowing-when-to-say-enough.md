@@ -1,7 +1,7 @@
 # Knowing When to Say "Enough"
 
 **BEMA 2 · Session 1** — Genesis (Garden of Eden: Genesis 2:4–3:24)
-Source transcript: `transcripts/1-2-knowing-when-to-say-enough.md`
+Source transcript: `transcripts/1-02-knowing-when-to-say-enough.md`
 
 > **Session 1 arc — partnership.** God is building a covenant partnership with humanity. This episode reads the Eden story not as a tidy fall narrative but as a portrait of what the divine partner is like (a God who knows when to say "enough") and what the human partner is invited to become (an image-bearer who can master desire). The "problems" in the text are the invitation to keep reading.
 
@@ -159,7 +159,7 @@ flowchart TB
 
 ## Sources
 
-- Transcript: `1-2-knowing-when-to-say-enough.md`
+- Transcript: `1-02-knowing-when-to-say-enough.md`
 - [Genesis 2:4-7](https://www.biblegateway.com/passage/?search=Genesis%202%3A4-7&version=NIV)
 - [Genesis 2:8-9](https://www.biblegateway.com/passage/?search=Genesis%202%3A8-9&version=NIV)
 - [Genesis 2:10-14](https://www.biblegateway.com/passage/?search=Genesis%202%3A10-14&version=NIV)

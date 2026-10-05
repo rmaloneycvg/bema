@@ -37,7 +37,7 @@ Source transcript: `transcripts/1-22-under-the-chuppah.md`
 
 - **The three tests of heart, soul, and might (the Shema).** The immediately-prior arc is carried forward as the courtship that leads to this wedding. Marty: *"on their way, they've had these three tests... God has tested their heart, their soul, and their very—their meod."* Anchored in the prior episodes (`1-20`, `1-21`).
 
-- *(Note: the "master the beast" / sin-as-failing-to-master-the-animal-instinct motif, anchored in `1-3-master-the-beast.md`, is **not** engaged this episode. The sin of the golden calf is framed exclusively as marital adultery under the chuppah, not through the beast/instinct lens, so the motif is not claimed.)*
+- *(Note: the "master the beast" / sin-as-failing-to-master-the-animal-instinct motif, anchored in `1-03-master-the-beast.md`, is **not** engaged this episode. The sin of the golden calf is framed exclusively as marital adultery under the chuppah, not through the beast/instinct lens, so the motif is not claimed.)*
 
 ## Narrative Tensions
 

@@ -132,7 +132,7 @@ flowchart LR
 ## Callbacks (explicit links the hosts make)
 
 - **Tale of Two Kingdoms** (the Session-1 frame from the Exodus arc, e.g. `1-18-a-tale-of-two-kingdoms.md`). Marty: *"We call this narrative a 'Tale of Two Kingdoms.' There's a Kingdom of Empire and there's a Kingdom of Shalom."*
-- **The preface** (ties to `1-7-the-preface.md`). Marty: *"Genesis 1-11 is the preface... all about goodness and trusting the story."*
+- **The preface** (ties to `1-07-the-preface.md`). Marty: *"Genesis 1-11 is the preface... all about goodness and trusting the story."*
 - **Sinai as a wedding / under the chuppah** (ties to `1-22-under-the-chuppah.md`). Marty: *"we talked about a chuppah and the Ten Commandments."*
 - **The kingdom of priests** (ties to `1-25-a-kingdom-of-what.md`). Marty: *"God called you at the very beginning... a kingdom of priests."*
 - **The desert images — shepherd, rotem, acacia, wadi, En Gedi** (ties to `1-26` through `1-29`). Brent: *"we get to see what shepherds do... found a rotem bush... we find the acacia... we've seen a couple of wadi floods, and we've stumbled on a couple of En Gedis."*

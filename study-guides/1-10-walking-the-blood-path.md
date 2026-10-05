@@ -136,10 +136,10 @@ Prose: Fohrman notes the repetition that made Brent's eyes glaze over is the tel
 
 ## Callbacks
 
-- **Tower of Babel — the "and X said" silence device.** The repeated speaker tag with nothing between recurs from Babel. Marty: *"we saw this in the Tower of Babel episode where the people said stuff and then God said nothing."* (See `1-6-a-tale-of-a-tower.md`.)
+- **Tower of Babel — the "and X said" silence device.** The repeated speaker tag with nothing between recurs from Babel. Marty: *"we saw this in the Tower of Babel episode where the people said stuff and then God said nothing."* (See `1-06-a-tale-of-a-tower.md`.)
 - **Adam's "deep sleep" (tardemah).** The same Hebrew phrase links Genesis 15's covenant to the forming of Adam's partner — framing it as a betrothal. Marty: *"what happened while he was in a deep sleep?"* Brent: *"His partner was formed."*
-- **Noah's covenant chiasm (rainbow and clouds).** The Genesis 17 repetition is matched to the Noah covenant's chiastic repetition. Marty: *"Sounds very reminiscent of when we were in Noah's story... That was a chiasm."* (See `1-4-his-bow-in-the-clouds.md`.)
-- **Going down to Egypt (previous episode).** The Egypt consequence pays off the prior discussion of whether going to Egypt was wrong. Marty: *"this is last episode you said, is going down to Egypt necessarily a bad thing?"* (See `1-9-letting-go.md`.)
+- **Noah's covenant chiasm (rainbow and clouds).** The Genesis 17 repetition is matched to the Noah covenant's chiastic repetition. Marty: *"Sounds very reminiscent of when we were in Noah's story... That was a chiasm."* (See `1-04-his-bow-in-the-clouds.md`.)
+- **Going down to Egypt (previous episode).** The Egypt consequence pays off the prior discussion of whether going to Egypt was wrong. Marty: *"this is last episode you said, is going down to Egypt necessarily a bad thing?"* (See `1-09-letting-go.md`.)
 - **Altars/tents vs. towers (character review).** Abram's mobility over settling, carried in from the Babel contrast, is the proof of character that sets up Genesis 15. Marty: *"build altars and pitch tents rather than build towers and settle down."*
 - **Forward-pointing nods.** "A huge verse for us New Testament followers" (Gen 15:6 → Galatians, "about 200 episodes from now"); the sacrifice of Isaac ("God made a promise to always provide"); and "the God who sees me" as a recurring Genesis theme.
 

@@ -1,7 +1,7 @@
 # Buried in a Genealogy
 
 BEMA 8 · Session 1
-Source transcript: `~/workspace/bema/transcripts/1-8-buried-in-a-genealogy.md`
+Source transcript: `~/workspace/bema/transcripts/1-08-buried-in-a-genealogy.md`
 Book: Genesis (center texts Genesis 11:27–32; Genesis 20:12)
 Guest: Elle Grover Fricks (BEMA teaching team; Hebrew / ancient Near East)
 
@@ -25,7 +25,7 @@ Guest: Elle Grover Fricks (BEMA teaching team; Hebrew / ancient Near East)
 ## Recurring Through-lines
 
 - **Trust the story (the Session 1 arc) — Avram is its first positive exemplar.** Marty names it directly: *"God has found a character that's willing to trust the story and not work out of fear and insecurity... This is somebody who knows how to trust the story."* After a preface of grasping and mistrust, Avram embodies the arc the whole session is building toward — partnership rooted in trust, not fear.
-- **Knowing when to say "enough" / putting self aside.** Marty folds this episode back into the earlier lesson: *"This is somebody that knows when it's time to say enough, put self aside and give to others."* Avram's refusal to leverage Sarai for alliance or prestige is "enough" lived out. (Cross-reference `1-2-knowing-when-to-say-enough.md`; do not re-explain there.)
+- **Knowing when to say "enough" / putting self aside.** Marty folds this episode back into the earlier lesson: *"This is somebody that knows when it's time to say enough, put self aside and give to others."* Avram's refusal to leverage Sarai for alliance or prestige is "enough" lived out. (Cross-reference `1-02-knowing-when-to-say-enough.md`; do not re-explain there.)
 - **Contrast with the preface's failures (fear, insecurity, grasping).** The episode is explicitly measured against Adam & Eve, Cain & Abel, Noah's vineyard, and Babel — Marty: *"what a contrast."* Where those acted "out of fear and insecurity," Avram acts out of trust and compassion.
 - **Midrash as a BEMA practice ("look, and then look again").** Elle: *"they're still working toward solving the same issue in the Text. Why is this here?"* The method of surfacing problems and letting Jewish tradition resolve them recurs across the podcast.
 
@@ -99,7 +99,7 @@ Prose: Walking the slides, the hosts surface the "problems" (Iscah's dangling me
 
 ## Callbacks
 
-- **Noah and the vineyard — Shem (and Japheth) covering their father.** The singular-verb/"of one mind" principle is drawn straight from that earlier episode. Marty: *"when Shem and Japheth took the blanket, it was Shem's idea... but they were of one mind to do a benevolent act."* (See `1-5-a-misplaced-curse.md`.)
+- **Noah and the vineyard — Shem (and Japheth) covering their father.** The singular-verb/"of one mind" principle is drawn straight from that earlier episode. Marty: *"when Shem and Japheth took the blanket, it was Shem's idea... but they were of one mind to do a benevolent act."* (See `1-05-a-misplaced-curse.md`.)
 - **The table of nations / Noah's sons listed in differing orders.** Used to justify holding birth order loosely. Marty: *"We've seen that in the Noah story... one order of the sons coming out of the ark... another order in the table of nations."*
 - **The preface's failing characters (Adam & Eve, Cain & Abel, Babel).** Explicitly contrasted with Avram as the first to "trust the story." Marty: *"when I think about Cain and Abel... Tower of Babel... what a contrast."*
 - **Forward-pointing nod: women spotlighted in genealogies (Jesus's line).** Elle: *"if we jump way out in the story, we talk about Jesus's genealogy... there are women in his line. And that stands out."* A deliberate "spoiler alert" that this pattern recurs.
@@ -115,7 +115,7 @@ Prose: Walking the slides, the hosts surface the "problems" (Iscah's dangling me
 
 ## Sources
 
-- Transcript: `1-8-buried-in-a-genealogy.md`
+- Transcript: `1-08-buried-in-a-genealogy.md`
 - [Genesis 11:27-32 (NIV)](https://www.biblegateway.com/passage/?search=Genesis%2011%3A27-32&version=NIV)
 - [Genesis 20:12 (NIV)](https://www.biblegateway.com/passage/?search=Genesis%2020%3A12&version=NIV)
 - Referenced resources named in the episode (not web-fetched): Sandra Richter, *Epic of Eden*; Ibn Ezra; Talmud / rabbinic Midrash; Jewish Women's Archive; Rabbi David Fohrman; Code of Hammurabi; 2 Timothy 3:16.

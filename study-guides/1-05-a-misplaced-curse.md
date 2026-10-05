@@ -1,7 +1,7 @@
 # A Misplaced Curse
 
 **BEMA 5 · Session 1** — Genesis (Noah's vineyard and curse: Genesis 9:18–29; with Deuteronomy 22:30)
-Source transcript: `transcripts/1-5-a-misplaced-curse.md`
+Source transcript: `transcripts/1-05-a-misplaced-curse.md`
 Speakers: Marty Solomon (host), Brent Billings (co-host), **Reed Dent** (guest — BEMA teaching team; campus minister, Campus Christian Fellowship, Truman State University)
 
 > **Session 1 arc — partnership.** Session 1 traces a God who keeps seeking partners to help him redeem a good creation, repeatedly inviting people to trust his way over their own. This episode is the next beat in that invitation: just as Adam and Eve were invited to trust the limit on *creating* and Noah's generation faced the limit on *destroying*, Noah himself is now invited to stop the cycle of destruction — and, tragically, refuses. Cited: *Marty* — "the flood was about learning how to stop destroying. So the next story is now the invitation for Noah to trust. Can you stop destroying? And the answer to that question ends up tragically being no."
@@ -143,7 +143,7 @@ flowchart LR
 
 ## Sources
 
-- Transcript: `1-5-a-misplaced-curse.md`
+- Transcript: `1-05-a-misplaced-curse.md`
 - [Genesis 9:18-19](https://www.biblegateway.com/passage/?search=Genesis%209%3A18-19&version=NIV)
 - [Genesis 9:18-20](https://www.biblegateway.com/passage/?search=Genesis%209%3A18-20&version=NIV)
 - [Genesis 9:20-21](https://www.biblegateway.com/passage/?search=Genesis%209%3A20-21&version=NIV)

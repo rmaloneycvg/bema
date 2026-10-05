@@ -30,7 +30,7 @@ Book: Genesis (Genesis 18:1–15; 21:1–21; 22:1–14; with Genesis 19–20 sum
 - **The God who sees / being seen (session motif).** Explicitly named as "a theme." Marty: *"part of trusting the story is really truly believing that God sees us."* Runs from Hagar's "the God who sees me" through the Mamre see/appear/fear wordplay to "The LORD will provide" (= *see*). The episode's climactic reading is "the willingness to be seen."
 - **Chutzpah — the family of God argues face-to-face.** Named as "an element and a component of the character of the family of God that we're going to see in multiple people." Abraham over Sodom is the anchor instance; its *apparent absence* at the Akedah is the episode's central tension.
 - **Partnership / God sanctifying his partner gradually (Session 1 arc = partnership).** The recap: "God is expecting that this relationship is progressing... He takes them further into righteousness and justice." Abraham is "not a pure hero," a "messy faith, just like your faith."
-- **"Master the beast" / insulator–assimilator–engager.** Via the Noah/Lot/Abraham typology: Lot "the assimilator" bows but won't look like a freak; Noah "the insulator"; Abraham "the engager" who stands and argues. Flag for cross-reference to `1-3-master-the-beast.md` and Session 6 Episode 210; do not re-explain there.
+- **"Master the beast" / insulator–assimilator–engager.** Via the Noah/Lot/Abraham typology: Lot "the assimilator" bows but won't look like a freak; Noah "the insulator"; Abraham "the engager" who stands and argues. Flag for cross-reference to `1-03-master-the-beast.md` and Session 6 Episode 210; do not re-explain there.
 - **Laughter (Isaac) as a thread that can be told with a "good eye" or an "evil eye."** Sarah reframes her laughter redemptively in Genesis 21. Marty: *"she's figured out how to frame her story the way that she thinks God's inviting her to frame her story... she's told it with a good eye."*
 
 ## Narrative Tensions
@@ -120,7 +120,7 @@ Prose: *Hineni* bookends the account (to God) and sits at its very center (to Is
 - **The blood-path covenant and gradual sanctification** (`1-10-walking-the-blood-path.md`) — "God makes a blood path covenant... God is expecting that this relationship is progressing."
 - **Mistreatment of Hagar** (prior episode) — "the dysfunction continues with the mistreatment of Hagar... God meets him there."
 - **"The God who sees me" (Hagar)** — explicitly recalled: *"We've already seen Hagar say, 'The God who sees me.' This is a theme."*
-- **Tower of Babel** (`1-6-a-tale-of-a-tower.md`) — Marty, on functioning out of insecurity: *"like the Tower of Babel, like the last time we had Josh on."*
+- **Tower of Babel** (`1-06-a-tale-of-a-tower.md`) — Marty, on functioning out of insecurity: *"like the Tower of Babel, like the last time we had Josh on."*
 - **The three "stories of wrath" (flood, Sodom, Exodus)** — flagged forward for a dedicated later treatment; Sodom and Gomorrah deferred here.
 - **Jesus' "before Abraham was, I am"** — Marty's forward link: *"before Abraham decided to be present on the mountain, I was present on the mountain"* and the garden arrest ("Hineni").
 

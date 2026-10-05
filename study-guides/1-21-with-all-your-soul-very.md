@@ -51,7 +51,7 @@ Marty Solomon, Brent Billings, and returning guest Reed Dent continue the three 
 
 - **His bow in the clouds / walking the blood path — the consistent, self-giving character of God (callback to Episodes 4 and 10).** The rock scene is explicitly tied to those earlier images of a God who absorbs the cost. Marty: *"It's the God that will put his bow in the clouds. It's the God that will walk the blood path on our behalf. This is who God has always been through Genesis and Exodus. This is not some angry God."*
 
-- *(Note: the "master the beast" / sin-as-failing-to-master-the-animal motif from `1-3-master-the-beast.md` is not engaged this episode — the struggle is framed through the soul/might tests and communal generosity, not the beast/instinct lens, so the motif is not claimed. The El Shaddai "God who knows when to say enough" motif from Episode 2 is likewise not invoked here.)*
+- *(Note: the "master the beast" / sin-as-failing-to-master-the-animal motif from `1-03-master-the-beast.md` is not engaged this episode — the struggle is framed through the soul/might tests and communal generosity, not the beast/instinct lens, so the motif is not claimed. The El Shaddai "God who knows when to say enough" motif from Episode 2 is likewise not invoked here.)*
 
 ## Narrative Tensions
 

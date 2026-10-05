@@ -1,7 +1,7 @@
 # Letting Go
 
 **BEMA 9 · Session 1** — Genesis (The call of Abram and his first adventures: Genesis 12:1–14:24)
-Source transcript: `transcripts/1-9-letting-go.md`
+Source transcript: `transcripts/1-09-letting-go.md`
 
 > **Session 1 arc — partnership.** God has found a partner willing to "do the right thing on behalf of others," and now the partnership gets its charter: *lech-lecha*, "Go." This episode watches Abram learn how to be God's partner the hard way — he leaves everything, builds a logical plan, watches it backfire in Egypt, and then has to decide whether a mistake will become his story. The lesson he keeps relearning is the backbone of the whole corpus: do the next right thing and **trust the story** — trust God to make good on God's own promises.
 
@@ -43,7 +43,7 @@ Read for the problems: the weird Canaanites-and-Perizzites verse, the "sister"/"
 
 - **Trust the story (the backbone arc).** This episode is one of the clearest statements of the arc: Abram's whole journey is a cycle of making a plan, watching it fail, and choosing to "trust the story" again. Cited: *Marty* — "do what's right, trust the story, trust God to take care of the rest." He "trusted the story in Genesis 13, and he doubles down on trusting the story in Genesis 14." The constancy of God's priority — bless the world through a faithful partner — is what Abram learns to lean back into. This is the arc the whole corpus keeps returning to.
 
-- **Sin as failing to master the animal instinct ("master the beast").** Grasping for control — forcing the plan with Lot, forcing the plan in Egypt — is the impulse Abram must learn to let go. The explicit tie is Cain and Abel: two relatives quarreling in a field. Cited: *Marty* — "Have we heard a story... already in the Genesis narrative about two brothers arguing in a field?" / *Brent* — "that one didn't work out very well." Abram refuses to let the field-quarrel escalate the way Cain's did; he masters the impulse and lets Lot pick. Same dynamic anchored in `1-3-master-the-beast.md`.
+- **Sin as failing to master the animal instinct ("master the beast").** Grasping for control — forcing the plan with Lot, forcing the plan in Egypt — is the impulse Abram must learn to let go. The explicit tie is Cain and Abel: two relatives quarreling in a field. Cited: *Marty* — "Have we heard a story... already in the Genesis narrative about two brothers arguing in a field?" / *Brent* — "that one didn't work out very well." Abram refuses to let the field-quarrel escalate the way Cain's did; he masters the impulse and lets Lot pick. Same dynamic anchored in `1-03-master-the-beast.md`.
 
 - **Human being vs. human doing (identity motif).** Abram's worth as a partner is tied to *character* — justice, caring for others first — more than output; God lifts Abram's eyes to the blessing only *after* Abram's character is shown. Cited: *Marty* — "Now that you've shown me your character, now that you've let Lot go first and you let Lot pick, now I want you to lift your eyes." Carried from the "being, not doing" thread of the earlier episodes.
 
@@ -152,7 +152,7 @@ flowchart TB
 
 ## Sources
 
-- Transcript: `1-9-letting-go.md`
+- Transcript: `1-09-letting-go.md`
 - [Genesis 12:1-20 (NIV)](https://www.biblegateway.com/passage/?search=Genesis%2012%3A1-20&version=NIV)
 - [Genesis 12:1 (NIV)](https://www.biblegateway.com/passage/?search=Genesis%2012%3A1&version=NIV)
 - [Genesis 12:4-5 (NIV)](https://www.biblegateway.com/passage/?search=Genesis%2012%3A4-5&version=NIV)
