@@ -7,7 +7,7 @@ Source transcript: `transcripts/1-master-the-beast-3.md`
 
 ## Key Lessons
 
-Frame everything against the arc: **trust the story — God does not change what he wants or what matters.** This episode makes the arc almost explicit: God's position on humanity has not changed since the garden; only humanity's position on itself has.
+This episode makes the arc almost explicit: God's position on humanity has not changed since the garden; only humanity's position on itself has.
 
 - **Being human means mastering the beast — saying "enough" to desire, fear, and shame.** This is the anchor lesson of the motif. Sin is the animal instinct crouching at the door, and the human calling is to rule it rather than be ruled. Cited: *Marty* — "What it means to be made in the image of God is to realize that you are more than an animal. You are more than a beast... you must master this beast. You have to master this desire." This is the *same* invitation as the Eden "knowing when to say enough" lesson — God's priority is constant across the arc.
 

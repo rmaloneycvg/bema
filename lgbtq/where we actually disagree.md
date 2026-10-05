@@ -1,6 +1,5 @@
 # Where We Actually Disagree
 
-**A shared map for a conversation at Discovery Church, Broomfield**
 
 ---
 
@@ -12,53 +11,36 @@ So this is the other kind of document. It lays out where I think **you are stron
 
 I'd rather be understood than agreed with, and I'd rather be corrected than deferred to.
 
-## Where I stand, with no ball hidden
-
-I hold an affirming view. I'm telling you that at the top rather than letting you discover it later, because I've seen what happens to trust when someone leads with process and reveals a conviction three meetings in.
-
-**I am not asking Discovery to adopt my view.** I don't think it would be honest for me to ask that, and I don't think a church should change a conviction because one member pushed. What I'm asking for is in §6, and it doesn't require you to move an inch theologically.
-
-I also want to say this plainly: **I think your position is held in good faith by people who love Scripture and love people.** I don't think it's bigotry with a proof text. I've watched this church care for people at real cost. That's why I'm bringing this here instead of leaving quietly, which was the other option available to me.
-
 ---
 
 ## 1. What I think you have right
 
 These are the places where I think the traditional reading is genuinely strong. I'm not listing them as setup. I'm listing them because if I can't state your case at its best, I have no business asking you to consider mine.
 
-### 1.1 The distinction between ethical law and identity markers
 
-This is, I think, your strongest argument — and I only understood it properly by studying the BEMA material I'm citing.
-
-Second-Temple Judaism divided Torah three ways: **cultic law** (needs a temple; fulfilled in Jesus), **ethical law** (universally true — "the way God made the universe to function"), and *miqsat ma'asay haTorah*, the identity markers that made Israel distinct — circumcision, kosher, tassels, mixed fabrics.
-
-Acts 15 loosed the **identity markers**. It did not loose ethics. And the textual proof is right there: James dropped circumcision and kosher while **explicitly keeping** *porneia*, sexual immorality (Acts 15:20, 29).
-
-So when I point to Acts 15 as a precedent for loosening a boundary, you can fairly answer: *that council loosened the category your argument doesn't apply to, and kept the category it does.* That's a good answer. I've revised my own writing because of it (see §7).
-
-### 1.2 Paul's warrant in Romans 1 is creational, not just cultural
+### 1.1 Paul's warrant in Romans 1 is creational, not just cultural
 
 I argue that Romans 1 is describing Hellenistic idolatry, pederasty, and a Roman dominance ethic — which I do think is true, and which I think matters. But you can grant all of that and still say: **Paul's reasoning appeals to creation, not to local custom.** "Since the creation of the world" (1:20). "Created things rather than the Creator" (1:25). *Para physin* (1:26).
 
 Practices are local. Warrants generalize. If Paul grounds his argument in how things were made rather than in what Rome happened to be doing, then the argument reaches past Rome. I think that's a fair reading of the structure of the passage, and I don't have a knockdown answer to it.
 
-### 1.3 Jesus grounds marriage in Genesis
+### 1.2 Jesus grounds marriage in Genesis
 
 Matthew 19:4–6. Jesus, asked about divorce, goes to Genesis 1 and 2. I don't get to say "Jesus never addressed this." He addressed marriage, and he addressed it by reaching for the creation account.
 
-### 1.4 Two thousand years of near-unanimous reading
+### 1.3 Two thousand years of near-unanimous reading
 
 This is the argument I've given the least weight to and probably should give the most. The church has read these texts one way for almost its entire history, across cultures with radically different sexual mores, including cultures far more permissive than ours. That's not nothing. A reading that emerges in the last few decades, in one corner of the world, in the direction that corner's culture happens to be moving, bears a real burden of proof.
 
 I think there are answers. I also think anyone who waves this away isn't being serious.
 
-### 1.5 Harm does not establish error
+### 1.4 Harm does not establish error
 
-John 6:66 — "many of his disciples turned back and no longer followed him." People left Jesus. That people have left Discovery over this does not, by itself, show the position is wrong. If the gospel never cost anyone anything, it wouldn't be the gospel.
+John 6:66 — "many of his disciples turned back and no longer followed him." People left Jesus. That people often leave over this does not, by itself, show the position is wrong. If the gospel never cost anyone anything, it wouldn't be the gospel.
 
 I won't argue that departures prove you wrong. I'll argue something narrower in §2.5, but I want to concede this cleanly first, because I think the "look how many people left" argument is lazy and I don't want to make it.
 
-### 1.6 Costly discipleship isn't a unique burden
+### 1.5 Costly discipleship isn't a unique burden
 
 Christianity asks hard things of everyone. It asks singleness of some, fidelity in difficult marriages of others, the surrender of money, ambition, autonomy. Celibacy is not a punishment invented for one group; it's a form of life the church has honored for two millennia. The claim "this is too hard to be what God asks" is not, on its own, a Christian argument.
 
@@ -126,7 +108,7 @@ We have a published position on the contested, culturally-embedded, lexically-di
 
 ---
 
-## 3. What I don't think either of us can settle from the text
+## 3. What I don't think either oposing groups can settle from the text
 
 I want to be honest about the limits, including mine.
 
@@ -144,7 +126,7 @@ I want to be honest about the limits, including mine.
 
 ## 4. The place I'd ask us to look at ourselves
 
-I offer this as an observation, not a gotcha, and I might have the facts wrong about Discovery specifically.
+I offer this as an observation, not a gotcha.
 
 Jesus speaks about **divorce and remarriage** directly, repeatedly, and in stronger terms than anything in Scripture addresses same-sex relationships (Matthew 5:31–32, 19:3–9; Mark 10:2–12; Luke 16:18). Most evangelical churches — including, I believe, this one — have quietly arrived at a pastoral practice considerably gentler than those words read plainly. We remarry divorced people. We let them lead. We don't publish a position statement on it.
 
@@ -173,7 +155,6 @@ Two features of it matter here, and one of them cuts against me:
 So I'd ask, genuinely, not rhetorically: **when was this deliberated here? Who was in the room? Were any gay members of this church present?** If the statement was adopted from a network or drafted by staff, then whatever it is, it isn't a binding in the sense the tradition means — and the deliberation is still available to us.
 
 ---
-
 
 ### Referenced
 

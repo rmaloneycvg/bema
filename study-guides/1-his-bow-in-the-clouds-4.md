@@ -8,7 +8,7 @@ Speakers: Marty Solomon, Brent Billings, **Elle Grover Fricks** (guest — M.A.,
 
 ## Key Lessons
 
-Frame everything against the arc: **trust the story — God does not change what he wants or what matters.** The flood story is a second creation account, and the God revealed in it holds the same priorities — redemption over destruction, relationship over fear.
+The flood story is a second creation account, and the God revealed in it holds the same priorities — redemption over destruction, relationship over fear.
 
 - **God hangs up his war-bow — he disarms himself rather than rule by fear.** The *keshet* is a weapon, and it is set in the clouds pointed *upward*, back toward God, not aimed at the earth. Cited: *Marty* — "this God in Genesis doesn't try to leverage fear... he gives away all of his leverage because he doesn't want that kind of relationship." / *Elle* — "the implement of war—same word." This is who God has always been — trust the story.
 

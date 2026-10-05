@@ -1,14 +1,14 @@
 # The Case for Sexual Ethics Equity
 
-**A BEMA-informed appeal to the leadership of Discovery Church, Broomfield, Colorado**
+
 
 ---
 
 ## 0. What this document is — and is not
 
-**This is not an argument that Discovery must become affirming.**
+**This is not an argument that [Traditional Ethics Church] must become affirming.**
 
-It is an argument that Discovery's *formal published position* — that homosexuality is sexual sin — is doing work the biblical text cannot bear on its own, that it functions in practice as a boundary marker rather than a pastoral conviction, and that the people it has pushed out are owed acknowledgment and repair.
+It is an argument that [Traditional Ethics Church]'s *formal published position* — that homosexuality is sexual sin — is doing work the biblical text cannot bear on its own, that it functions in practice as a boundary marker rather than a pastoral conviction, and that the people it has pushed out are owed acknowledgment and repair.
 
 The ask is **equity**, not capitulation:
 
@@ -29,7 +29,7 @@ This is not a weakness in the argument. **It is the argument.** BEMA's method de
 
 ## 1. The Interpretive Toolkit: how the text was built to be read
 
-Discovery's position statement presupposes a **static rulebook** hermeneutic: locate verse, extract proposition, apply. The authors of Scripture did not write that way, and the first readers did not read that way.
+[Traditional Ethics Church]'s position statement presupposes a **static rulebook** hermeneutic: locate verse, extract proposition, apply. The authors of Scripture did not write that way, and the first readers did not read that way.
 
 ### 1.1 PaRDeS — four levels of reading
 
@@ -47,17 +47,17 @@ Two guardrails Marty insists on, which matter enormously for how this conversati
 - **"There's nothing wrong with p'shat."** "The deeper levels are not more true, they're not more inspired than p'shat... God does not work any less at a deeper level, anymore at a deeper level than he does on a shallow level." (BEMA 110)
 - **The levels do not contradict each other.** Depth "widens... it gives it color and depth and life. It doesn't change the meaning." (BEMA 106)
 
-**Why this matters for Discovery:** a *p'shat*-only reading of Romans 1 or Leviticus 18 is not illegitimate. It is *incomplete*. The problem is not that traditionalists read the surface; it is that a *published institutional boundary* has been built on a surface reading of texts whose *remez* and context point somewhere else. Depth does not overturn p'shat — but it does forbid freezing p'shat into law.
+**Why this matters for [Traditional Ethics Church]:** a *p'shat*-only reading of Romans 1 or Leviticus 18 is not illegitimate. It is *incomplete*. The problem is not that traditionalists read the surface; it is that a *published institutional boundary* has been built on a surface reading of texts whose *remez* and context point somewhere else. Depth does not overturn p'shat — but it does forbid freezing p'shat into law.
 
-### 1.2 Discovery *is* the method
+### 1.2 [Traditional Ethics Church] *is* the method
 
 "The Easterner wants you to **discover** truth... An Easterner believes that you understand a thesis... so much better than you would have if I just explained it to you." A rabbi uses a parable "to make the teaching **harder**, more difficult, not easier." (BEMA 110)
 
 And critically:
 
-> "Jewish hermeneutics demands the interaction of more than one student, the *remez* and the *drash* **have to be** discussed, examined, critiqued as a group in the process of group discovery in order for true discovery to take place. This is why learning is done in the context of a *havurah*." (BEMA 110)
+> "Jewish hermeneutics demands the interaction of more than one student, the *remez* and the *drash* **have to be** discussed, examined, critiqued as a group in the process of group [Traditional Ethics Church] in order for true [Traditional Ethics Church] to take place. This is why learning is done in the context of a *havurah*." (BEMA 110)
 
-A published position statement is the structural opposite of a *havurah*. It replaces group discovery with a settled answer and makes dissent a deviation rather than a contribution.
+A published position statement is the structural opposite of a *havurah*. It replaces group [Traditional Ethics Church] with a settled answer and makes dissent a deviation rather than a contribution.
 
 ### 1.3 "Stringing pearls" and *remez* — Paul's actual method
 
@@ -77,13 +77,13 @@ From **BEMA 95, *Abolish or Fulfill*** (Matthew 5:17–20):
 
 > "When a rabbi says he's **fulfilling** Torah, it means that he is **interpreting it correctly**... you have to interpret it intellectually correctly, and then you have to back it up with your behavior and your obedience in your walk, and then you are fulfilling it. If you don't do that process, it's called **abolishing**... You can abolish Torah by interpreting it intellectually incorrectly... You can also abolish it by interpreting it the right way, but not walking it out correctly." (BEMA 95)
 
-**This is the sharpest available challenge to a position statement.** By this definition, a *correct* interpretation walked out in a way that strips dignity, withholds hospitality, and drives people out is **not fulfillment. It is abolishment.** Orthodoxy of statement plus failure of walk equals abolishing Torah. Discovery cannot claim to be "holding the line on Scripture" while producing exiles; on Jesus' own rabbinic definition, that combination is the failure mode.
+**This is the sharpest available challenge to a position statement.** By this definition, a *correct* interpretation walked out in a way that strips dignity, withholds hospitality, and drives people out is **not fulfillment. It is abolishment.** Orthodoxy of statement plus failure of walk equals abolishing Torah. [Traditional Ethics Church] cannot claim to be "holding the line on Scripture" while producing exiles; on Jesus' own rabbinic definition, that combination is the failure mode.
 
 ### 1.5 "But I say unto you" — commands aim at formation, not compliance
 
 > "Contrary to most popular thought, Jesus is **not upping the ante** for God's expectation. Jesus is claiming that this was **always** God's expectation... God gave you the commandment 'do not murder' so that through Torah, you would learn how to go and be reconciled to your brother." (BEMA 96, *But I Say Unto You*)
 
-Every command is diagnostic of what it *forms in you toward other people*. Applied honestly: what has the position statement formed at Discovery? If the fruit is exclusion and departure, the interpretation is under suspicion by Jesus' own test — "All these commandments were given so that you would learn how to treat people." (BEMA 96)
+Every command is diagnostic of what it *forms in you toward other people*. Applied honestly: what has the position statement formed at [Traditional Ethics Church]? If the fruit is exclusion and departure, the interpretation is under suspicion by Jesus' own test — "All these commandments were given so that you would learn how to treat people." (BEMA 96)
 
 ### 1.6 Binding and loosing — the community's actual authority
 
@@ -95,24 +95,19 @@ This is the single most important section for the "is there a middle ground?". F
 - **Loosing** = the community decides it does not.
 - "Whatever you bind on earth will be bound in heaven. Whatever you loose on earth will be loosed in heaven." (Matthew 16:19)
 
-> This was done at Discovery but can it be taken back or changed?  Was it premature?  Was the full context known and was this representative of the community or only a few?  
->
-> I don't think this was done well at Discovery.  It lacked visibility. Staff and elders who started this work were not all involved in finishing it.  Did they change like that in the first churches?  Staff bias is greater because of tenure as well.
-
 And the posture that goes with it:
 
 > "To be sure, the community very rarely unanimously agreed on these issues. That would be almost impossible. We're humans. **There would always be groups of people who disagreed**, but the process of binding and loosing was understood. They respected and submitted to the larger opinion of the community. **They didn't leave and go find another church**" (BEMA 140) 
 
-
 > "I wish we knew how to respect the dialogue and opinions of others more... in an ironic twist, **we'd actually preserve the space to disagree in a healthy way.** There are things about the church that we belong to, that I don't agree with... For things that I just have a difference of opinion on, and the whole community has gathered together and they decided that they don't agree with me, I'm going to respect that... **I'm going to still talk about it and learn and push and challenge and wrestle because that's a part of the process together.**" (BEMA 140)
 
-**This is the middle ground Discovery says does not exist — and it is the oldest position in the room.** Acts 15 is a recorded instance of a church with two irreconcilable factions, both convinced they were defending Scripture, who argued it out and produced a ruling that *deliberately under-burdened* the newcomers. ==Note what Acts 15 does **not** produce: a doctrinal statement about who is disqualified.==
+**This is the middle ground [Traditional Ethics Church] says does not exist — and it is the oldest position in the room.** Acts 15 is a recorded instance of a church with two irreconcilable factions, both convinced they were defending Scripture, who argued it out and produced a ruling that *deliberately under-burdened* the newcomers. ==Note what Acts 15 does **not** produce: a doctrinal statement about who is disqualified.==
 
 ---
 
 ## 2. The Audience: who was actually in the room when these texts were written
 
-Discovery's position statement addresses a single undifferentiated audience: "people today, about sexual behavior." The biblical letters never do this. **Audience is the variable that changes the answer.**
+[Traditional Ethics Church]'s position statement addresses a single undifferentiated audience: "people today, about sexual behavior." The biblical letters never do this. **Audience is the variable that changes the answer.**
 
 ### 2.1 The three people groups (Acts 13; Galatians)
 
@@ -128,7 +123,7 @@ From **BEMA 139, *Theosabes***:
 
 Marty notes that modern translations have *erased* this structure: Acts 13:26 in the NIV84 reads "Brothers, children of Abraham, and you God-fearing Gentiles," and the updated NIV dropped "brothers" as redundant. It was not redundant. It was the whole architecture. (BEMA 139)
 
-**The entire New Testament epistolary corpus is a sustained argument about group three.** Every text Discovery cites about sexual behavior was written into that argument — an argument about *who belongs without first being made to conform*.
+**The entire New Testament epistolary corpus is a sustained argument about group three.** Every text [Traditional Ethics Church] cites about sexual behavior was written into that argument — an argument about *who belongs without first being made to conform*.
 
 ### 2.2 The three groups in Rome (Romans 1–3)
 
@@ -146,7 +141,7 @@ Historical context (BEMA 149): Claudius expelled Jews from Rome c. AD 51 (cf. Ac
 
 > "Paul's point is **not** one of these groups has any more claim to the Gospel, has any more claim to God's love... **You think you're better than the Gentiles. You're not.** You Gentiles think you're better than those Gentiles? No, you're not. We all have the same problem." (BEMA 149)
 
-**Romans is a blended-family reconciliation letter written to a congregation fighting about who belongs.** That is Discovery's exact situation. The letter's own argument turns on its readers at 2:1 the moment they use chapter 1 as a weapon.
+**Romans is a blended-family reconciliation letter written to a congregation fighting about who belongs.** That is [Traditional Ethics Church]'s exact situation. The letter's own argument turns on its readers at 2:1 the moment they use chapter 1 as a weapon.
 
 ---
 
@@ -154,7 +149,7 @@ Historical context (BEMA 149): Claudius expelled Jews from Rome c. AD 51 (cf. Ac
 
 ### 3.1 Romans 1:18–32 — the central text
 
-This is the passage Discovery's position most depends on. BEMA's treatment is direct:
+This is the passage [Traditional Ethics Church]'s position most depends on. BEMA's treatment is direct:
 
 > "Here's this passage we're not going to deal with — Paul has just gotten done literally **defining Hellenism**. What he is speaking to is a pagan Hellenism. The two paragraphs that follow are exact descriptions of how that pagan reality lived itself out. Now, **it is foolish if we take those two paragraphs, jump 2000 years in the future, and then apply it to our understanding of some of those same words.**" (BEMA 149)
 
@@ -200,7 +195,8 @@ The Genesis 18–19 frame is **hospitality**. Genesis 18 opens with Abraham, day
 
 > "He begins to denounce them because they did not **repent**... The problem is not their belief. The problem is their repentance. **This group of people, they believe more than any of the five groups.** They totally believe. They know their Text. They've got it all memorized. They're committed to walking it out. **They're not hypocrites**, in the sense that we think of hypocrites as two-faced." (BEMA 106)
 
-> ### Note:
+### Note:
+
 > The documented rigorus education of all children and what they memorized and practiced debating is shown in much more detail in other BEMA transcripts, intense
 
 > "It's that in their devotion and in their walk of obedience, **they don't take care of the poor, the needy among them, those on the outside.**" (BEMA 106)
@@ -237,11 +233,11 @@ Marty even says of James's three prohibitions: "**You can call it ethical law if
 - **Isaiah 56:4** — God's own criteria for restoring an excluded sexual minority: keep my Sabbaths, choose what pleases me, hold fast to my covenant.
 - **Matthew 5:21–30** — every command is measured by what it forms in you toward other people (BEMA 96).
 
-**The ask, precisely stated:** not that ethical law be loosed, but that it be applied as the functional test BEMA's own definition says it is. And note that this is not the lax option. Applied consistently to exploitation, hoarding, and covenant-breaking, it indicts a great deal of heterosexual practice about which Discovery has published nothing.
+**The ask, precisely stated:** not that ethical law be loosed, but that it be applied as the functional test BEMA's own definition says it is. And note that this is not the lax option. Applied consistently to exploitation, hoarding, and covenant-breaking, it indicts a great deal of heterosexual practice about which [Traditional Ethics Church] has published nothing.
 
 `[outside]` The two most-cited vice-list terms, **μαλακοί** (*malakoi*) and **ἀρσενοκοῖται** (*arsenokoitai*) in 1 Corinthians 6:9, are not discussed in the BEMA transcripts and should not be attributed to them. *Malakos* means "soft" and is used elsewhere of fine clothing (Matthew 11:8). *Arsenokoitēs* is rare enough that Paul may have coined it, and its precise referent is disputed among scholars who read Greek professionally. **The claim here is not that the term is novel in English** — the KJV's "abusers of themselves with mankind" (1611) shows the referent was read into it long before the word "homosexual" existed. The claim is narrower and holds: this is a **contested lexical judgment**, and a contested lexical judgment is an unstable foundation for an institutional boundary.
 
-Note also what the surrounding list contains — "thieves, the greedy, drunkards, slanderers, swindlers" (1 Cor 6:10). Discovery has published no position on greed or slander. **The list is being mined, not read**, and that selectivity is itself part of what this document is asking about.
+Note also what the surrounding list contains — "thieves, the greedy, drunkards, slanderers, swindlers" (1 Cor 6:10). [Traditional Ethics Church] has published no position on greed or slander. **The list is being mined, not read**, and that selectivity is itself part of what this document is asking about.
 
 
 ---
@@ -323,7 +319,7 @@ The literal dividing wall in the Herodian temple was the one that kept the eunuc
 | | **Eastern / Second-Temple frame** | **Western / post-Enlightenment frame** |
 |---|---|---|
 | **Authority** | Text + community discernment (binding & loosing, Matthew 16:19) | Text + propositional statement |
-| **Goal of study** | Discovery, wrestling, *havurah* (BEMA 110) | Correct answer, settled position |
+| **Goal of study** | [Traditional Ethics Church], wrestling, *havurah* (BEMA 110) | Correct answer, settled position |
 | **Nature of truth** | Absolute truths exist; most application is gray, left to us (BEMA 140) | Truth as a static system; gray = compromise |
 | **"Fulfilling" Torah** | Interpret rightly **and** walk it rightly (BEMA 95) | Affirm the right doctrine |
 | **Disagreement** | Expected; unanimity "almost impossible"; you stay (BEMA 140) | Resolved by statement; dissenters exit |
@@ -339,7 +335,7 @@ A formal position statement is a Western artifact deployed on an Eastern text. T
 
 ## 6. Four cultures, one question
 
-The heaviest weight belongs to the culture at time of writing. The later columns exist to show that Discovery's "traditional" position is itself a cultural artifact with a datable history.
+The heaviest weight belongs to the culture at time of writing. The later columns exist to show that [Traditional Ethics Church]'s "traditional" position is itself a cultural artifact with a datable history.
 
 ### 6.1 Culture at time of writing (c. 1400 BC – AD 100) — **primary weight**
 
@@ -353,15 +349,15 @@ The heaviest weight belongs to the culture at time of writing. The later columns
 | **Sexual minority actually in view** | **Eunuchs** — excluded by Deuteronomy 23:1, readmitted by Isaiah 56, baptized in Acts 8. |
 | **What a biblical author condemning male-male sex is condemning** | Idolatrous Hellenistic cultus, the abuse of boys, and the dominance ethic — "the horrible dysfunction of Roman inappropriate sexuality" (BEMA 149). |
 
-**The decisive point:** the biblical authors are addressing **exploitation, idolatry, and domination**. Discovery's position statement addresses **covenanted, mutual, consensual partnership between adults**. These are different subjects. The statement is not applying the text; it is transplanting vocabulary across a categorical gap the text itself does not bridge.
+**The decisive point:** the biblical authors are addressing **exploitation, idolatry, and domination**. [Traditional Ethics Church]'s position statement addresses **covenanted, mutual, consensual partnership between adults**. These are different subjects. The statement is not applying the text; it is transplanting vocabulary across a categorical gap the text itself does not bridge.
 
 ### 6.2 c. 1600 — Reformation / early modern
 
-`[outside]` Same-sex acts were criminal ("sodomy" statutes, England 1533) and capital. The category was **act**, not identity. Crucially, "sodomy" in this period was a broad and unstable legal category covering various non-procreative acts — and Genesis 19 was read as its charter, *against* Ezekiel 16:49's own stated indictment. The Reformation's interpretive gains — original languages, grammatical-historical reading — were not applied here; Genesis 19 was read allegorically-moralistically, exactly the method the Reformers rejected elsewhere. **Discovery's position inherits a pre-critical reading of Sodom that Ezekiel contradicts.**
+`[outside]` Same-sex acts were criminal ("sodomy" statutes, England 1533) and capital. The category was **act**, not identity. Crucially, "sodomy" in this period was a broad and unstable legal category covering various non-procreative acts — and Genesis 19 was read as its charter, *against* Ezekiel 16:49's own stated indictment. The Reformation's interpretive gains — original languages, grammatical-historical reading — were not applied here; Genesis 19 was read allegorically-moralistically, exactly the method the Reformers rejected elsewhere. **[Traditional Ethics Church]'s position inherits a pre-critical reading of Sodom that Ezekiel contradicts.**
 
 ### 6.3 c. 1900 — high modernity
 
-`[outside]` The pivot. "Homosexual" (coined 1869) enters English usage; the question shifts from *act* to *type of person*, framed medically as pathology. Church teaching absorbs the new category and retrofits it onto ancient texts. The phrase "homosexuality is sin" — the grammar of Discovery's statement, predicating sin of a **condition or orientation** rather than an act — is **not available before this period**. It is a roughly 120-year-old formulation, not an ancient one. In 1946 the RSV renders *arsenokoitai* "homosexuals," and the retrofit becomes visible in the English Bible itself.
+`[outside]` The pivot. "Homosexual" (coined 1869) enters English usage; the question shifts from *act* to *type of person*, framed medically as pathology. Church teaching absorbs the new category and retrofits it onto ancient texts. The phrase "homosexuality is sin" — the grammar of [Traditional Ethics Church]'s statement, predicating sin of a **condition or orientation** rather than an act — is **not available before this period**. It is a roughly 120-year-old formulation, not an ancient one. In 1946 the RSV renders *arsenokoitai* "homosexuals," and the retrofit becomes visible in the English Bible itself.
 
 ### 6.4 Now
 
@@ -376,7 +372,7 @@ The heaviest weight belongs to the culture at time of writing. The later columns
 | Can you predicate sin of a *condition*? | Category unavailable | No | **Yes — new** | Contested |
 | Is the live question "who belongs?" | **Yes** | No | No | **Yes** |
 
-The first and last columns share the live question. **Discovery's position statement is framed in the grammar of the 1900 column** — the one column with no biblical warrant for its central move.
+The first and last columns share the live question. **[Traditional Ethics Church]'s position statement is framed in the grammar of the 1900 column** — the one column with no biblical warrant for its central move.
 
 ---
 
@@ -396,7 +392,7 @@ BEMA's organizing frame for the whole canon, from Session 1:
 | Toward outsiders | Exclusion, leverage | Hospitality |
 | Sexuality | Dominance, penetration, use | Mutuality, covenant, non-exploitation |
 
-Marty applies this to precisely the panic Discovery's statement responds to, in the Acts 15 episode:
+Marty applies this to precisely the panic [Traditional Ethics Church]'s statement responds to, in the Acts 15 episode:
 
 > "There's a sense of panic and fear that's driving so much of this division because **there's a group of people that can feel the comfort and the privilege of their norm slipping away, and so they're reacting against this.** This is not a new conversation... the Gentiles are flooding in... **Their norm is changing.**" (BEMA 140)
 
@@ -404,7 +400,7 @@ And in the Sodom episode:
 
 > "I think we are so wound up about preserving our comfort and the world that we feel like we built. Now we feel like it's under attack and everybody is out to get us and it's all falling apart and it's no longer this wonderful, comfortable thing for one particular group of people... **but we're so wound up about losing that.**" (BEMA 106)
 
-**Some at Discovery frames the position statement as resisting culture. BEMA's frame names that resistance as Empire's characteristic move: fear of a changing norm, defended by a boundary marker.** ==A statement that produces exiles is enforcement, not invitation.==
+**Some at [Traditional Ethics Church] frames the position statement as resisting culture. BEMA's frame names that resistance as Empire's characteristic move: fear of a changing norm, defended by a boundary marker.** ==A statement that produces exiles is enforcement, not invitation.==
 
 **The usable ethical test.** Where the acts-list has no traction — because the ancient authors were not describing modern covenanted partnership — the canon still supplies a criterion: **does this relationship produce shalom, or does it exploit?** That is the test Ezekiel applies to Sodom (arrogance, excess, neglect of the poor), that Isaiah applies to the eunuch ("keep my Sabbaths... hold fast to my covenant"), and that Jesus applies to the Triangle towns (did your obedience make you care for outsiders?). It is not a lax test. Applied consistently, it indicts a great deal of heterosexual practice the church currently ignores.
 
@@ -412,7 +408,7 @@ And in the Sodom episode:
 
 ## 8. The Marginalized: the non-negotiable, and the one place Scripture *does* speak flatly
 
-If Discovery wants a clear, repeated, unambiguous biblical mandate about a category of people, it exists — and it is not about sexual orientation.
+If [Traditional Ethics Church] wants a clear, repeated, unambiguous biblical mandate about a category of people, it exists — and it is not about sexual orientation.
 
 ### 8.1 Uncut corners (Leviticus 19:9–10; 23:22)
 
@@ -434,15 +430,15 @@ Matthew's genealogy deliberately names Tamar, Rahab, Ruth the Moabite, and "Uria
 
 ### 8.3 What this establishes
 
-The mandate to the alien, orphan, widow, and poor is **stated flatly, repeatedly, and without interpretive ambiguity**. The sexual-ethics texts are **narrow, contested, and addressed to specific cultural practices**. Discovery has published a formal position on the ambiguous category and no formal position on the unambiguous one.
+The mandate to the alien, orphan, widow, and poor is **stated flatly, repeatedly, and without interpretive ambiguity**. The sexual-ethics texts are **narrow, contested, and addressed to specific cultural practices**. [Traditional Ethics Church] has published a formal position on the ambiguous category and no formal position on the unambiguous one.
 
 Ezekiel 16:49, again, is the fusion point: the sin of Sodom is arrogance, excess, and neglect of the needy — and the addressee is Jerusalem.
 
 ---
 
-## 9. Discovery, Posture Shift, and where the seam actually is
+## 9. [Traditional Ethics Church], Posture Shift, and where the seam actually is
 
-Discovery follows the **Posture Shift** framework (postureshift.com). Engaging it on its own terms is essential; it is a serious, pastorally-motivated model, and much of it is genuinely good.
+[Traditional Ethics Church] follows the **Posture Shift** framework (postureshift.com). Engaging it on its own terms is essential; it is a serious, pastorally-motivated model, and much of it is genuinely good.
 
 ### 9.1 Posture Shift in its own words
 
@@ -466,7 +462,7 @@ Discovery follows the **Posture Shift** framework (postureshift.com). Engaging i
 | Distinguishes an *experience* from a *sex act* | Correct — and this is the crack in the position statement (below) |
 | Suffering here is real and mostly unknown to us | Agreed, and it is a reason for humility about publishing |
 
-**Start the conversation here.** Discovery is not being asked to abandon compassion it already professes. It is being asked to notice where its own framework is already straining.
+**Start the conversation here.** [Traditional Ethics Church] is not being asked to abandon compassion it already professes. It is being asked to notice where its own framework is already straining.
 
 ### 9.3 Where the framework does not hold
 
@@ -543,17 +539,28 @@ Caution: the Bible generalizes, and those generalizations must be handled carefu
 4. Ask what the command was formed to produce in you toward other people (BEMA 96).
 5. Ask whether your walk matches your interpretation, because that is the test (BEMA 95).
 
-**What I am not claiming.** I am not claiming "culture has advanced past the Bible," and I am not offering generalizations about contemporary culture as evidence. Every load-bearing claim here is a claim about **the text in its own setting**. The modern material in §6.2–6.4 exists only to date Discovery's formulation — to show that "homosexuality is sin," predicated of a condition, is a roughly 120-year-old sentence, not an ancient one.
+**What I am not claiming.** I am not claiming "culture has advanced past the Bible," and I am not offering generalizations about contemporary culture as evidence. Every load-bearing claim here is a claim about **the text in its own setting**. The modern material in §6.2–6.4 exists only to date [Traditional Ethics Church]'s formulation — to show that "homosexuality is sin," predicated of a condition, is a roughly 120-year-old sentence, not an ancient one.
 
 ---
 
 ## 11. The Ask
 
-### 11.1 Retire the formal position statement
+### 11.1 Retire a formal position statement about sexual ethics stating a **generalization** that LGBTQ+ sex is sinfull
 
-Not: change your convictions. Not: adopt an affirming theology.
+Not: change your convictions. 
+Not: adopt an affirming theology.
 
-**Specifically:** stop publishing a position on this question as an institutional boundary marker.  It would be just as harmful to say we are affirming.  We should be neither intentionally. Remove the Febuary 22 sermon from streaming or maybe follow up with something else.  Discuss the problems with position and why it doesn't work to set that boundary in posture shift classes.  Follow the example of https://www.churchclarity.org/about.  More clarity is needed for honest representation of values.  
+**Specifically:** stop publishing a position on this question as an institutional boundary marker. It is harmful and does no good for the community.  
+
+It is harmful for a church to say it has a tradition sex ethic
+It is harmful for a church to say it is affirming
+
+This discussion should be reframed to what is important.
+
+We should be neither intentionally. 
+
+If a church still insists on declaring a traditional ethic, defining homosexuality as sin, IT WILL NOT MATTER how amazing your supporting loving posture is to the LGBTQ+ community. Many will be offended and respond poorly to this view.  This barrier WILL cause division, anger, and hurt.  However, if this is important to you, 
+it is critical you follow the example of https://www.churchclarity.org/about.  More clarity is needed for honest representation of values. People deserve to know everything about what they are walking in to.  See the link.  Serious spiritual, emotional and psychological harm may occur without full honesty up front without any guise of manipulation or trying to reframe what you're church believes because you do not want to offend the other person!
 
 1. **Category error.** Its principal text (Romans 1) addresses idolatrous Hellenism, pederasty, and a dominance ethic — "it's just not even the same conversation" (BEMA 149).
 2. **Wrong venue.** Contested application belongs to community binding and loosing (Matthew 16:19; Acts 15; BEMA 140), and a published statement pre-empts the *havurah*.
@@ -562,7 +569,7 @@ Not: change your convictions. Not: adopt an affirming theology.
 
 ### 11.2 Apologize, specifically
 
-Not "we could have been kinder." Name the mechanism: **a published boundary marker that made belonging conditional on a contested interpretation, and that stripped dignity and withheld hospitality from people who came looking for the face of God** (BEMA 106). Zach stated this was a non-essential.  The position boundaries makes it essential and non-equitable.
+Not "we could have been kinder." Name the mechanism: **a published boundary marker that made belonging conditional on a contested interpretation, and that stripped dignity and withheld hospitality from people who came looking for the face of God** (BEMA 106). 
 
 Scripture's word for this is *t'shuvah* — return. Peter's Pentecost call was not conversion but repentance: "This is not a conversion, this is a repentance... **He's telling them, 'Come back!'**" (BEMA 135) Repentance is what the Triangle towns *believed* without *doing* (BEMA 106).
 
@@ -577,9 +584,56 @@ Acts 15's failure was repaired: Paul brought Mark back (BEMA 140). The uncut cor
 - Disagreement is structured, not settled: "I'm going to still talk about it and learn and push and challenge and wrestle **because that's a part of the process together**" (BEMA 140).
 - Protect this so it is not re-litigated on individuals: **the cost of disagreement must not be borne by the minority alone.**
 
-### 11.5 The closing appeal, in Discovery's own grammar
 
-Posture Shift says the church should be a "safe refuge." Discovery agrees. The disagreement is only about whether a **published position** can coexist with a **safe refuge**.
+### 11.4.5 The case for inclusive equity, Romans is a chiasm and it tells us (BEMA 155)
+
+BEMA 155 (*Romans – God's Mission, Paul's Mission*) closes the Romans series by revealing the letter's structure. The whole book is an **inclusio** bracketed by the rare phrase **"the obedience of faith"** ([Romans 1:5](https://www.biblegateway.com/passage/?search=Romans+1%3A5&version=NET), [Romans 16:26](https://www.biblegateway.com/passage/?search=Romans+16%3A26&version=NET)) — and that inclusio is a **chiasm** hinging on **"no condemnation"** ([Romans 8:1](https://www.biblegateway.com/passage/?search=Romans+8%3A1&version=NET)). The front half (1–7) describes what the obedience of faith is **not**; the back half describes what it **is**. The point of the whole structure: because there is no condemnation — "not for the Jew, not for the Greek, not for the moralist, not for the... pagan" — there is no "us and them" in the blended family. (BEMA 155)
+
+```mermaid
+flowchart TB
+    START["INCLUSIO opens: 'the obedience of faith' (Rom 1:5)"]
+
+    subgraph FRONT["Front half (Rom 1-7): what obedience is NOT"]
+        direction TB
+        A["A - all fall short (Rom 3:23)"]
+        B["B - all you do is trust (Rom 4)"]
+        C["C - struggle of the flesh / sarx (Rom 7:14-25)"]
+    end
+
+    PIVOT["CENTER: no condemnation in Christ (Rom 8:1)"]
+
+    subgraph BACK["Back half (Rom 9-15): what obedience IS"]
+        direction TB
+        C2["C' - struggle of the clay / vessels (Rom 9:19-23)"]
+        B2["B' - all you do is love (Rom 13:8-10)"]
+        A2["A' - all can instruct (Rom 15:14)"]
+    end
+
+    END["INCLUSIO closes: 'the obedience of faith' (Rom 16:26)"]
+
+    START --> A --> B --> C --> PIVOT --> C2 --> B2 --> A2 --> END
+
+    A -. "mirror" .- A2
+    B -. "mirror" .- B2
+    C -. "mirror" .- C2
+```
+
+**Verse references for each paired level:**
+
+| Level | Front half (what obedience is *not*) | Back half (what obedience *is*) |
+|---|---|---|
+| **Center** | — | **No condemnation** — [Romans 8:1](https://www.biblegateway.com/passage/?search=Romans+8%3A1&version=NET) |
+| **A / A'** | All fall short — [Romans 3:23](https://www.biblegateway.com/passage/?search=Romans+3%3A23&version=NET) | All can instruct — [Romans 15:14](https://www.biblegateway.com/passage/?search=Romans+15%3A14&version=NET) |
+| **B / B'** | All you do is trust — [Romans 4](https://www.biblegateway.com/passage/?search=Romans+4&version=NET) | All you do is love — [Romans 13:8–10](https://www.biblegateway.com/passage/?search=Romans+13%3A8-10&version=NET) |
+| **C / C'** | Struggle of the flesh (*sarx*) — [Romans 7:14–25](https://www.biblegateway.com/passage/?search=Romans+7%3A14-25&version=NET) | Struggle of the clay / vessels — [Romans 9:19–23](https://www.biblegateway.com/passage/?search=Romans+9%3A19-23&version=NET) |
+| **Brackets** | "The obedience of faith" — [Romans 1:5](https://www.biblegateway.com/passage/?search=Romans+1%3A5&version=NET) | "The obedience of faith" — [Romans 16:26](https://www.biblegateway.com/passage/?search=Romans+16%3A26&version=NET) |
+
+**Why this matters for the argument of this document:** the architectural center of Romans is not a verse about who is disqualified; it is *"there is now no condemnation for those who are in Christ Jesus."* The whole letter is built to land there — "If that's true, then there's no 'us and them.' There's no greater or lesser." (BEMA 155) That is the same blended-family vision §2.2 identifies as [Traditional Ethics Church]'s exact situation.
+
+
+### 11.5 The closing appeal, in [Traditional Ethics Church]'s own grammar
+
+Posture Shift says the church should be a "safe refuge." [Traditional Ethics Church] agrees. The disagreement is only about whether a **published position** can coexist with a **safe refuge**.
 
 Acts 8 answers it. A man from a sexual minority, excluded by explicit written Scripture from the assembly, asks: "**What can stand in the way of my being baptized?**"
 
@@ -587,7 +641,7 @@ Philip — who knew his text, who could have quoted Deuteronomy 23:1 — quotes 
 
 > "The implications of the Kingdom is that all the people who didn't belong, all the people who were on the outside, all the people who needed to be blessed are finding the blessing. **They're finding the belonging, they're finding the inclusion and they're finding a place to sit at the table** in this new Jesus community." (BEMA 137)
 
-The question on the table is not whether Discovery will affirm. It is whether the community is stronger together — and whether anything Discovery has published should stand in the way.
+The question on the table is not whether a church will affirm. It is whether the community is stronger together — and whether anything [Traditional Ethics Church] has published should stand in the way.
 
 ---
 
@@ -595,7 +649,7 @@ The question on the table is not whether Discovery will affirm. It is whether th
 
 | Topic | Scripture | BEMA |
 |---|---|---|
-| PaRDeS; discovery; *havurah* | Matthew 13:10–17 | **110** *Jewish Hermeneutics*; **106** |
+| PaRDeS; *havurah* | Matthew 13:10–17 | **110** *Jewish Hermeneutics*; **106** |
 | Fulfill vs. abolish | Matthew 5:17–20 | **95** *Abolish or Fulfill* |
 | Commands aim at formation | Matthew 5:21–30 | **96** *But I Say Unto You* |
 | Binding and loosing | Matthew 16:19; Acts 15:28 | **140** *Not to Burden You* |
@@ -639,9 +693,9 @@ Marked `[outside]` in text; **not** drawn from BEMA transcripts:
 
 ---
 
-## Appendix C — One-page summary for a leadership meeting
+## Appendix C — Discussion Summary
 
-1. **We are not asking Discovery to become affirming.** We are asking it to stop publishing a position as a boundary marker, to apologize for specific harm, and to build equity for members who disagree.
+1. **The question is not whether a church should be affirming.**  It is whether or not to stop publishing a position as a boundary marker, to apologize for specific harm, and to build equity for members who disagree.
 2. **Romans 1 is not about this.** It describes Hellenistic idolatry, pederasty, and a dominance ethic. Orientation as a category does not exist in the text. (BEMA 149)
 3. **Romans 1 has a trap.** Romans 2:1 turns on anyone who uses chapter 1 to judge. The whole letter is a blended-family reconciliation letter. (BEMA 149)
 4. **Sodom's stated indictment is not about this.** God's own summary comes first and is economic: arrogance, excess, neglect of the poor (Ezekiel 16:49) — addressed to **Jerusalem**. Jude 7 and 2 Peter 2 touch sexuality; the summary indictment does not. (BEMA 106)
@@ -660,6 +714,8 @@ Marked `[outside]` in text; **not** drawn from BEMA transcripts:
 
 ---
 
+---
+
 ## Appendix D — Companion document
 
-See **`anticipated objections and responses.md`** in this folder: fourteen anticipated objections ranked by how much damage they can do, with rehearsed responses; the three that come from inside the BEMA material; institutional questions that usually decide the outcome; and a pre-meeting checklist.
+See **`anticipated objections and responses.md`
