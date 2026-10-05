@@ -1,7 +1,7 @@
 # With All Your Heart
 
 BEMA 20 · Session 1
-Source transcript: `~/workspace/bema/transcripts/1-with-all-your-heart-20.md`
+Source transcript: `~/workspace/bema/transcripts/1-20-with-all-your-heart.md`
 Book: Exodus (Exodus 14; 15:22–27; 16:1–30; with Deuteronomy 8:1–3)
 Guest: Reed Dent (BEMA teaching team; campus minister)
 
@@ -25,7 +25,7 @@ Guest: Reed Dent (BEMA teaching team; campus minister)
 ## Recurring Through-lines
 
 - **Trust the story (the arc itself) — now in the desert.** The tests are trust-the-story in practice: will Israel believe there's "enough," wait on "every word," and let God provide? Marty frames the whole desert as the refining fire where God gets "Egypt out of them." God's priorities don't change — the desert is how a freed-but-still-Egypt-shaped people learn to trust. Recurs across the corpus; condensed at the Session 1 capstone (episode 32).
-- **Sin as failing to master the animal instinct ("master the beast").** Present as the manna test of self-preservation: hoarding against tomorrow (the maggot-ridden extra) is the un-mastered scarcity/fear instinct; trusting the daily provision is mastering it. Marty confesses *"I would have been one of those anxiety-ridden worry warts."* Same dynamic anchored in `1-master-the-beast-3.md`. Flag for cross-reference; do not re-explain there.
+- **Sin as failing to master the animal instinct ("master the beast").** Present as the manna test of self-preservation: hoarding against tomorrow (the maggot-ridden extra) is the un-mastered scarcity/fear instinct; trusting the daily provision is mastering it. Marty confesses *"I would have been one of those anxiety-ridden worry warts."* Same dynamic anchored in `1-3-master-the-beast.md`. Flag for cross-reference; do not re-explain there.
 - **"Egypt gets inside you" (callback to eps. 9–10, 16, 18).** Explicitly named: easy to get Israel out of Egypt, hard to get Egypt out of Israel; the desert tests are the extraction. Reed and Marty also push back on the condescension toward "those dumb Israelites" — we'd grumble too.
 - **The weak/marginalized go first (callback to Sabbath/shalom, eps. 1, 18).** The Marah statute and manna generosity echo the shalom pattern of caring for those on the fringe — the opposite of empire's expendability.
 
@@ -77,7 +77,7 @@ Prose: Christians often celebrate step 1 (rescue) and settle at step 2 (confessi
 
 ## Sources
 
-- Transcript: `1-with-all-your-heart-20.md`
+- Transcript: `1-20-with-all-your-heart.md`
 - [Exodus 14:1-4 (NIV)](https://www.biblegateway.com/passage/?search=Exodus%2014%3A1-4&version=NIV)
 - [Exodus 14:10-16 (NIV)](https://www.biblegateway.com/passage/?search=Exodus%2014%3A10-16&version=NIV)
 - [Exodus 14:19-22 (NIV)](https://www.biblegateway.com/passage/?search=Exodus%2014%3A19-22&version=NIV)

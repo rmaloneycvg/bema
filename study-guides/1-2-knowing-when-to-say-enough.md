@@ -1,7 +1,7 @@
 # Knowing When to Say "Enough"
 
 **BEMA 2 · Session 1** — Genesis (Garden of Eden: Genesis 2:4–3:24)
-Source transcript: `transcripts/1-knowing-when-to-say-enough-2.md`
+Source transcript: `transcripts/1-2-knowing-when-to-say-enough.md`
 
 ---
 
@@ -40,7 +40,7 @@ The "problems" in Eden are not errors to resolve; they are intentional signposts
 
 - **Trust the story (the arc).** The constancy of God's priority — self-control / knowing when to say enough — is presented as something God embodies from creation. Cited: *Marty* — "We met this God last week—the God who knows when to say enough." Linking creation (episode 1) to Eden (this episode) shows the priority does not shift. Recurs across the corpus as the backbone arc.
 
-- **Sin as failing to master the animal instinct (the "master the beast" motif).** This episode is a primary feeder for that motif (anchored in `1-master-the-beast-3.md`). The text works deliberately to blur human and beast — the serpent talks, reasons, relates, and walks — so the dividing line becomes *mastery of desire*. Cited: *Marty* — "The story is working really hard to make it difficult to distinguish between the snake and humanity... an animal acts on their desires. It's what it means to be a beast. But we—humanity—we are not beasts." Link to arc: being God's image = saying "enough" to the beast within. Recurs: this directly sets up the Cain/Abel "sin crouching at the door, you must master it" teaching in episode 3.
+- **Sin as failing to master the animal instinct (the "master the beast" motif).** This episode is a primary feeder for that motif (anchored in `1-3-master-the-beast.md`). The text works deliberately to blur human and beast — the serpent talks, reasons, relates, and walks — so the dividing line becomes *mastery of desire*. Cited: *Marty* — "The story is working really hard to make it difficult to distinguish between the snake and humanity... an animal acts on their desires. It's what it means to be a beast. But we—humanity—we are not beasts." Link to arc: being God's image = saying "enough" to the beast within. Recurs: this directly sets up the Cain/Abel "sin crouching at the door, you must master it" teaching in episode 3.
 
 ---
 
@@ -112,7 +112,7 @@ flowchart TB
 
 ## Sources
 
-- Transcript: `1-knowing-when-to-say-enough-2.md`
+- Transcript: `1-2-knowing-when-to-say-enough.md`
 - [Genesis 2:4-7](https://www.biblegateway.com/passage/?search=Genesis%202%3A4-7&version=NIV)
 - [Genesis 2:10-14](https://www.biblegateway.com/passage/?search=Genesis%202%3A10-14&version=NIV)
 - [Genesis 2:17](https://www.biblegateway.com/passage/?search=Genesis%202%3A17&version=NIV)

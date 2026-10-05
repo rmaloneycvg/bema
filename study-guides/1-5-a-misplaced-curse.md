@@ -1,7 +1,7 @@
 # A Misplaced Curse
 
 BEMA 5 · Session 1
-Source transcript: `~/workspace/bema/transcripts/1-a-misplaced-curse-5.md`
+Source transcript: `~/workspace/bema/transcripts/1-5-a-misplaced-curse.md`
 Book: Genesis (Genesis 9:18–29; with Deuteronomy 22:30)
 Guest: Reed Dent (BEMA teaching team; campus minister, Campus Christian Fellowship, Truman State University)
 
@@ -24,7 +24,7 @@ Guest: Reed Dent (BEMA teaching team; campus minister, Campus Christian Fellowsh
 ## Recurring Through-lines
 
 - **Trust the story (the arc itself).** This episode is an explicit link in the "will you trust the invitation to stop?" chain the hosts have been building since Genesis 1. Marty: creation→stop creating, flood→stop destroying, *"the next story is now the invitation for Noah to trust. Can you stop destroying?"* God's desire is constant; the human answer keeps coming back "no." Recurs across the session; condensed at the Session 1 capstone (episode 32).
-- **Sin as failing to master the animal instinct ("master the beast").** Strongly present, though not named by that phrase here: Noah's failure *is* a failure to master a base impulse — vengeance — once provoked. Marty: *"If only Noah could have... decided to know when to stop destroying, to say the cycle's going to stop with me. But vengeance is so dangerous."* This is the same "fail to master the beast" dynamic anchored in `1-master-the-beast-3.md`. Flag for cross-reference; do not re-explain there.
+- **Sin as failing to master the animal instinct ("master the beast").** Strongly present, though not named by that phrase here: Noah's failure *is* a failure to master a base impulse — vengeance — once provoked. Marty: *"If only Noah could have... decided to know when to stop destroying, to say the cycle's going to stop with me. But vengeance is so dangerous."* This is the same "fail to master the beast" dynamic anchored in `1-3-master-the-beast.md`. Flag for cross-reference; do not re-explain there.
 
 ## Narrative Tensions
 
@@ -73,7 +73,7 @@ Prose: the parallels mark Noah as the God-figure of this panel; the *divergences
 
 ## Sources
 
-- Transcript: `1-a-misplaced-curse-5.md`
+- Transcript: `1-5-a-misplaced-curse.md`
 - [Genesis 9:18-19 (NIV)](https://www.biblegateway.com/passage/?search=Genesis%209%3A18-19&version=NIV)
 - [Genesis 9:20-21 (NIV)](https://www.biblegateway.com/passage/?search=Genesis%209%3A20-21&version=NIV)
 - [Genesis 9:22-23 (NIV)](https://www.biblegateway.com/passage/?search=Genesis%209%3A22-23&version=NIV)

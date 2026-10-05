@@ -1,7 +1,7 @@
 # Images of the Desert — Rotem and Acacia
 
 BEMA 27 · Session 1
-Source transcript: `~/workspace/bema/transcripts/1-images-of-the-desert-rotem-and-acacia-27.md`
+Source transcript: `~/workspace/bema/transcripts/1-27-images-of-the-desert-rotem-and-acacia.md`
 Book: Numbers (the desert / wilderness) — an **image-driven devotional episode**, drawing on scattered references (Judges 9; Psalms 80, 121, 1; Song of Songs 2; Isaiah 4, 25, 30, 32)
 
 > Part of the "Images of the Desert" mini-series on the wilderness of Numbers. Two trees carry the lesson: the **rotem** (broom bush), the desert image of *shade* — small, solitary, "just enough"; and the **acacia**, "the gift of the desert" that can look dead for a decade and then spring to life. Both teach how to live faithfully through a desert — and how to *be* shade and gift for others in theirs.
@@ -23,7 +23,7 @@ Book: Numbers (the desert / wilderness) — an **image-driven devotional episode
 ## Recurring Through-lines
 
 - **Trust the story (the arc itself).** Both trees are trust-the-story images for the desert: trust that God is your just-enough shade, and trust that faithful waiting through drought will bear fruit in its season. God's priorities (presence, provision, fruitfulness) don't change even when your life looks dead. Recurs across the corpus; condensed at the Session 1 capstone (episode 32).
-- **Sin as failing to master the animal instinct ("master the beast").** Present obliquely in the *hagah* image — the same ravenous animal drive, now *redirected* toward devouring God's word rather than one's own appetites. Also in Isaiah 30's warning: running to Pharaoh's "shade" (empire) instead of God's is the un-mastered impulse to secure yourself the wrong way. Same dynamic anchored in `1-master-the-beast-3.md`. Flag for cross-reference; do not re-explain there.
+- **Sin as failing to master the animal instinct ("master the beast").** Present obliquely in the *hagah* image — the same ravenous animal drive, now *redirected* toward devouring God's word rather than one's own appetites. Also in Isaiah 30's warning: running to Pharaoh's "shade" (empire) instead of God's is the un-mastered impulse to secure yourself the wrong way. Same dynamic anchored in `1-3-master-the-beast.md`. Flag for cross-reference; do not re-explain there.
 - **Kingdom of priests (callback to eps. 18, 22).** Isaiah 32's "one King / plural rulers who each become shade" is explicitly the kingdom-of-priests idea — God's people deputized to *be* God's refuge to the world.
 
 ## Narrative Tensions
@@ -64,7 +64,7 @@ No chiasm or narrative structure — this is a two-image devotional. The organiz
 
 ## Sources
 
-- Transcript: `1-images-of-the-desert-rotem-and-acacia-27.md`
+- Transcript: `1-27-images-of-the-desert-rotem-and-acacia.md`
 - [Judges 9:15 (NIV)](https://www.biblegateway.com/passage/?search=Judges%209%3A15&version=NIV)
 - [Psalm 80:8-11 (NIV)](https://www.biblegateway.com/passage/?search=Psalm%2080%3A8-11&version=NIV)
 - [Psalm 121:5 (NIV)](https://www.biblegateway.com/passage/?search=Psalm%20121%3A5&version=NIV)

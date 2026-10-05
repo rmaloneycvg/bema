@@ -1,7 +1,7 @@
 # The Preface
 
 BEMA 7 · Session 1
-Source transcript: `~/workspace/bema/transcripts/1-the-preface-7.md`
+Source transcript: `~/workspace/bema/transcripts/1-7-the-preface.md`
 Book: Genesis (review/synthesis of Genesis 1–11; center text Genesis 5:28–29)
 
 > A review episode with no new story. The hosts step back and read all of Genesis 1–11 as God's **preface** — the backstory before the "introduction" (Genesis 12–50) and the main narrative (Exodus–Revelation). The payoff: the eight preface stories are themselves arranged as a **chiasm of chiasms**, whose center (Noah = *noach*, "comfort/rest") makes the same point every individual chiasm made — *trust the story*.
@@ -23,7 +23,7 @@ Book: Genesis (review/synthesis of Genesis 1–11; center text Genesis 5:28–29
 ## Recurring Through-lines
 
 - **Trust the story (the arc itself) — this episode is its structural proof.** The macro-chiasm's center lands on **Noah/noach = "comfort/rest,"** which Marty ties straight back to Sabbath and the very first lesson: *"Sounds like Sabbath, sounds like rest, sounds like trusting the story... this massive chiasm is actually making the exact same point that our initial chiasm was making."* God's constant desire — a good, restful creation — is literally at the center of the preface. (This is a mini-capstone for the first arc of Session 1; the full Session 1 capstone is episode 32.)
-- **Sin as failing to master the animal instinct ("master the beast").** Present as the recurring "tragedy / obsession / mistrust" pattern that marks every *odd-positioned* story (Adam & Eve, Cain & Abel, Noah's curse, Babel): the human failure to stop, to trust, to master the destructive impulse. Marty's own summary: *"a story of obsession... a story of mistrust."* Same failure-to-master dynamic anchored in `1-master-the-beast-3.md`. Flag for cross-reference; do not re-explain there.
+- **Sin as failing to master the animal instinct ("master the beast").** Present as the recurring "tragedy / obsession / mistrust" pattern that marks every *odd-positioned* story (Adam & Eve, Cain & Abel, Noah's curse, Babel): the human failure to stop, to trust, to master the destructive impulse. Marty's own summary: *"a story of obsession... a story of mistrust."* Same failure-to-master dynamic anchored in `1-3-master-the-beast.md`. Flag for cross-reference; do not re-explain there.
 
 ## Narrative Tensions
 
@@ -75,7 +75,7 @@ Prose: The pairing is thematic (A↔A' both "goodness/rest," B↔B' and C↔C' b
 
 ## Sources
 
-- Transcript: `1-the-preface-7.md`
+- Transcript: `1-7-the-preface.md`
 - [Genesis 1–11 (NIV)](https://www.biblegateway.com/passage/?search=Genesis%201-11&version=NIV)
 - [Genesis 5:28-29 (NIV)](https://www.biblegateway.com/passage/?search=Genesis%205%3A28-29&version=NIV)
 - Referenced resources named in the episode (not web-fetched): J.R.R. Tolkien, *The Lord of the Rings* / *The Hobbit* (preface/introduction analogy); Paris Shewey (first recognized the chiasm of chiasms).

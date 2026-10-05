@@ -1,7 +1,7 @@
 # A Mission Realized
 
 BEMA 12 · Session 1
-Source transcript: `transcripts/1-a-mission-realized-12.md`
+Source transcript: `transcripts/1-12-a-mission-realized.md`
 
 ## Key Lessons
 
@@ -29,7 +29,7 @@ Source transcript: `transcripts/1-a-mission-realized-12.md`
 
 - **Trust the story (the arc itself).** Named and central this episode: God's covenant purpose is identical from Abraham to Isaac, down to the repeated language of altar-building and calling on the name of the LORD at Beersheba. Marty: *"That is absolutely Abraham language. We are literally walking back through the life of Abraham in Isaac's life."* God does not change what he wants or what matters — the single clearest demonstration of the arc so far in the session. This through-line recurs across the whole corpus; here it appears as a literal generational re-tracing of the father's story.
 
-- *(Note: "Sin as failing to master the animal instinct" — the master-the-beast motif anchored in episode `1-master-the-beast-3.md` — is not explicitly engaged in this episode. Isaac's repetition of his father's deception is named as inherited human frailty but is not framed in the beast/instinct language, so it is not claimed here.)*
+- *(Note: "Sin as failing to master the animal instinct" — the master-the-beast motif anchored in episode `1-3-master-the-beast.md` — is not explicitly engaged in this episode. Isaac's repetition of his father's deception is named as inherited human frailty but is not framed in the beast/instinct language, so it is not claimed here.)*
 
 ## Narrative Tensions
 
@@ -87,7 +87,7 @@ Prose: Marty traces Isaac's episodes and matches each to an earlier Abraham epis
 
 ## Sources
 
-- Transcript: `1-a-mission-realized-12.md`
+- Transcript: `1-12-a-mission-realized.md`
 - Genesis 24:2 — https://www.biblegateway.com/passage/?search=Genesis%2024%3A2&version=NIV
 - Genesis 26:1 — https://www.biblegateway.com/passage/?search=Genesis%2026%3A1&version=NIV
 - Genesis 26:2-5 — https://www.biblegateway.com/passage/?search=Genesis%2026%3A2-5&version=NIV

@@ -1,7 +1,7 @@
 # Grappling with God, Part 2
 
 BEMA 14 · Session 1
-Source transcript: `~/workspace/bema/transcripts/1-grappling-with-god-part-2-14.md`
+Source transcript: `~/workspace/bema/transcripts/1-14-grappling-with-god-part-2.md`
 Book: Genesis (Genesis 32:22–32; 33:1–17; 35:1–20; with chapter 34 summarized)
 Guest: Reed Dent (BEMA teaching team; campus minister)
 
@@ -25,7 +25,7 @@ Guest: Reed Dent (BEMA teaching team; campus minister)
 ## Recurring Through-lines
 
 - **Trust the story (the arc itself).** God keeps partnering with the unfinished Jacob because God's priorities don't change; the wrestling-named people are precisely those willing to grapple with God rather than settle. The arc's constancy carries an undeserving man all the way to "Israel." Recurs across the session; condensed at the Session 1 capstone (episode 32).
-- **Sin as failing to master the animal instinct ("master the beast").** This is the episode where the theme turns explicit for Jacob: his chutzpah/fire, left *unmastered*, "can cause us all great pain." The Jabbok is the long-awaited grappling where God, not Jacob, finally prevails — the beginning of mastery, bought at great cost. Same dynamic anchored in `1-master-the-beast-3.md`. Flag for cross-reference; do not re-explain there.
+- **Sin as failing to master the animal instinct ("master the beast").** This is the episode where the theme turns explicit for Jacob: his chutzpah/fire, left *unmastered*, "can cause us all great pain." The Jabbok is the long-awaited grappling where God, not Jacob, finally prevails — the beginning of mastery, bought at great cost. Same dynamic anchored in `1-3-master-the-beast.md`. Flag for cross-reference; do not re-explain there.
 - **Chutzpah (callback to Abraham, episode 11; part 1, episode 13).** Named repeatedly as Jacob's defining trait — the reason God chose him — now shown with its shadow side. Links the Abraham/Jacob fire through-line.
 - **"Be fruitful and multiply" → tragedy → blame (preface pattern callback).** Marty flags that the Genesis 35 command echoes Adam & Eve and Noah, and predicts the familiar pattern — more children, tragedy, and someone blamed. Sure enough: Rachel dies in childbirth, and Jacob later takes the blame on himself. Links to the preface stories (episodes 1–7).
 
@@ -68,7 +68,7 @@ No formal chiasm is identified for this passage; the hosts keep the macro-level,
 
 ## Sources
 
-- Transcript: `1-grappling-with-god-part-2-14.md`
+- Transcript: `1-14-grappling-with-god-part-2.md`
 - [Genesis 32:22-32 (NIV)](https://www.biblegateway.com/passage/?search=Genesis%2032%3A22-32&version=NIV)
 - [Genesis 33:1-17 (NIV)](https://www.biblegateway.com/passage/?search=Genesis%2033%3A1-17&version=NIV)
 - [Genesis 34 (Dinah/Shechem, NIV)](https://www.biblegateway.com/passage/?search=Genesis%2034&version=NIV)

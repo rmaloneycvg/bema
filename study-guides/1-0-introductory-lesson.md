@@ -1,7 +1,7 @@
 # Introductory Lesson
 
 BEMA 0 · Session 1
-Source transcript: `~/workspace/bema/transcripts/1-introductory-lesson-0.md`
+Source transcript: `~/workspace/bema/transcripts/1-0-introductory-lesson.md`
 
 > This is the anchor episode for the entire BEMA interpretive approach. It is a "context episode" (no single book of the Bible), so instead of narrative tensions in a text, the whole episode lays out the **East/West interpretive lens** that every later guide tags against. Treat this guide as the reference key for the lens.
 
@@ -30,7 +30,7 @@ This episode defines the lens, so it engages nearly every category directly. Eac
 ## Recurring Through-lines
 
 - **Trust the story (the arc itself).** This episode plants the arc without the exact phrase: God's constancy across the whole narrative. Marty: *"God has always been interested in all nations... God has always been interested in unity, not uniformity."* Everything downstream is an invitation to trust that this God's desires don't change. This through-line recurs in every later episode and is condensed in the Session 1 capstone (episode 32).
-- **Sin as failing to master the animal instinct ("master the beast").** Not yet named here, but this episode seeds its soil with the **error & sin** category — Eastern sin is about *behavior*, "what a person does," and about a *communal* reality, not just individual wrong belief. That framing is the setup the "master the beast" episode (`1-master-the-beast-3.md`, its anchor) will build on. Flag for cross-reference; do not re-explain there.
+- **Sin as failing to master the animal instinct ("master the beast").** Not yet named here, but this episode seeds its soil with the **error & sin** category — Eastern sin is about *behavior*, "what a person does," and about a *communal* reality, not just individual wrong belief. That framing is the setup the "master the beast" episode (`1-3-master-the-beast.md`, its anchor) will build on. Flag for cross-reference; do not re-explain there.
 
 ## Narrative Tensions
 
@@ -59,6 +59,6 @@ A context episode with no single text, so there are no in-text "doesn't-make-sen
 
 ## Sources
 
-- Transcript: `1-introductory-lesson-0.md`
+- Transcript: `1-0-introductory-lesson.md`
 - Super Bowl / "written for us not to us" claim, whole-canon NT-language claim: unspecified reference (general, not pinned to a passage)
 - Genesis (opening quoted by Brent, "In the beginning, God created"): https://www.biblegateway.com/passage/?search=Genesis%201&version=NIV

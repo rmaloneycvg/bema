@@ -1,7 +1,7 @@
 # Buried in a Genealogy
 
 BEMA 8 · Session 1
-Source transcript: `~/workspace/bema/transcripts/1-buried-in-a-genealogy-8.md`
+Source transcript: `~/workspace/bema/transcripts/1-8-buried-in-a-genealogy.md`
 Book: Genesis (Genesis 11:27–32; with Genesis 20:12)
 Guest: Elle Grover Fricks (BEMA teaching team; Hebrew / ancient Near East)
 
@@ -25,7 +25,7 @@ Guest: Elle Grover Fricks (BEMA teaching team; Hebrew / ancient Near East)
 ## Recurring Through-lines
 
 - **Trust the story (the arc itself).** Explicitly named as the hinge: Abram is the first character who "knows how to trust the story," in direct contrast to every preface figure. Marty: *"When I think about Cain and Abel... Noah and the vineyard... Tower of Babel... all of a sudden I meet somebody... willing to trust the story and not work out of fear and insecurity."* God's priorities are unchanged; Abram simply aligns with them. Recurs across the session; condensed at the Session 1 capstone (episode 32).
-- **Sin as failing to master the animal instinct ("master the beast").** Present by *contrast*: where prior characters failed to master fear, vengeance, and grasping, Abram masters self-interest — "willing to lay down some of that own self-interest and self-preservation." This is the positive mirror of the failure anchored in `1-master-the-beast-3.md`. Flag for cross-reference; do not re-explain there.
+- **Sin as failing to master the animal instinct ("master the beast").** Present by *contrast*: where prior characters failed to master fear, vengeance, and grasping, Abram masters self-interest — "willing to lay down some of that own self-interest and self-preservation." This is the positive mirror of the failure anchored in `1-3-master-the-beast.md`. Flag for cross-reference; do not re-explain there.
 
 ## Narrative Tensions
 
@@ -63,7 +63,7 @@ Each entry: surface problem, classification tag, cited quote, normalized verse c
 
 ## Sources
 
-- Transcript: `1-buried-in-a-genealogy-8.md`
+- Transcript: `1-8-buried-in-a-genealogy.md`
 - [Genesis 11:27-32 (NIV)](https://www.biblegateway.com/passage/?search=Genesis%2011%3A27-32&version=NIV)
 - [Genesis 11:29 (NIV)](https://www.biblegateway.com/passage/?search=Genesis%2011%3A29&version=NIV)
 - [Genesis 11:30 (NIV)](https://www.biblegateway.com/passage/?search=Genesis%2011%3A30&version=NIV)

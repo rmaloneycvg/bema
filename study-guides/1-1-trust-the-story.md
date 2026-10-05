@@ -1,7 +1,7 @@
 # Trust the Story
 
 BEMA 1 · Session 1
-Source transcript: `~/workspace/bema/transcripts/1-trust-the-story-1.md`
+Source transcript: `~/workspace/bema/transcripts/1-1-trust-the-story.md`
 Book: Genesis (Genesis 1:1–2:3)
 
 > This is the **anchor episode for the overarching arc itself** — the phrase "trust the story" is coined here. The hosts read Genesis 1 not as a science report but as a chiastic poem whose center-word (*moadim*, Sabbath/festival) delivers God's very first lesson to a people fresh out of slavery: your worth is in who you are, not what you produce.
@@ -24,7 +24,7 @@ Book: Genesis (Genesis 1:1–2:3)
 ## Recurring Through-lines
 
 - **Trust the story (the arc itself) — named here for the first time.** This episode *is* the anchor for the arc. Crucially, Marty defines its scope narrowly: *"we're not talking about trust the story that God's telling in your life. We're talking about trust the story of Genesis 1."* Every later guide ties back to this: God's good verdict and constant priorities. Recurs throughout the corpus; condensed at the Session 1 capstone (episode 32).
-- **Sin as failing to master the animal instinct ("master the beast").** Seeded obliquely: the story *"awkwardly want[s] to make humanity not a beast of the field"* — plucking the humanity paragraph out of the chiasm is what reveals the mirror. That deliberate separation of human from beast is the setup for the "master the beast" theme (anchor: `1-master-the-beast-3.md`). Flag for cross-reference; do not re-explain there.
+- **Sin as failing to master the animal instinct ("master the beast").** Seeded obliquely: the story *"awkwardly want[s] to make humanity not a beast of the field"* — plucking the humanity paragraph out of the chiasm is what reveals the mirror. That deliberate separation of human from beast is the setup for the "master the beast" theme (anchor: `1-3-master-the-beast.md`). Flag for cross-reference; do not re-explain there.
 
 ## Narrative Tensions
 
@@ -82,7 +82,7 @@ Prose: The inverted chiasm functions "like an arrow pointing you towards the cen
 
 ## Sources
 
-- Transcript: `1-trust-the-story-1.md`
+- Transcript: `1-1-trust-the-story.md`
 - [Genesis 1 (NIV)](https://www.biblegateway.com/passage/?search=Genesis%201&version=NIV)
 - [Genesis 1:5 (NIV)](https://www.biblegateway.com/passage/?search=Genesis%201%3A5&version=NIV)
 - [Genesis 1:1-19 (NIV)](https://www.biblegateway.com/passage/?search=Genesis%201%3A1-19&version=NIV)

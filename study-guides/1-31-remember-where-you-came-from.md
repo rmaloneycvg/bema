@@ -1,7 +1,7 @@
 # Remember Where You Came From
 
 BEMA 31 · Session 1
-Source transcript: `transcripts/1-remember-where-you-came-from-31.md`
+Source transcript: `transcripts/1-31-remember-where-you-came-from.md`
 
 ## Key Lessons
 
@@ -33,7 +33,7 @@ Source transcript: `transcripts/1-remember-where-you-came-from-31.md`
 
 - **Care for the AOW / the vulnerable at the center.** A recurring Session 1 thread (manna sharing, the marginalized in the middle, Isaac's generosity) that culminates here in Deuteronomy's gleaning/tithe/widow laws. Linked to the arc; noted as cross-episode recurrence.
 
-- *(Note: the "sin as failing to master the animal instinct" / master-the-beast motif, anchored in `1-master-the-beast-3.md`, is not engaged this episode. Sin here is forgetting the story and neglecting the vulnerable, not base animal instinct, so the motif is not claimed.)*
+- *(Note: the "sin as failing to master the animal instinct" / master-the-beast motif, anchored in `1-3-master-the-beast.md`, is not engaged this episode. Sin here is forgetting the story and neglecting the vulnerable, not base animal instinct, so the motif is not claimed.)*
 
 ## Narrative Tensions
 
@@ -88,7 +88,7 @@ Prose: Deuteronomy reads as a covenant document — preamble, historical recap, 
 
 ## Sources
 
-- Transcript: `1-remember-where-you-came-from-31.md`
+- Transcript: `1-31-remember-where-you-came-from.md`
 - Deuteronomy 34:10-12 — https://www.biblegateway.com/passage/?search=Deuteronomy%2034%3A10-12&version=NIV
 - Deuteronomy 8:2-3 — https://www.biblegateway.com/passage/?search=Deuteronomy%208%3A2-3&version=NIV
 - Deuteronomy 10:18 — https://www.biblegateway.com/passage/?search=Deuteronomy%2010%3A18&version=NIV

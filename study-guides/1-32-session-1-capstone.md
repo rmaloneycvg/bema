@@ -1,7 +1,7 @@
 # Session 1 Capstone
 
 BEMA 32 · Session 1
-Source transcript: `transcripts/1-session-1-capstone-32.md`
+Source transcript: `transcripts/1-32-session-1-capstone.md`
 
 > This is the capstone/review episode for Session 1. It does not work a single passage; it traces the narrative arc of the whole Torah and condenses it to one word — **partnership**. It is the anchor for the narrative-arc model used across these guides.
 
@@ -90,7 +90,7 @@ flowchart LR
 
 ## Sources
 
-- Transcript: `1-session-1-capstone-32.md`
+- Transcript: `1-32-session-1-capstone.md`
 - [Genesis (NIV)](https://www.biblegateway.com/passage/?search=Genesis&version=NIV)
 - [Exodus 1 (NIV)](https://www.biblegateway.com/passage/?search=Exodus%201&version=NIV)
 - [Exodus 19 (NIV)](https://www.biblegateway.com/passage/?search=Exodus%2019&version=NIV)

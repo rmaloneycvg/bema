@@ -1,7 +1,7 @@
 # Under the Chuppah
 
 BEMA 22 · Session 1
-Source transcript: `~/workspace/bema/transcripts/1-under-the-chuppah-22.md`
+Source transcript: `~/workspace/bema/transcripts/1-22-under-the-chuppah.md`
 Book: Exodus (Exodus 19–23; with Exodus 32:19–20 and Numbers 5:16–24)
 
 > One of Session 1's landmark reframings: Sinai is a **wedding**. Walking through the structure of an ancient Eastern Jewish wedding — betrothal, the father preparing a place, the surprise arrival, the chuppah, the ketubah, the wedding gifts, consummation — the hosts show the Exodus-to-Sinai story following that template beat for beat. The Ten "Words" are marriage vows; the golden calf is adultery mid-ceremony; the Sabbath is the wedding ring.
@@ -24,7 +24,7 @@ Book: Exodus (Exodus 19–23; with Exodus 32:19–20 and Numbers 5:16–24)
 ## Recurring Through-lines
 
 - **Trust the story (the arc itself) — God's unchanging faithfulness.** The climax is the remarriage after the calf: "the same God, the same God, the same God" who walked the blood path (ep. 10) and set the bow in the clouds. God's priorities don't change even when the bride breaks covenant mid-vow. Recurs across the corpus; condensed at the Session 1 capstone (episode 32).
-- **Sin as failing to master the animal instinct ("master the beast").** Present as the golden-calf adultery — the un-mastered impulse to grab a tangible god/security the moment the groom is "away," breaking covenant. Same dynamic anchored in `1-master-the-beast-3.md`. Flag for cross-reference; do not re-explain there.
+- **Sin as failing to master the animal instinct ("master the beast").** Present as the golden-calf adultery — the un-mastered impulse to grab a tangible god/security the moment the groom is "away," breaking covenant. Same dynamic anchored in `1-3-master-the-beast.md`. Flag for cross-reference; do not re-explain there.
 - **The blood-path/betrothal covenant (callback to ep. 10).** Explicitly reconnected: Genesis 12's "leave your father's house" is engagement talk, and Genesis 15's blood path was a *betrothal* covenant — so Sinai is the long-awaited wedding of that engagement.
 - **Sabbath (callback to eps. 1, 20).** The Sabbath returns as the covenant *sign* / wedding ring — the whole-bride rest first met in the creation chiasm and the manna test.
 
@@ -81,7 +81,7 @@ Prose: the fit is beat-for-beat, which is why the golden calf (Exod 32) reads as
 
 ## Sources
 
-- Transcript: `1-under-the-chuppah-22.md`
+- Transcript: `1-22-under-the-chuppah.md`
 - [Exodus 19:5-6 (NIV)](https://www.biblegateway.com/passage/?search=Exodus%2019%3A5-6&version=NIV)
 - [Exodus 19:10 (NIV)](https://www.biblegateway.com/passage/?search=Exodus%2019%3A10&version=NIV)
 - [Exodus 19:16-19 (NIV)](https://www.biblegateway.com/passage/?search=Exodus%2019%3A16-19&version=NIV)

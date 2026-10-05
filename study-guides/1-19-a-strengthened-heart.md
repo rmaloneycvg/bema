@@ -1,7 +1,7 @@
 # A Strengthened Heart
 
 BEMA 19 · Session 1
-Source transcript: `transcripts/1-a-strengthened-heart-19.md`
+Source transcript: `transcripts/1-19-a-strengthened-heart.md`
 
 ## Key Lessons
 
@@ -31,7 +31,7 @@ Source transcript: `transcripts/1-a-strengthened-heart-19.md`
 
 - **The God who knows when to say "enough" (El Shaddai).** An explicitly recurring BEMA motif: Marty ties this name back to Episode 2 ("the God who knows when to say enough"), reading *Shaddai* via the midrash as *Mi She'amar Leolamo Dai*. It links God's restraint in creation and in the Flood to the restraint-vs-action contrast here. (Noted as a cross-episode recurrence per the hosts' own callback; added to the running motif list.)
 
-- *(Note: the "sin as failing to master the animal instinct" / master-the-beast motif, anchored in `1-master-the-beast-3.md`, is not engaged this episode. Pharaoh's resistance is framed through the *kavod/chazak* seeing-and-resolve lens, not the beast/instinct lens, so the motif is not claimed.)*
+- *(Note: the "sin as failing to master the animal instinct" / master-the-beast motif, anchored in `1-3-master-the-beast.md`, is not engaged this episode. Pharaoh's resistance is framed through the *kavod/chazak* seeing-and-resolve lens, not the beast/instinct lens, so the motif is not claimed.)*
 
 ## Narrative Tensions
 
@@ -72,7 +72,7 @@ The hosts do not present a chiastic or mirrored structure this episode. The orga
 
 ## Sources
 
-- Transcript: `1-a-strengthened-heart-19.md`
+- Transcript: `1-19-a-strengthened-heart.md`
 - Exodus 5:1-3 — https://www.biblegateway.com/passage/?search=Exodus%205%3A1-3&version=NIV
 - Exodus 6:2-8 — https://www.biblegateway.com/passage/?search=Exodus%206%3A2-8&version=NIV
 - Exodus 6:3 — https://www.biblegateway.com/passage/?search=Exodus%206%3A3&version=NIV

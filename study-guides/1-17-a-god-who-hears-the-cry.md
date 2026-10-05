@@ -1,7 +1,7 @@
 # A God Who Hears the Cry
 
 BEMA 17 · Session 1
-Source transcript: `transcripts/1-a-god-who-hears-the-cry-17.md`
+Source transcript: `transcripts/1-17-a-god-who-hears-the-cry.md`
 
 ## Key Lessons
 
@@ -29,7 +29,7 @@ Source transcript: `transcripts/1-a-god-who-hears-the-cry-17.md`
 
 - **Trust the story (the arc itself).** Named repeatedly and tied directly to Moses' call: *"All he says is... 'you need to trust the story.'"* The review explicitly restates the whole Genesis arc as "creation is good, trust me" → Avram as the father of faith/trust → Isaac's faithfulness → Jacob's chutzpah → Judah's repentance and the Joseph cycle of reconciliation, "right back to where it started." God's priorities (shalom, justice, partnership) are shown to be constant from Genesis into Exodus. This through-line recurs across the whole corpus; here it is the explicit hinge between the Introduction (Genesis) and the Narrative (Exodus).
 
-- *(Note: the "sin as failing to master the animal instinct" / master-the-beast motif, anchored in `1-master-the-beast-3.md`, is not engaged this episode. The *hagah* lion image appears but refers to the posture of meditating on the Text, not to mastering a base instinct, so the motif is not claimed.)*
+- *(Note: the "sin as failing to master the animal instinct" / master-the-beast motif, anchored in `1-3-master-the-beast.md`, is not engaged this episode. The *hagah* lion image appears but refers to the posture of meditating on the Text, not to mastering a base instinct, so the motif is not claimed.)*
 
 ## Narrative Tensions
 
@@ -82,7 +82,7 @@ Prose: The matched outer frame is Moses' excuse stated two ways — "slow of spe
 
 ## Sources
 
-- Transcript: `1-a-god-who-hears-the-cry-17.md`
+- Transcript: `1-17-a-god-who-hears-the-cry.md`
 - Exodus 4:10 — https://www.biblegateway.com/passage/?search=Exodus%204%3A10&version=NIV
 - Exodus 4:24-26 — https://www.biblegateway.com/passage/?search=Exodus%204%3A24-26&version=NIV
 - Exodus 5 — https://www.biblegateway.com/passage/?search=Exodus%205&version=NIV

@@ -1,7 +1,7 @@
 # A Tale of Two Kingdoms
 
 BEMA 18 · Session 1
-Source transcript: `~/workspace/bema/transcripts/1-a-tale-of-two-kingdoms-18.md`
+Source transcript: `~/workspace/bema/transcripts/1-18-a-tale-of-two-kingdoms.md`
 Book: Exodus / Genesis (context episode — references Genesis 47; Exodus 19; walks through Ray Vander Laan video lessons)
 Guest: Chris Marshall (talmid)
 
@@ -25,7 +25,7 @@ Guest: Chris Marshall (talmid)
 ## Recurring Through-lines
 
 - **Trust the story (the arc itself).** The empire/shalom frame *is* the arc made structural: shalom is the kingdom built on trusting God's good story; empire is the refusal. Marty threads it from Genesis's tohu-va'vohu order-from-chaos straight into Exodus. The phrase will "run through my entire teaching from Exodus all the way through Revelation." Recurs across the corpus; condensed at the Session 1 capstone (episode 32).
-- **Sin as failing to master the animal instinct ("master the beast").** Present at the collective/systemic scale: empire is the un-mastered instinct — fear, self-preservation, and domination — organized into a civilization (Pharaoh's stick held *over* people). Choosing shalom is mastering it. The macro-scale cousin of the failure anchored in `1-master-the-beast-3.md`. Flag for cross-reference; do not re-explain there.
+- **Sin as failing to master the animal instinct ("master the beast").** Present at the collective/systemic scale: empire is the un-mastered instinct — fear, self-preservation, and domination — organized into a civilization (Pharaoh's stick held *over* people). Choosing shalom is mastering it. The macro-scale cousin of the failure anchored in `1-3-master-the-beast.md`. Flag for cross-reference; do not re-explain there.
 - **"Egypt gets inside you" (callback to eps. 9–10, 16).** The episode makes explicit what earlier Abraham/Joseph episodes seeded: Egypt isn't just a place but a narrative that lodges in the heart. Links the "harder to get Egypt out of the people than the people out of Egypt" through-line.
 - **Numbers/empire-building & settling (Babel callback, ep. 6).** Egypt's cities, metalworking, and vault-keeping echo Babel's "settle and make a name" impulse — empire as the civilized form of mistrust.
 
@@ -60,7 +60,7 @@ A context episode, so the "tensions" are reframings the hosts surface rather tha
 
 ## Sources
 
-- Transcript: `1-a-tale-of-two-kingdoms-18.md`
+- Transcript: `1-18-a-tale-of-two-kingdoms.md`
 - [Genesis 47:5-6 (NIV)](https://www.biblegateway.com/passage/?search=Genesis%2047%3A5-6&version=NIV)
 - [Exodus 1 (a new king who knew not Joseph, NIV)](https://www.biblegateway.com/passage/?search=Exodus%201&version=NIV)
 - [Exodus 19:5-6 (kingdom of priests, NIV)](https://www.biblegateway.com/passage/?search=Exodus%2019%3A5-6&version=NIV)

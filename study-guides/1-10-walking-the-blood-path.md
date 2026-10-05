@@ -1,7 +1,7 @@
 # Walking the Blood Path
 
 BEMA 10 · Session 1
-Source transcript: `~/workspace/bema/transcripts/1-walking-the-blood-path-10.md`
+Source transcript: `~/workspace/bema/transcripts/1-10-walking-the-blood-path.md`
 Book: Genesis (Genesis 15:1–21; 17:1–21; with Genesis 16 summarized)
 
 > The covenant deepens. Abram wants collateral; God answers with a **blood-path (betrothal) covenant** — then walks it *alone*, taking Abram's share of the oath upon himself. The gospel of grace shows up in Genesis 15. Then, after the tragedy of Hagar, Genesis 17 reshapes the family: new names and circumcision strip away exaltedness, possession, and the household power pyramid.
@@ -25,7 +25,7 @@ Book: Genesis (Genesis 15:1–21; 17:1–21; with Genesis 16 summarized)
 ## Recurring Through-lines
 
 - **Trust the story (the arc itself).** Abram "leans back into trusting the story," and the covenant itself is God underwriting the promise so Abram's inevitable failures don't end it. "Avram believed the Lord, and it was credited to him as righteousness" (15:6) is named as a huge trust-the-story moment. God's priorities (grace, faithfulness, blessing all nations) are constant. Recurs across the session; condensed at the Session 1 capstone (episode 32).
-- **Sin as failing to master the animal instinct ("master the beast").** Present via Genesis 16: taking the withheld answer and forcing a plan (Hagar/Ishmael) is a failure to master grasping/control — and it breeds "power-pyramid" abuse. Genesis 17's reforms are God pulling the family back toward mastering that impulse. Same dynamic anchored in `1-master-the-beast-3.md`. Flag for cross-reference; do not re-explain there.
+- **Sin as failing to master the animal instinct ("master the beast").** Present via Genesis 16: taking the withheld answer and forcing a plan (Hagar/Ishmael) is a failure to master grasping/control — and it breeds "power-pyramid" abuse. Genesis 17's reforms are God pulling the family back toward mastering that impulse. Same dynamic anchored in `1-3-master-the-beast.md`. Flag for cross-reference; do not re-explain there.
 - **"Egypt gets inside you" (callback to episode 9).** Marty: *"Avram has brought Egypt with him... also brought Egypt with him in his heart."* Going down to Egypt wasn't the sin, but its consequences (Egyptian wealth, Egyptian Hagar) now shape the story — "harder to get Egypt out of his people than his people out of Egypt." Links to the Egypt descent of the prior episode.
 
 ## Narrative Tensions
@@ -89,7 +89,7 @@ Prose: The bookends (face-down, name-change, everlasting covenant, foreigner, ge
 
 ## Sources
 
-- Transcript: `1-walking-the-blood-path-10.md`
+- Transcript: `1-10-walking-the-blood-path.md`
 - [Genesis 15:1-21 (NIV)](https://www.biblegateway.com/passage/?search=Genesis%2015%3A1-21&version=NIV)
 - [Genesis 15:1-3 (NIV)](https://www.biblegateway.com/passage/?search=Genesis%2015%3A1-3&version=NIV)
 - [Genesis 15:9-10 (NIV)](https://www.biblegateway.com/passage/?search=Genesis%2015%3A9-10&version=NIV)

@@ -1,7 +1,7 @@
 # Creating a Space
 
 BEMA 24 · Session 1
-Source transcript: `~/workspace/bema/transcripts/1-creating-a-space-24.md`
+Source transcript: `~/workspace/bema/transcripts/1-24-creating-a-space.md`
 Book: Exodus (the Tabernacle) — a **practical episode on spiritual practices**, not a verse-by-verse study
 Guest: Josh Bossé (BEMA teaching team; Impact campus ministry; Olam)
 
@@ -25,7 +25,7 @@ Guest: Josh Bossé (BEMA teaching team; Impact campus ministry; Olam)
 ## Recurring Through-lines
 
 - **Trust the story (the arc itself).** Creating space *is* trusting the story — believing God will show up and fill it, in God's way and timing. The Tabernacle is "a mobile invitation to trust the story," a mobile Genesis 1–3. God's priorities don't change; the practices are how we posture ourselves toward them. Recurs across the corpus; condensed at the Session 1 capstone (episode 32).
-- **Sin as failing to master the animal instinct ("master the beast").** Present as the empire-driven *compulsion to produce and hurry* — an un-mastered impulse Josh locates "in my own heart." The practices (Sabbath, simplicity, submission, fasting) are precisely how one masters it. Same dynamic anchored in `1-master-the-beast-3.md`. Flag for cross-reference; do not re-explain there.
+- **Sin as failing to master the animal instinct ("master the beast").** Present as the empire-driven *compulsion to produce and hurry* — an un-mastered impulse Josh locates "in my own heart." The practices (Sabbath, simplicity, submission, fasting) are precisely how one masters it. Same dynamic anchored in `1-3-master-the-beast.md`. Flag for cross-reference; do not re-explain there.
 - **Sabbath (callback to eps. 1, 20, 22).** Returns as a core practice of presence and the counter to a consumption/production culture (Brueggemann); explicitly tied to the shalom/empire frame.
 
 ## Narrative Tensions
@@ -70,7 +70,7 @@ No chiasm or narrative structure is present — this is a practical episode. In 
 
 ## Sources
 
-- Transcript: `1-creating-a-space-24.md`
+- Transcript: `1-24-creating-a-space.md`
 - [Genesis 1–3 (NIV)](https://www.biblegateway.com/passage/?search=Genesis%201-3&version=NIV)
 - [John 4 (worship in spirit and truth, NIV)](https://www.biblegateway.com/passage/?search=John%204&version=NIV)
 - [Deuteronomy 6 (the Shema, NIV)](https://www.biblegateway.com/passage/?search=Deuteronomy%206&version=NIV)

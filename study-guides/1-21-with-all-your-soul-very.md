@@ -1,7 +1,7 @@
 # With All Your Soul & "Very"
 
 BEMA 21 · Session 1
-Source transcript: `transcripts/1-with-all-your-soul-very-21.md`
+Source transcript: `transcripts/1-21-with-all-your-soul-very.md`
 
 ## Key Lessons
 
@@ -31,7 +31,7 @@ Source transcript: `transcripts/1-with-all-your-soul-very-21.md`
 
 - **A God who takes the blow / lays down his life for others.** A recurring BEMA image (bow in the clouds, the blood path) that reappears here as the struck rock — "a God that's willing to lay down His life on behalf of others." Linked to the arc and noted as cross-episode recurrence.
 
-- *(Note: the "sin as failing to master the animal instinct" / master-the-beast motif, anchored in `1-master-the-beast-3.md`, is not engaged this episode. The people's craving and demanding is framed through the Shema-test lens and "testing God," not the beast/instinct lens, so the motif is not claimed.)*
+- *(Note: the "sin as failing to master the animal instinct" / master-the-beast motif, anchored in `1-3-master-the-beast.md`, is not engaged this episode. The people's craving and demanding is framed through the Shema-test lens and "testing God," not the beast/instinct lens, so the motif is not claimed.)*
 
 ## Narrative Tensions
 
@@ -87,7 +87,7 @@ Prose: Each faculty of the Shema gets a corresponding wilderness test — heart,
 
 ## Sources
 
-- Transcript: `1-with-all-your-soul-very-21.md`
+- Transcript: `1-21-with-all-your-soul-very.md`
 - Exodus 17:1-16 — https://www.biblegateway.com/passage/?search=Exodus%2017%3A1-16&version=NIV
 - Exodus 17:4-5 — https://www.biblegateway.com/passage/?search=Exodus%2017%3A4-5&version=NIV
 - Exodus 17:6 — https://www.biblegateway.com/passage/?search=Exodus%2017%3A6&version=NIV

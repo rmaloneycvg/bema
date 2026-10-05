@@ -1,7 +1,7 @@
 # Letting Go
 
 BEMA 9 · Session 1
-Source transcript: `~/workspace/bema/transcripts/1-letting-go-9.md`
+Source transcript: `~/workspace/bema/transcripts/1-9-letting-go.md`
 Book: Genesis (Genesis 12:1–20; 13:1–18; 14:21–24)
 
 > The call of Abram and his first adventures in Canaan. God's opening word — *lech-lecha*, "Go!" — asks Abram to let go of everything: his father's house, his father's gods, his control over outcomes. Abram proves he's no caped superhero (the Egypt deception goes sideways), but the lesson he learns — *you can't control circumstances; do the right thing and trust God with the rest* — is one he immediately doubles down on with Lot.
@@ -24,7 +24,7 @@ Book: Genesis (Genesis 12:1–20; 13:1–18; 14:21–24)
 ## Recurring Through-lines
 
 - **Trust the story (the arc itself) — the episode's explicit refrain.** Named repeatedly: Abram "trusts the story" in Genesis 13 and "doubles down on trusting the story" in Genesis 14. The lesson of the Egypt chiasm is stated as "do what's right, trust the story, trust God to take care of the rest." God's constant priorities are the fixed point Abram keeps returning to. Recurs across the session; condensed at the Session 1 capstone (episode 32).
-- **Sin as failing to master the animal instinct ("master the beast").** Present as the *contrast* that defines Abram: faced with a brotherly quarrel in a field — the exact setup of Cain and Abel — Abram *masters* the impulse Cain didn't. Marty: *"Have we heard a story... about two brothers arguing in a field?... Ended up with one brother killing the other."* Abram instead yields and lets Lot choose. Positive mirror of the failure anchored in `1-master-the-beast-3.md`. Flag for cross-reference; do not re-explain there.
+- **Sin as failing to master the animal instinct ("master the beast").** Present as the *contrast* that defines Abram: faced with a brotherly quarrel in a field — the exact setup of Cain and Abel — Abram *masters* the impulse Cain didn't. Marty: *"Have we heard a story... about two brothers arguing in a field?... Ended up with one brother killing the other."* Abram instead yields and lets Lot choose. Positive mirror of the failure anchored in `1-3-master-the-beast.md`. Flag for cross-reference; do not re-explain there.
 - **"Towers" / settling vs. mobility (Babel callback).** Abram builds altars and pitches tents — "towers" to God's name, kept mobile — the inverse of Babel's permanent tower to their own name. Marty: *"Both stories are about towers, but they're two different kinds of towers."* Links back to episode 6.
 
 ## Narrative Tensions
@@ -81,7 +81,7 @@ Prose: Abram "walks literally directly backwards out of the land, the same exact
 
 ## Sources
 
-- Transcript: `1-letting-go-9.md`
+- Transcript: `1-9-letting-go.md`
 - [Genesis 12:1-20 (NIV)](https://www.biblegateway.com/passage/?search=Genesis%2012%3A1-20&version=NIV)
 - [Genesis 12:4-5 (NIV)](https://www.biblegateway.com/passage/?search=Genesis%2012%3A4-5&version=NIV)
 - [Genesis 12:6-8 (NIV)](https://www.biblegateway.com/passage/?search=Genesis%2012%3A6-8&version=NIV)

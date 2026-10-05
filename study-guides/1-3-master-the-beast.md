@@ -1,7 +1,7 @@
 # Master the Beast
 
 **BEMA 3 · Session 1** — Genesis (Cain and Abel: Genesis 4:1-12)
-Source transcript: `transcripts/1-master-the-beast-3.md`
+Source transcript: `transcripts/1-3-master-the-beast.md`
 
 ---
 
@@ -39,11 +39,11 @@ Only categories the episode actually engages, each with a cited quote.
 
 ## Recurring Through-lines
 
-- **Sin as failing to master the animal instinct (the "master the beast" motif) — THIS IS THE ANCHOR.** Here the motif gets its name and clearest statement: the beast crouches at the door and must be ruled. Cited: *Marty* — "you must master this beast. You have to master this desire... you are more than a beast." Link to arc: imaging God means saying "enough" to the animal within. Recurrence: this picks up directly from Eden's "desire" and "knowing when to say enough" (`1-knowing-when-to-say-enough-2.md`) — Marty explicitly ties them: "the same invitation, the same theme." Fohrman's *The Beast That Crouches at the Door* is the named anchor text.
+- **Sin as failing to master the animal instinct (the "master the beast" motif) — THIS IS THE ANCHOR.** Here the motif gets its name and clearest statement: the beast crouches at the door and must be ruled. Cited: *Marty* — "you must master this beast. You have to master this desire... you are more than a beast." Link to arc: imaging God means saying "enough" to the animal within. Recurrence: this picks up directly from Eden's "desire" and "knowing when to say enough" (`1-2-knowing-when-to-say-enough.md`) — Marty explicitly ties them: "the same invitation, the same theme." Fohrman's *The Beast That Crouches at the Door* is the named anchor text.
 
 - **Trust the story (the arc).** The episode restates the arc almost verbatim — God's constancy against human shame/fear. Cited: *Marty* — "if he trusts the story, if he trusts that it's a good creation, that there will be enough... he'll know that there's enough." Recurrence: builds directly on episode 1 ("trusts the story") and episode 2 (God unchanged while humanity's self-view shifts under shame).
 
-- **Shame and fear distort the self (secondary, feeds the arc).** Carried over from the Eden study: nakedness/shame changed humanity, not God. Cited: *Marty* — "The same thing we noticed in the last story about shame. They now had shame. God's position hadn't changed." Recurs from `1-knowing-when-to-say-enough-2.md`.
+- **Shame and fear distort the self (secondary, feeds the arc).** Carried over from the Eden study: nakedness/shame changed humanity, not God. Cited: *Marty* — "The same thing we noticed in the last story about shame. They now had shame. God's position hadn't changed." Recurs from `1-2-knowing-when-to-say-enough.md`.
 
 ---
 
@@ -88,7 +88,7 @@ No clear chiastic or mirrored structure is identified in this episode (unlike th
 
 ## Sources
 
-- Transcript: `1-master-the-beast-3.md`
+- Transcript: `1-3-master-the-beast.md`
 - [Genesis 4:1](https://www.biblegateway.com/passage/?search=Genesis%204%3A1&version=NIV)
 - [Genesis 4:3-5](https://www.biblegateway.com/passage/?search=Genesis%204%3A3-5&version=NIV)
 - [Genesis 4:6](https://www.biblegateway.com/passage/?search=Genesis%204%3A6&version=NIV)

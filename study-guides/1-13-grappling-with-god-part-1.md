@@ -1,7 +1,7 @@
 # Grappling with God, Part 1
 
 BEMA 13 · Session 1
-Source transcript: `~/workspace/bema/transcripts/1-grappling-with-god-part-1-13.md`
+Source transcript: `~/workspace/bema/transcripts/1-13-grappling-with-god-part-1.md`
 Book: Genesis (Genesis 25:19–34; 28:10–22; 31:43–55; with chapters 27, 29–31 summarized)
 Guest: Reed Dent (BEMA teaching team; campus minister)
 
@@ -27,7 +27,7 @@ Guest: Reed Dent (BEMA teaching team; campus minister)
 ## Recurring Through-lines
 
 - **Trust the story (the arc itself).** The whole episode wrestles with God's constancy toward an undeserving partner: God keeps showing up for Jacob because God's priorities (working through people with fire) don't change. Grace at Bethel is the arc in miniature. Recurs across the session; condensed at the Session 1 capstone (episode 32).
-- **Sin as failing to master the animal instinct ("master the beast").** Central to Jacob so far: his fire is real but *unmastered* — opportunism, deception, a life Marty calls "completely unsustainable." The grappling that will finally shape him is still ahead. Same failure-to-master dynamic anchored in `1-master-the-beast-3.md`; part two moves toward its mastery. Flag for cross-reference; do not re-explain there.
+- **Sin as failing to master the animal instinct ("master the beast").** Central to Jacob so far: his fire is real but *unmastered* — opportunism, deception, a life Marty calls "completely unsustainable." The grappling that will finally shape him is still ahead. Same failure-to-master dynamic anchored in `1-3-master-the-beast.md`; part two moves toward its mastery. Flag for cross-reference; do not re-explain there.
 - **Chutzpah (callback to Abraham, episode 11).** Jacob's defining trait is the same "fire in the belly" the hosts named in Abraham — "he wants it." Here it's raw and misdirected; the arc is about God channeling it. Links to episode 11.
 
 ## Narrative Tensions
@@ -68,7 +68,7 @@ No chiasm is identified for this passage — the hosts are intentionally surveyi
 
 ## Sources
 
-- Transcript: `1-grappling-with-god-part-1-13.md`
+- Transcript: `1-13-grappling-with-god-part-1.md`
 - [Genesis 25:19-34 (NIV)](https://www.biblegateway.com/passage/?search=Genesis%2025%3A19-34&version=NIV)
 - [Genesis 27 (stolen blessing, NIV)](https://www.biblegateway.com/passage/?search=Genesis%2027&version=NIV)
 - [Genesis 28:10-22 (NIV)](https://www.biblegateway.com/passage/?search=Genesis%2028%3A10-22&version=NIV)

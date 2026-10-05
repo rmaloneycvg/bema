@@ -1,7 +1,7 @@
 # A Kingdom of What?
 
 BEMA 25 · Session 1
-Source transcript: `transcripts/1-a-kingdom-of-what-25.md`
+Source transcript: `transcripts/1-25-a-kingdom-of-what.md`
 
 ## Key Lessons
 
@@ -33,7 +33,7 @@ Source transcript: `transcripts/1-a-kingdom-of-what-25.md`
 
 - **The *moed* / Genesis 1 chiasm center.** The festival word *moadim* recurs from the Genesis 1 chiasm (Episode on Genesis 1) and the Tabernacle episode (BEMA 23); here it names Leviticus' commanded parties. Noted as a cross-episode structural through-line.
 
-- *(Note: the "sin as failing to master the animal instinct" / master-the-beast motif, anchored in `1-master-the-beast-3.md`, is not engaged this episode. Sin is handled through the atonement/Day-of-Atonement lens, not the beast/instinct lens, so the motif is not claimed.)*
+- *(Note: the "sin as failing to master the animal instinct" / master-the-beast motif, anchored in `1-3-master-the-beast.md`, is not engaged this episode. Sin is handled through the atonement/Day-of-Atonement lens, not the beast/instinct lens, so the motif is not claimed.)*
 
 ## Narrative Tensions
 
@@ -87,7 +87,7 @@ The hosts also describe the overlapping **"priest-wich"**: two priesthood sectio
 
 ## Sources
 
-- Transcript: `1-a-kingdom-of-what-25.md`
+- Transcript: `1-25-a-kingdom-of-what.md`
 - Exodus 19:5-6 — https://www.biblegateway.com/passage/?search=Exodus%2019%3A5-6&version=NIV
 - Exodus 25-40 — https://www.biblegateway.com/passage/?search=Exodus%2025-40&version=NIV
 - Leviticus 1-7 — https://www.biblegateway.com/passage/?search=Leviticus%201-7&version=NIV

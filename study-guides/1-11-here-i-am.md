@@ -1,7 +1,7 @@
 # Here I Am
 
 BEMA 11 · Session 1
-Source transcript: `~/workspace/bema/transcripts/1-here-i-am-11.md`
+Source transcript: `~/workspace/bema/transcripts/1-11-here-i-am.md`
 Book: Genesis (Genesis 18:1–15; 21:1–21; 22:1–14; with Genesis 18–20 summarized)
 Guest: Josh Bossé (BEMA teaching team; Impact campus ministry)
 
@@ -27,7 +27,7 @@ Guest: Josh Bossé (BEMA teaching team; Impact campus ministry)
 ## Recurring Through-lines
 
 - **Trust the story (the arc itself).** Abraham's whole posture — hospitality, chutzpah, and finally *Hineni* on the mountain — is trust lived out, believing "God will see us... and that will be enough." The grace-filled "Gospel God" is explicitly the same God throughout: God does not change what he wants or what matters. Recurs across the session; condensed at the Session 1 capstone (episode 32).
-- **Sin as failing to master the animal instinct ("master the beast").** Present by contrast and by its cost: the Hagar/Ishmael dysfunction (sending them away; the "son of Hagar" never named; mocking as inherited "poison") shows un-mastered family fear metastasizing, while Abraham masters fight-or-flight on the mountain by staying. Same dynamic anchored in `1-master-the-beast-3.md`. Flag for cross-reference; do not re-explain there.
+- **Sin as failing to master the animal instinct ("master the beast").** Present by contrast and by its cost: the Hagar/Ishmael dysfunction (sending them away; the "son of Hagar" never named; mocking as inherited "poison") shows un-mastered family fear metastasizing, while Abraham masters fight-or-flight on the mountain by staying. Same dynamic anchored in `1-3-master-the-beast.md`. Flag for cross-reference; do not re-explain there.
 - **"The God who sees me" (callback to Hagar, episode 10).** The seeing-theme returns and deepens here, binding Hagar's and Abraham's stories together.
 
 ## Narrative Tensions
@@ -88,7 +88,7 @@ Prose: *Hineni* appears at the start, center, and end — a frame of presence. T
 
 ## Sources
 
-- Transcript: `1-here-i-am-11.md`
+- Transcript: `1-11-here-i-am.md`
 - [Genesis 18:1-15 (NIV)](https://www.biblegateway.com/passage/?search=Genesis%2018%3A1-15&version=NIV)
 - [Genesis 18:1-8 (NIV)](https://www.biblegateway.com/passage/?search=Genesis%2018%3A1-8&version=NIV)
 - [Genesis 18:16-33 (Sodom bargaining, NIV)](https://www.biblegateway.com/passage/?search=Genesis%2018%3A16-33&version=NIV)

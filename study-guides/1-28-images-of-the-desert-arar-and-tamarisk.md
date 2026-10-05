@@ -1,7 +1,7 @@
 # Images of the Desert — Ar'ar and Tamarisk
 
 BEMA 28 · Session 1
-Source transcript: `transcripts/1-images-of-the-desert-arar-and-tamarisk-28.md`
+Source transcript: `transcripts/1-28-images-of-the-desert-arar-and-tamarisk.md`
 
 ## Key Lessons
 
@@ -33,7 +33,7 @@ Source transcript: `transcripts/1-images-of-the-desert-arar-and-tamarisk-28.md`
 
 - **Empire vs Shalom.** A recurring BEMA contrast (named in the prior shepherd episode: leading "with our voice rather than a stick"), referenced here as the backdrop for the desert-image series. Noted as cross-episode recurrence.
 
-- *(Note: the "sin as failing to master the animal instinct" / master-the-beast motif, anchored in `1-master-the-beast-3.md`, is not engaged this episode. The *ar'ar* is "trusting in flesh," framed as misplaced trust, not base animal instinct, so the motif is not claimed.)*
+- *(Note: the "sin as failing to master the animal instinct" / master-the-beast motif, anchored in `1-3-master-the-beast.md`, is not engaged this episode. The *ar'ar* is "trusting in flesh," framed as misplaced trust, not base animal instinct, so the motif is not claimed.)*
 
 ## Narrative Tensions
 
@@ -69,7 +69,7 @@ No chiasm is present. The episode's structure is a set of **paired desert images
 
 ## Sources
 
-- Transcript: `1-images-of-the-desert-arar-and-tamarisk-28.md`
+- Transcript: `1-28-images-of-the-desert-arar-and-tamarisk.md`
 - Jeremiah 17:5-8 — https://www.biblegateway.com/passage/?search=Jeremiah%2017%3A5-8&version=NIV
 - Genesis 21:32-34 — https://www.biblegateway.com/passage/?search=Genesis%2021%3A32-34&version=NIV
 - Matthew 23 (whitewashed tombs; cup clean outside, dirty inside) — https://www.biblegateway.com/passage/?search=Matthew%2023&version=NIV

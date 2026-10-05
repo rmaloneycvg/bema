@@ -1,7 +1,7 @@
 # Images of the Desert - Shepherd
 
 BEMA 26 · Session 1
-Source transcript: `transcripts/1-images-of-the-desert-shepherd-26.md`
+Source transcript: `transcripts/1-26-images-of-the-desert-shepherd.md`
 
 ## Key Lessons
 
@@ -57,7 +57,7 @@ The arc of Session 1 holds steady here: **trust the story — God does not chang
 
 ## Sources
 
-- Transcript: `1-images-of-the-desert-shepherd-26.md`
+- Transcript: `1-26-images-of-the-desert-shepherd.md`
 - [Psalm 23 (NIV)](https://www.biblegateway.com/passage/?search=Psalm%2023&version=NIV)
 - [Numbers (NIV)](https://www.biblegateway.com/passage/?search=Numbers&version=NIV)
 - [Deuteronomy 8 (NIV)](https://www.biblegateway.com/passage/?search=Deuteronomy%208&version=NIV)

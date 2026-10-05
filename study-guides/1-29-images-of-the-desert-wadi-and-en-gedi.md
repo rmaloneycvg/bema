@@ -1,7 +1,7 @@
 # Images of the Desert - Wadi and En Gedi
 
 BEMA 29 · Session 1
-Source transcript: `transcripts/1-images-of-the-desert-wadi-and-en-gedi-29.md`
+Source transcript: `transcripts/1-29-images-of-the-desert-wadi-and-en-gedi.md`
 
 ## Key Lessons
 
@@ -85,7 +85,7 @@ The outer frame (shouting + lulavs) mirrors itself; the inner frame (ascending/d
 
 ## Sources
 
-- Transcript: `1-images-of-the-desert-wadi-and-en-gedi-29.md`
+- Transcript: `1-29-images-of-the-desert-wadi-and-en-gedi.md`
 - [Psalm 63:1-2 (NIV)](https://www.biblegateway.com/passage/?search=Psalm%2063%3A1-2&version=NIV)
 - [Jeremiah 2:13 (NIV)](https://www.biblegateway.com/passage/?search=Jeremiah%202%3A13&version=NIV)
 - [Isaiah 32:1-2 (NIV)](https://www.biblegateway.com/passage/?search=Isaiah%2032%3A1-2&version=NIV)

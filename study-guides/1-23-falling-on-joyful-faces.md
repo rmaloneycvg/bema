@@ -1,7 +1,7 @@
 # Falling on Joyful Faces
 
 BEMA 23 · Session 1
-Source transcript: `transcripts/1-falling-on-joyful-faces-23.md`
+Source transcript: `transcripts/1-23-falling-on-joyful-faces.md`
 
 ## Key Lessons
 
@@ -31,7 +31,7 @@ Source transcript: `transcripts/1-falling-on-joyful-faces-23.md`
 
 - **Say no to fear / choose trust.** A recurring BEMA framing (fear vs. trust) that reappears pointedly in the contrast between falling on one's face in *fear* vs. in *joy*. Linked to the arc; noted as cross-episode recurrence.
 
-- *(Note: the "sin as failing to master the animal instinct" / master-the-beast motif, anchored in `1-master-the-beast-3.md`, is not engaged this episode. The golden calf sits at the chiasm's structural pivot but is treated as the lapse between the two instruction-sets, not through the beast/instinct lens, so the motif is not claimed.)*
+- *(Note: the "sin as failing to master the animal instinct" / master-the-beast motif, anchored in `1-3-master-the-beast.md`, is not engaged this episode. The golden calf sits at the chiasm's structural pivot but is treated as the lapse between the two instruction-sets, not through the beast/instinct lens, so the motif is not claimed.)*
 
 ## Narrative Tensions
 
@@ -81,7 +81,7 @@ A second structural claim overlays this: the Tabernacle **recapitulates Genesis 
 
 ## Sources
 
-- Transcript: `1-falling-on-joyful-faces-23.md`
+- Transcript: `1-23-falling-on-joyful-faces.md`
 - Exodus 24-40 — https://www.biblegateway.com/passage/?search=Exodus%2024-40&version=NIV
 - Exodus 25-31 — https://www.biblegateway.com/passage/?search=Exodus%2025-31&version=NIV
 - Exodus 30:34 — https://www.biblegateway.com/passage/?search=Exodus%2030%3A34&version=NIV

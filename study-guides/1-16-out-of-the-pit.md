@@ -1,7 +1,7 @@
 # Out of the Pit
 
 BEMA 16 · Session 1
-Source transcript: `~/workspace/bema/transcripts/1-out-of-the-pit-16.md`
+Source transcript: `~/workspace/bema/transcripts/1-16-out-of-the-pit.md`
 Book: Genesis (Genesis 41–50; read passages 41:1–45; 43:1–10; 45:1–15; 50:15–26)
 Guest: Elle Grover Fricks (BEMA teaching team; Hebrew / ancient Near East)
 
@@ -26,7 +26,7 @@ Guest: Elle Grover Fricks (BEMA teaching team; Hebrew / ancient Near East)
 ## Recurring Through-lines
 
 - **Trust the story (the arc itself) — brought to a head.** Forgiveness is explicitly named as "the ultimate act of trusting the story." Genesis "comes full circle... almost made our way back to the garden" to shalom through dysfunction and repentance. God's constant purpose (to bless and restore) carries a broken family home. This is a capstone of Session 1's introduction; the full Session 1 capstone is episode 32.
-- **Sin as failing to master the animal instinct ("master the beast").** The positive resolution: Judah *masters* self-preservation (offering his life for Benjamin), and Joseph *masters* vengeance (forgiveness) — breaking the Cain-and-Abel cycle of brothers who fail to master the beast. Marty: *"Joseph will not replay the story of Cain and Abel."* Same dynamic anchored in `1-master-the-beast-3.md`. Flag for cross-reference; do not re-explain there.
+- **Sin as failing to master the animal instinct ("master the beast").** The positive resolution: Judah *masters* self-preservation (offering his life for Benjamin), and Joseph *masters* vengeance (forgiveness) — breaking the Cain-and-Abel cycle of brothers who fail to master the beast. Marty: *"Joseph will not replay the story of Cain and Abel."* Same dynamic anchored in `1-3-master-the-beast.md`. Flag for cross-reference; do not re-explain there.
 - **Chutzpah (callback to Abraham ep. 11; Jacob eps. 13–14).** Joseph's and Judah's fire, now *submitted*, becomes redemptive — the resolution of the chutzpah through-line that turned cautionary with Jacob.
 - **"Egypt vs. the land" / don't settle (callback to eps. 9–10 and Babel ep. 6).** Jacob's final heroic act insists his bones be carried to Canaan — "God's promises were not about Egypt." Joseph will have to choose between two father figures (Pharaoh/Egypt vs. Jacob/God's mission). Sets up Session 2.
 
@@ -76,7 +76,7 @@ No chiasm is identified, but the hosts foreground an explicit **repeating templa
 
 ## Sources
 
-- Transcript: `1-out-of-the-pit-16.md`
+- Transcript: `1-16-out-of-the-pit.md`
 - [Genesis 41:1-45 (NIV)](https://www.biblegateway.com/passage/?search=Genesis%2041%3A1-45&version=NIV)
 - [Genesis 41:18 (NIV)](https://www.biblegateway.com/passage/?search=Genesis%2041%3A18&version=NIV)
 - [Genesis 42:37–43:10 (NIV)](https://www.biblegateway.com/passage/?search=Genesis%2042%3A37-43%3A10&version=NIV)

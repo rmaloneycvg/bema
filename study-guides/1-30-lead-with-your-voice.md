@@ -1,7 +1,7 @@
 # Lead with Your Voice
 
 BEMA 30 · Session 1
-Source transcript: `~/workspace/bema/transcripts/1-lead-with-your-voice-30.md`
+Source transcript: `~/workspace/bema/transcripts/1-30-lead-with-your-voice.md`
 Book: Numbers (Numbers 20:1–13; with Exodus 17:5–7 and 1 Corinthians 10:1–4)
 
 > The end of the desert/Numbers section: Moses strikes the rock at Kadesh/Meribah and is denied entry to the Promised Land. The hosts set this story deliberately beside the *first* rock-striking (Exodus 17) to argue the real failure: Moses reverted to the **stick** (Empire's coercive power) when God asked for the **voice** (Shalom's invitational power) — failing to show that God is *different* (kadosh).
@@ -23,7 +23,7 @@ Book: Numbers (Numbers 20:1–13; with Exodus 17:5–7 and 1 Corinthians 10:1–
 ## Recurring Through-lines
 
 - **Trust the story (the arc itself).** God's charge names it: Moses "did not trust me enough" to show God as holy. Trusting the story means trusting God's *methods* (voice, invitation, shalom) even in grief and anger. God's priorities are constant; Moses's failure is a failure of trust under pressure. This closes the desert arc; the full Session 1 capstone is episode 32.
-- **Sin as failing to master the animal instinct ("master the beast").** This is a textbook case: Moses's un-mastered anger/grief erupts into violence (*nakah*), reverting to Empire's stick. Mastering the beast would have looked like using the voice. Same dynamic anchored in `1-master-the-beast-3.md`. Flag for cross-reference; do not re-explain there.
+- **Sin as failing to master the animal instinct ("master the beast").** This is a textbook case: Moses's un-mastered anger/grief erupts into violence (*nakah*), reverting to Empire's stick. Mastering the beast would have looked like using the voice. Same dynamic anchored in `1-3-master-the-beast.md`. Flag for cross-reference; do not re-explain there.
 - **Stick vs. voice / Empire vs. Shalom (callback to eps. 18, 22).** The two-kingdoms frame returns sharply: the stick is Pharaoh's power; the voice is God's. The Balaam-and-the-donkey story immediately after (Numbers 22) — a prophet beating his donkey with a stick while God gives the donkey a *voice* — reinforces it.
 
 ## Narrative Tensions
@@ -73,7 +73,7 @@ Prose: Because the *same phrase* (paniym) that put **God** before the rock in Ex
 
 ## Sources
 
-- Transcript: `1-lead-with-your-voice-30.md`
+- Transcript: `1-30-lead-with-your-voice.md`
 - [Numbers 20:1-13 (NIV)](https://www.biblegateway.com/passage/?search=Numbers%2020%3A1-13&version=NIV)
 - [Numbers 20:8 (NIV)](https://www.biblegateway.com/passage/?search=Numbers%2020%3A8&version=NIV)
 - [Numbers 20:11 (NIV)](https://www.biblegateway.com/passage/?search=Numbers%2020%3A11&version=NIV)

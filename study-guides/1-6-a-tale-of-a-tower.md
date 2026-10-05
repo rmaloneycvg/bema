@@ -1,7 +1,7 @@
 # A Tale of a Tower
 
 BEMA 6 · Session 1
-Source transcript: `~/workspace/bema/transcripts/1-a-tale-of-a-tower-6.md`
+Source transcript: `~/workspace/bema/transcripts/1-6-a-tale-of-a-tower.md`
 Book: Genesis (Genesis 11:1–9; with 10:32 and 10:8–10)
 Guest: Josh Bossé (BEMA teaching team; Impact campus ministry; "Midrash Josh")
 
@@ -25,7 +25,7 @@ Guest: Josh Bossé (BEMA teaching team; Impact campus ministry; "Midrash Josh")
 ## Recurring Through-lines
 
 - **Trust the story (the arc itself).** Explicitly the next beat in the "know when to say enough" chain (creation→stop creating; flood→stop destroying). Marty's opening review: *"God keeps saying, look at this good creation, know when to say enough, but they don't."* God's desire to bring humanity back to Eden's shalom is constant. Recurs across the session; condensed at the Session 1 capstone (episode 32).
-- **Sin as failing to master the animal instinct ("master the beast").** Strongly present: Nimrod the **gibor** ("mighty man"/warrior) who "hunts people" is evil *organized and civilized* — the un-mastered impulse scaled up to empire. Josh: *"evil is getting organized and that's scary."* Same failure-to-master dynamic anchored in `1-master-the-beast-3.md`. Flag for cross-reference; do not re-explain there.
+- **Sin as failing to master the animal instinct ("master the beast").** Strongly present: Nimrod the **gibor** ("mighty man"/warrior) who "hunts people" is evil *organized and civilized* — the un-mastered impulse scaled up to empire. Josh: *"evil is getting organized and that's scary."* Same failure-to-master dynamic anchored in `1-3-master-the-beast.md`. Flag for cross-reference; do not re-explain there.
 
 ## Narrative Tensions
 
@@ -94,7 +94,7 @@ Following the episode's running pattern (each story parallels an earlier one), B
 
 ## Sources
 
-- Transcript: `1-a-tale-of-a-tower-6.md`
+- Transcript: `1-6-a-tale-of-a-tower.md`
 - [Genesis 10:8–10 (NIV)](https://www.biblegateway.com/passage/?search=Genesis%2010%3A8-10&version=NIV)
 - [Genesis 10:31–11:1 (NIV)](https://www.biblegateway.com/passage/?search=Genesis%2010%3A31-11%3A1&version=NIV)
 - [Genesis 11:1–9 (full, NIV)](https://www.biblegateway.com/passage/?search=Genesis%2011%3A1-9&version=NIV)

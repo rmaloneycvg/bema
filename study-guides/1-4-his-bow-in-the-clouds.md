@@ -1,7 +1,7 @@
 # His Bow in the Clouds
 
 **BEMA 4 · Session 1** — Genesis (Noah and the Flood: Genesis 6-9)
-Source transcript: `transcripts/1-his-bow-in-the-clouds-4.md`
+Source transcript: `transcripts/1-4-his-bow-in-the-clouds.md`
 Speakers: Marty Solomon, Brent Billings, **Elle Grover Fricks** (guest — M.A., Bible in its ancient Near Eastern context, Hebrew University of Jerusalem)
 
 ---
@@ -135,7 +135,7 @@ flowchart TB
 
 ## Sources
 
-- Transcript: `1-his-bow-in-the-clouds-4.md`
+- Transcript: `1-4-his-bow-in-the-clouds.md`
 - [Genesis 6:5](https://www.biblegateway.com/passage/?search=Genesis%206%3A5&version=NIV)
 - [Genesis 8:1](https://www.biblegateway.com/passage/?search=Genesis%208%3A1&version=NIV)
 - [Genesis 9:8-17](https://www.biblegateway.com/passage/?search=Genesis%209%3A8-17&version=NIV)

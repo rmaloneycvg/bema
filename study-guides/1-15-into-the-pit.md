@@ -1,7 +1,7 @@
 # Into the Pit
 
 BEMA 15 · Session 1
-Source transcript: `transcripts/1-into-the-pit-15.md`
+Source transcript: `transcripts/1-15-into-the-pit.md`
 
 ## Key Lessons
 
@@ -29,7 +29,7 @@ Source transcript: `transcripts/1-into-the-pit-15.md`
 
 - **Trust the story (the arc itself).** Named explicitly in the review: *"Genesis 1-11 is like this statement of 'Creation is good, and trust Me.'"* The whole episode sets up the Joseph narrative as a test of whether the family can trust the story enough to break its cycle of deception and let God do "something new." God's priorities (shalom, justice, belonging, reconciliation) are shown to be constant by their very *absence* in Jacob's dysfunctional house — the gap between what God wants and what the family does is the tension. This through-line recurs across the whole corpus.
 
-- *(Note: the "sin as failing to master the animal instinct" / master-the-beast motif, anchored in episode `1-master-the-beast-3.md`, is adjacent here — the brothers' murderous hatred and Onan's and Judah's actions are "evil" base behavior — but the hosts do not frame it in the beast/instinct language, so it is not claimed as an explicit appearance.)*
+- *(Note: the "sin as failing to master the animal instinct" / master-the-beast motif, anchored in episode `1-3-master-the-beast.md`, is adjacent here — the brothers' murderous hatred and Onan's and Judah's actions are "evil" base behavior — but the hosts do not frame it in the beast/instinct language, so it is not claimed as an explicit appearance.)*
 
 ## Narrative Tensions
 
@@ -68,7 +68,7 @@ The hosts do not describe a chiasm this episode. The structural device they emph
 
 ## Sources
 
-- Transcript: `1-into-the-pit-15.md`
+- Transcript: `1-15-into-the-pit.md`
 - Genesis 37:2 — https://www.biblegateway.com/passage/?search=Genesis%2037%3A2&version=NIV
 - Genesis 38 — https://www.biblegateway.com/passage/?search=Genesis%2038&version=NIV
 - Genesis 38:8 — https://www.biblegateway.com/passage/?search=Genesis%2038%3A8&version=NIV
