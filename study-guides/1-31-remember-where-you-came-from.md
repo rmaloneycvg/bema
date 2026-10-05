@@ -1,107 +1,166 @@
 # Remember Where You Came From
 
 BEMA 31 · Session 1
-Source transcript: `transcripts/1-31-remember-where-you-came-from.md`
+Source transcript: `~/workspace/bema/transcripts/1-31-remember-where-you-came-from.md`
+Book: Deuteronomy — the closing teaching of Moses; "a second giving of the law," read as a call to remember Israel's story.
+Host: Marty Solomon · Co-host: Brent Billings · Guest: Reed Dent
+Core image leaned on throughout: Deuteronomy as *remembering* — the twinned Hebrew drumbeat **zakar** ("remember," ×14) and **shakach** ("do not forget," ×9) — "Remember that you were slaves in Egypt... that is why I command you to do this." Remembering who you *were* makes you see the foreigner, the orphan, and the widow who *are*.
+
+> **Session 1 overarching arc: partnership.** This episode closes Torah by naming what keeps the covenant partnership alive: *memory*. God took His people out of empire and spent Torah getting empire out of His people; Deuteronomy is His closing charge that the partnership survives only if Israel keeps actively remembering where it came from. Marty frames the whole book inside the arc: at Sinai "they have this big wedding... 'If you'll marry me, you're going to be for me a kingdom of priests'... All of this is a part of defining their partnership, defining their relationship together." And the partnership is explicitly *mutual* — Reed slips in the "extra credit" verse that even God "will not abandon or destroy you, or forget the covenant with your ancestors." Both parties remember. Reading Deuteronomy as a suzerain-vassal covenant sharpens the point: the loyalty sworn is to God (not to a king, not to Moses), and Moses is deliberately *not* the stand-in demigod — the partnership runs straight between God and His people.
 
 ## Key Lessons
 
-- **The whole thrust of Deuteronomy is one command: remember where you came from — "remember that you were slaves in Egypt."** The word *zakar* ("remember") appears 14 times and *shakach* ("do not forget") 9 times. Marty: *"if you ever forget where you came from, you will stop being the kind of people that I wanted you to be."* This is the arc itself — **trust the story; God does not change what he wants or what matters.** God's constant priority (care for the vulnerable, covenant faithfulness) is anchored in memory.
-
-- **Remembering is what makes you *see* the foreigner, orphan, and widow (the "AOW").** Marty: *"When I remember who I was I see who they are now... When I remember, I see them. And when I see them, I remember. It's this circular thing."* Because Israel was once foreigner/orphan/widow in Egypt, memory produces compassion — God's enduring concern made practical.
-
-- **God's law builds the vulnerable *into the center* of the community, not the margins — including at the parties.** Gleaning laws, the third-year tithe, levirate marriage ("the Family of the Unsandled"), and festival inclusion all protect the AOW. Marty: *"Woe to a culture that would find people groups that are unproductive and sweep them away to the margins."* Where you find the weak reveals shalom vs. empire.
-
-- **"These are not just idle words... they are your life" — obedience isn't an arbitrary reward but the way life actually works.** Reed: *"if you live in this way, this is the way that brings about the kind of life that God intends, just as its natural... outworking."* The constant invitation — live God's way and find life (Deut 32:46-47).
-
-- **Moses' "failure" is reframed by his epitaph: he knew God *face to face*.** Reed and Marty read the death of Moses not as disqualification but intimacy — a rabbinic Midrash pictures God ushering Moses into death with a kiss. Marty: *"I'm just not sure Moses cared that he didn't get to make it into the Promised Land."* Success is walking with God, not reaching a patch of earth.
+- **Deuteronomy is a call to remember your story — "remember where you came from."** Marty: *"It is a call to remember our story, a call to remember where we've come from."* The book pounds the word: *"There are 14 references to the term, to the word, remember... zakar."*
+- **The remembered story is the *reason* for the command: "Remember that you were slaves in Egypt. That is why I command you to do this."** Marty: *"the reason that God's asking you to be who you are now is because of who you used to be then. You remember what it's like to be there, so now I want you to live here and in this way."*
+- **Remembering who you *were* lets you see — and care for — the foreigner, the orphan, and the widow (the "AOW").** Marty: *"When I remember who I was I see who they are now. And when I see them... they remind me of who I was. It's this circular thing. When I remember, I see them. And when I see them, I remember."*
+- **A community of Shalom is identified by where it keeps its weakest members — inside, not at the margins.** Marty: *"Woe to a culture that would find people groups that are unproductive and sweep them away to the margins... Do not push these marginal groups to the fringes. Make sure they are brought inside."*
+- **Even God remembers — the covenant partnership is mutual.** Reed reads the "extra credit" verse: *"the LORD your God is a merciful God, He will not abandon or destroy you, or forget the covenant with your ancestors."* Marty: *"So even God remembers!"*
+- **Deuteronomy follows the ancient suzerain-vassal covenant form — and Torah as a whole mirrors it.** Marty: preamble, historical summary, stipulations, a reward-and-punishment section ("light on reward, very heavy... on punishment"), and a concluding song to aid memory — matched to Genesis, Exodus, Leviticus, Numbers, Deuteronomy.
+- **The Song of Moses is not a triumphant send-off but a brutally honest "you're going to fail" — *and* a map of the way back.** Marty (via Fohrman): *"It's a song of Moses saying, 'You're going to fail,' but... it's also a song showing you how you can make your way back... the real, sustainable way."*
+- **These words are not abstract rules — they are *life itself*.** Brent reads Deuteronomy 32:46-47; Reed: *"if you live in this way, this is the way that brings about the kind of life that God intends, just as it's natural sort of outworking."*
+- **Remembering is an *active* spiritual discipline, done in community, not a passive mental drift.** Reed: *"'remember' is an active thing that you do. Like you have to set yourself to remembering... make remembering a spiritual discipline."*
 
 ## East/West Lens
 
-- **Community vs individual** — Remembering is corporate and intergenerational: *"ask your elders... ask my parents, and I ask my grandparents."* Reed's campus-ministry "Remember that time when...?" practice keeps a community's story alive across turnover. The AOW are included *inside* the circle, not pushed out.
-
-- **God's description — nature of the relationship over abstract attributes** — "Face to face" is taught through a marital embrace, not a definition. Marty: *"That is this idea of the Hebrew phrase face to face. This intimate relationship that Moses had with God."* God is known relationally.
-
-- **Error & sin as behavior/way-of-life over wrong belief** — The law is framed as the path that produces life, and forgetting is a failure of practice, not of doctrine. Reed: *"it doesn't just lead to life, like as a reward... but if you live in this way, this is the way that brings about the kind of life that God intends."*
-
-- **Words as word-pictures over abstract definitions** — Memory and law ride on vivid images: the removed sandal and spit ("the Family of the Unsandled"), the leftover gleanings, the Song of Moses sung so it "will not be forgotten." Reed urges "remember" as an *active* discipline (Buechner's "Listen to Your Life"), not a passive mental event.
+- **Memory as formation, not information (Eastern repetition vs. Western fact-storage).** The hosts deliberately read ~23 "remember/forget" verses in a row. Marty: *"we did this on purpose so we could really feel the repetition, and the weight of these words just keep coming up."* The point is to be *shaped*, not merely informed.
+- **"Face to face" as marital intimacy, not spatial proximity (Eastern relationship vs. Western literalism).** A teacher staged a married couple foot-apart, then forehead-to-forehead, then embracing — only the embrace was "face to face." Marty: *"This intimate relationship that Moses had with God."*
+- **Death "by the mouth of the LORD" imagined as a kiss (Eastern Midrash vs. Western plain-reading).** Reed: *"there's a great Midrash... where the rabbis envision it as a kiss... that is how God kind of ushers Moses into his death"* — all Creation weeping, the earth wrapped around him as a tomb.
+- **Success redefined as walking intimately with God, not as reaching the destination (Eastern vs. Western scorekeeping).** Reed: *"if we ask what counts as success, it's just getting to the Promised Land?... Or, is it walking with God in such a way as there is this kind of intimate love even in his passing?"*
+- **Loyalty to God, not to a king or a hero (Eastern covenant theology vs. Western great-man framing).** Reed: in the surrounding treaties "loyalty is sworn to a king... All of that is replaced with... loyalty to God... Moses is not the one who's put in there as the guy."
+- **Remembering is communal and oral — you ask your elders (Eastern collective memory vs. Western individualism).** On Deuteronomy 32: Marty: *"this is a remembering that we do together... I ask my elders, and I ask my parents, and I ask my grandparents... now connected to my relationships."*
+- **"Life and death" set before you — obedience as the natural grain of life, not an arbitrary reward (Eastern organic vs. Western transactional).** Reed: *"it doesn't just lead to life, like as a reward, an arbitrary reward... but if you live in this way, this is the way that brings about the kind of life that God intends."*
 
 ## Recurring Through-lines
 
-- **Trust the story (the arc itself).** Named in the review ("the goodness of Creation — invitation to trust") and embodied in the whole episode: Israel's identity, obedience, and compassion all hang on *remembering the story*. God's priorities are constant; forgetting is what unmakes the people. Recurs across the whole corpus.
+*(Motifs genuinely surfaced by this episode — explicit callbacks the hosts name, plus genuinely-implied threads. No motif forced.)*
 
-- **Empire vs Shalom.** An explicitly recurring BEMA contrast — "God takes His people out of empire, and then He has to get empire out of His people." Reinforced by "circle the wagons" (from the desert-images episodes): you know shalom from empire by *where the weak are found*. Noted as cross-episode recurrence.
+- **Partnership (Session 1 arc).** Deuteronomy is the covenant's closing charge; the loyalty runs between God and His people, and the partnership is explicitly mutual — "even God remembers." Marty frames the whole book as "defining their partnership, defining their relationship together."
+- **Empire vs. Shalom.** Marty retells the arc: "God takes His people out of empire, and then He has to get empire out of His people." You tell Shalom from Empire by where you find the weak — in Shalom "they will be inside the community, which has come around them to make sure they're taken care of."
+- **Trust the story (Episode 1).** Genesis "set the stage... invitation to trust"; the whole remembering project is Israel learning to trust the story it has been given, and to keep telling it.
+- **Knowing when to say "enough" / the margins (restraint and the AOW).** Gleaning laws — leave grain, olives, grapes for the foreigner, orphan, and widow — are a learned restraint; "it's not their olive trees... and yet I'm supposed to leave some."
+- **The desert / honeymoon in the wilderness (Numbers callback).** Marty recaps "the honeymoon in the desert... living water, and shade, and rotem bushes, and acacia trees, and tamarisk trees... this long learning transformative process of living with God and being shaped in the desert."
+- **"Circle the wagons" — where you find the weak (callback to the Images of the Desert).** Marty: *"We talked in the book of Numbers study in the images of the desert — circle the wagons. You know whether or not it's a community of Shalom or a community of Empire based on where you find the weak."*
+- **Striking the rock / Moses not the demigod (callback to Episode 30).** The epitaph conversation grows out of "the last episode... Moses striking the rock"; Fohrman connects it — Moses must not "stand in as this demigod figure." "Don't do my job for me."
+- **Kingdom of priests / the Sinai wedding (callback to Episodes 22–25).** Marty names the wedding at Sinai and "you're going to be for me a kingdom of priests" as part of the same partnership Deuteronomy now seals.
 
-- **Care for the AOW / the vulnerable at the center.** A recurring Session 1 thread (manna sharing, the marginalized in the middle, Isaac's generosity) that culminates here in Deuteronomy's gleaning/tithe/widow laws. Linked to the arc; noted as cross-episode recurrence.
+## Episode Flow (coverage backbone)
 
-- *(Note: the "sin as failing to master the animal instinct" / master-the-beast motif, anchored in `1-3-master-the-beast.md`, is not engaged this episode. Sin here is forgetting the story and neglecting the vulnerable, not base animal instinct, so the motif is not claimed.)*
+A sequential walkthrough of every teaching beat, in order. Used to verify full coverage.
+
+1. **Framing + review.** Brent: today closes the study of Torah by "exploring the book of Deuteronomy, examining its call to remember our stories." Marty: "we're at the end of the Session 1 reboot" — review now, bigger review in the capstone. He recaps the whole arc: Genesis sets the stage (goodness/invitation to trust) → the Empire-vs-Shalom narrative → Sinai "wedding" and "kingdom of priests" → Leviticus defines priesthood → Numbers / "honeymoon in the desert" → Deuteronomy, "all in one episode."
+2. **Moses's epitaph (Deuteronomy 34:10-12).** Prompted by a listener (Christy), Brent reads the closing verses — "no prophet has risen in Israel like Moses, whom the LORD knew face to face." Marty: "a pretty good epitaph."
+3. **"Face to face" illustration.** A teacher (Ray or George DeYoung) staged a married couple: a foot apart (no), forehead-to-forehead (no), marital embrace (*that* is "face to face") — the intimacy Moses had with God.
+4. **The death of Moses reframed (Reed's book chapter).** Reed: Moses "gets an unfair, bad rap"; the striking-the-rock stories are "way more complex than we give it credit for." He dies "by the mouth of the LORD," which a moving Midrash envisions as a kiss, with Creation weeping and the earth wrapped around him. Success isn't reaching "this patch of earth" but walking intimately with God. Marty: "Moses probably looks at this argument and is like, 'But guys, who cared? I was buried by God Himself. I knew Him face to face.'"
+5. **Deuteronomy introduced.** "The closing teaching of Moses... a second giving of the law... a call to remember where we've come from." Two words will carry the episode: **zakar** (remember, ×14) and **shakach** (forget / do not forget, ×9).
+6. **The 14 "remember" (zakar) references, read in sequence.** Deut 5:15 (slaves in Egypt → Sabbath); 7 (what God did to Pharaoh); 8 (two — the wilderness/testing; the One who gives power to produce wealth); 9 (two — how you aroused God's anger; remember Abraham, Isaac, Jacob); 15 (slaves in Egypt → the command); 16 (two — unleavened "bread of affliction"; slaves in Egypt → decrees); 24 (three — Miriam; two more "slaves in Egypt"); 25 (what the Amalekites did); 32 (the Song — "remember the days of old... ask your father"). Marty draws out: festivals and parties are built to remember; and remembering becomes *communal* ("ask my elders... my parents... my grandparents").
+7. **The 9 "do not forget" (shakach) references, read in sequence.** Deut 4 (three — don't forget what your eyes saw; don't forget the covenant; and the "extra credit" one — *God* will not forget His covenant); 6 (don't forget the LORD who brought you out of slavery); 8 (three — don't forget / your proud heart will forget / if you forget and follow other gods you'll be destroyed); 25 (blot out Amalek — "do not forget"); 26 ("nor have I forgotten any of them"); 31 (the song "will not be forgotten by their descendants"); 32 ("you forgot the god who gave you birth"). Marty: "even God remembers!"
+8. **The Amalek aside.** Marty explains the "weird" Amalek reference: desert raiders who "attacked from behind... purposely attacked the weak and the helpless." God hates violence, and especially "a really sick version of violence" — "I want their name gone."
+9. **The pivot: remembering → the foreigner, orphan, and widow (the "AOW").** Because "we were those people," remembering makes us *notice* them. The circular logic: "When I remember, I see them. And when I see them, I remember." God wants them close, not pushed to the margins.
+10. **"Remember where you came from" as a national warning.** Marty insists this is not 2016 political commentary — he first taught it in 2011 (Brent confirms: "It was your first class"). "Can you imagine a world — like a country that was built on the fact that we are migrants and immigrants — that forgets the story of where we've come from?"
+11. **The AOW laws, read in sequence.** Deut 10:18 (God defends/loves them); 14:28-29 (third-year tithe stored in towns so they "eat and be satisfied"); 16 (two — rejoice/be joyful *with* them at festivals — they're "completely included"); 24 (gleaning — leave grain, olives, grapes — "it's not their olive trees... and yet I'm supposed to leave some"); Reed marvels at how "open... how inclusive... the message of God has been since the very beginning."
+12. **Levirate marriage / "the Family of the Unsandled" (Deut 25:5-10).** The brother who refuses to raise up his dead brother's line gets his sandal removed and is spat upon; his house is named "the family of the one whose sandal was removed." The point: widows "do not let them be tossed aside"; the whole community restores dignity and honor to a name. Marty ties it to "circle the wagons" — you know Shalom vs. Empire "based on where you find the weak."
+13. **More AOW laws.** Deut 26:12-13 (third-year tithe redistributed; "nor have I forgotten any of them"); 27:19 ("Cursed is anyone who withholds justice from the foreigner, the fatherless, or the widow... Amen").
+14. **A personal aside (Marty & Reed).** Both were raised by faithful people but "was not taught about this at all growing up" — discipleship aimed at "how to get to heaven... salvation, and mercy, and grace for me." Reed names the overcorrecting "pendulum swing"; "the Bible wants to hold all of these things together."
+15. **Deuteronomy as covenant (the suzerain-vassal form).** Via Sandra Richter's *Epic of Eden* (and John Walton, Ray Vander Laan): a five-part treaty — preamble, historical summary, stipulations, rewards-and-punishments ("light on reward... sickeningly heavy on punishment," because the suzerain holds all the power), and a concluding memorized song. Mapped onto Deuteronomy: 1A preamble; 1B–4 historical summary; 5–26 the law code; 28 blessings/curses; 32 the Song of Moses.
+16. **Deuteronomy 28 and the "humane" punishment reading.** Reed: "the punishments... 'Yep, that sounds — I'll just, I'll obey.'" Marty: some scholars note it's actually "quite humane" compared to neighboring covenants — God saying "if you don't do this, life is not going to go well for you," not "let me make you suffer."
+17. **The Song of Moses (Fohrman).** Not a triumphant swell at Moses's death but "You're going to fail... and then you're going to fail some more" — *and* a map of the hard, sustainable way back.
+18. **Torah as a whole mirrors the covenant form.** Genesis = preamble; Exodus = historical summary; Leviticus = demands/laws; Numbers = rewards and (heavy) punishments; Deuteronomy = concluding song/rewrap.
+19. **Reed on comparative treaties.** He looked up vassal treaties online; words even seem related (Akkadian). What's replaced is *who* loyalty is sworn to — a king → God. "Moses is not the one who's put in there as the guy." Marty: Fohrman makes exactly this point — Moses tries to stand in as a demigod (striking the rock), and God says, "Don't do my job for me."
+20. **Brent's close (Deut 32:46-47).** "Take to heart all the words... They are not just idle words for you. They are your life." Debate over "all these words" (the Song? Deuteronomy? Torah?) — "a pretty good argument that this is about Torah."
+21. **"Life and death" (Reed).** This is where "I put before you this day life and death" comes from — obedience as the natural grain that *brings about* life, not an arbitrary reward.
+22. **Remembering as active spiritual discipline (Reed).** "Remember' is an active thing that you do." Buechner's "Listen to Your Life"; remove yourself from the noise and set aside space to actively remember — toward "a deeper intimacy with God" and faithfulness.
+23. **"Remember that time when...?" (campus-ministry practice).** Marty praises Reed's ministry habit of prompting, "Remember that time when?" — because a new student body every four years means stories must be *actively told* or forgotten. Reed: students say, "I don't know that person, but I've heard about them." A beautiful way of "keeping culture alive."
+24. **Wrap.** "We still have a capstone, but that's a pretty good way to wrap up Session 1."
+
+**Coverage verification:** Every "remember"/"forget" chapter the hosts read is carried above (Deut 4, 5, 6, 7, 8, 9, 15, 16, 24, 25, 26, 31, 32) and every AOW passage read (10:18; 14:28-29; 16; 24:17-22; 25:5-10; 26:12-13; 27:19), plus the epitaph (34:10-12) and the close (32:46-47) — each appears under References/Callbacks with a verse link. Every named Hebrew/technical term (*zakar*, *shakach*, the foreigner/orphan/widow "AOW," suzerain-vassal covenant, "face to face," "by the mouth of the LORD") appears under Terminology. Every named resource/person (Sandra Richter's *Epic of Eden*; John Walton; Ray Vander Laan; Rabbi David Fohrman on the Song of Moses; Frederick Buechner's *Listen to Your Life*; the forthcoming Solomon/Dent book; listener Christy; George DeYoung) appears under References or Illustrations. The stated tensions (Moses's "bad rap" / striking the rock; the heavy-punishment covenant; the Song as a "failure" song; "is success just reaching the Promised Land?"; the Amalek command; was this political commentary?) appear under Narrative Tensions. **The episode does not teach a single literary chiasm** — it is a repetition-and-covenant-structure episode, so the Chiasms section is omitted (the covenant five-part shape and the Episode Flow carry its structure).
 
 ## Narrative Tensions
 
-| Surface problem | Tag | Cited quote (speaker) | Verse citation + link | Resolution / status |
+Each entry: surface problem, classification tag, cited quote, normalized verse citation + link (where a text is in view), and resolution or open flag.
+
+| Surface problem | Tag | Cited quote (speaker) | Verse / link | Resolution / status |
 |---|---|---|---|---|
-| Moses is barred from the Promised Land over striking the rock — he seems to get a harsh, "bad rap" ending. | `logic-gap` | Reed: *"I do think that Moses gets an unfair, bad rap, because people focus on, 'Oh, well, he disobeyed and he didn't make it in.'"* | Deuteronomy 34:10-12 — https://www.biblegateway.com/passage/?search=Deuteronomy%2034%3A10-12&version=NIV | **Resolved (Hebraic lens):** his epitaph — "knew the LORD face to face" (an intimate, marital-embrace image) — reframes success as intimacy with God; a Midrash pictures death "by the mouth of the LORD" as a kiss. |
-| God commands Israel to "blot out the name of Amalek" — reads as a disturbing call to vengeance. | `unstated-cultural-assumption` | Marty: *"Amalek attacked the weak, and the sick, and the slow... I hate violence anyway. But that they would double down on a really sick version of violence."* | Deuteronomy 25:17-19 — https://www.biblegateway.com/passage/?search=Deuteronomy%2025%3A17-19&version=NIV | **Resolved (Hebraic lens):** the judgment targets predation on the defenseless (raiders attacking the back of the camp); it is justice for the vulnerable, not arbitrary wrath. |
-| Why leave your own hard-earned harvest (grain, olives, grapes) for strangers who did none of the work? | `unstated-cultural-assumption` | Marty: *"it's not their olive trees. They didn't do all the work... What is this?"* Reed: *"take care of people that really are actually going to... slow you down... a potential threat."* | Deuteronomy 24:17-22 — https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A17-22&version=NIV | **Resolved (Hebraic lens):** against the tribalism of surrounding cultures, God's radical inclusion of the AOW is the point — "remember that you were slaves in Egypt; therefore I command you to do this." |
-| Levirate marriage, the removed sandal, and spitting in the face ("the Family of the Unsandled") seem strange and harsh. | `unstated-cultural-assumption` | Marty: *"The Family of the Unsandled. That's got to be a rough moniker to carry around."* | Deuteronomy 25:5-10 — https://www.biblegateway.com/passage/?search=Deuteronomy%2025%3A5-10&version=NIV | **Resolved (Hebraic lens):** the custom protects the widow and preserves a dead brother's name — the whole community acts to keep the vulnerable from being swept to the margins. |
-| The Song of Moses is a downer at the emotional climax of Torah — "you're going to fail," not a triumphant finale. | `contradiction` | Marty: *"you're thinking it's the end... let the music swell... And the song of Moses is like, 'You're going to fail.'"* | Deuteronomy 32 — https://www.biblegateway.com/passage/?search=Deuteronomy%2032&version=NIV | **Resolved (via Fohrman):** the song also shows the way *back* — failure, then a hard but sustainable return. It fits the covenant form (a memorable concluding song), not a sentimental send-off. |
-| Deuteronomy 28's punishments are overwhelmingly long and severe compared to its short list of rewards — God seems vindictive. | `unstated-cultural-assumption` | Marty: *"Light on reward and heavy on punishment."* Reed: *"it's like, 'Yep, that sounds — I'll just, I'll obey.'"* | Deuteronomy 28 — https://www.biblegateway.com/passage/?search=Deuteronomy%2028&version=NIV | **Resolved (genre lens):** this is the standard suzerain-vassal covenant form (reward-light, punishment-heavy); scholars note Deuteronomy's version is comparatively *humane* — "if you don't do this, life won't go well," not "I'll make you suffer." |
-| "When Moses finished reciting all these words" — which words? The song, Deuteronomy, or all of Torah? | `translation-disagreement` | Brent: *"Is it just talking about the song... Deuteronomy as a whole... Torah as a whole? ... there's a pretty good argument that this is about Torah."* | Deuteronomy 32:46-47 — https://www.biblegateway.com/passage/?search=Deuteronomy%2032%3A46-47&version=NIV | **Open — dance with it.** Brent names the ambiguity and leans toward "Torah," but the hosts leave the referent open; either way the point stands: "they are your life." |
-
-## Chiasms & Structure
-
-No chiasm is present. The structural model the hosts present is the **five-part suzerain-vassal covenant form**, which Deuteronomy follows — and which Torah as a whole mirrors. (Sources: Sandra Richter, John Walton, Ray Vander Laan.) Rendered as a sequence/mapping, not a mirrored chiasm:
-
-```mermaid
-flowchart TB
-  P["1. Preamble (Deut 1a) — introductory setup"]
-  H["2. Historical summary (Deut 1b-4) — how the two parties got here"]
-  S["3. Stipulations / law code (Deut 5-26) — the demands"]
-  RP["4. Blessings & curses (Deut 28) — light on reward, heavy on punishment"]
-  C["5. Conclusion: Song of Moses (Deut 32) — a memorable song so the covenant is not forgotten"]
-  P --> H --> S --> RP --> C
-  subgraph TORAH["Torah as a whole mirrors the same shape"]
-    G["Preamble — Genesis"]
-    E["Historical summary — Exodus"]
-    L["Stipulations — Leviticus"]
-    N["Rewards/punishments (heavy) — Numbers"]
-    D["Conclusion / resung covenant — Deuteronomy"]
-  end
-```
-
-Prose: Deuteronomy reads as a covenant document — preamble, historical recap, law, blessings/curses, and a concluding song built for memory (because there was no printing press). Reed adds that the striking feature is *theological*: where a normal suzerain-vassal treaty swears loyalty to a human king, Deuteronomy directs loyalty to God, and pointedly refuses to install Moses as a demigod stand-in. The hosts further note the five books of Torah mirror the same five-part shape.
+| Moses is punished and barred from the Promised Land — doesn't he get a raw deal? | `logic-gap` | Reed: *"I do think that Moses gets an unfair, bad rap, because people focus on, 'Oh, well, he disobeyed and he didn't make it in.'"* | [Deut 34:10-12 (NIV)](https://www.biblegateway.com/passage/?search=Deuteronomy%2034%3A10-12&version=NIV) | **Resolved (reframe):** success is intimate relationship, not arrival; Moses "knew Him face to face" and is buried "by the mouth of the LORD" — a kiss. "Who cared? I was buried by God Himself." |
+| Why would God hand His people a covenant that is so lopsidedly heavy on punishment? | `theodicy` | Reed: *"the punishments... 'Yep, that sounds — I'll just, I'll obey.'"* | [Deut 28 (NIV)](https://www.biblegateway.com/passage/?search=Deuteronomy%2028&version=NIV) | **Resolved (genre + humane reading):** it fits the suzerain-vassal form they'd recognize, and compared to neighboring treaties it's "actually still quite humane" — God saying "life is not going to go well for you," not "I'll make you suffer." |
+| The Song of Moses, at the climax of his life, says "you're going to fail" — why end on failure? | `logic-gap` | Marty: *"the song of Moses is like, 'You're going to fail... and then you're going to fail some more.'"* | [Deut 32 (NIV)](https://www.biblegateway.com/passage/?search=Deuteronomy%2032&version=NIV) | **Resolved (Fohrman):** it is *also* "a song showing you how you can make your way back... the real, sustainable way" — honest about failure *and* a map home. |
+| God commands Israel to "blot out the name of Amalek" — isn't that disturbing violence? | `translation-disagreement` / `logic-gap` | Marty: *"it's always a weird reference to read without addressing."* | [Deut 25:17-19 (NIV)](https://www.biblegateway.com/passage/?search=Deuteronomy%2025%3A17-19&version=NIV) | **Open flag (contextualized):** Amalek were raiders who "purposely attacked the weak and the helpless... attacked from behind"; God "hate[s] violence anyway" and especially "a really sick version of violence" — the memory is of injustice, not a template for it. |
+| Is "remember where you came from" just Marty's political commentary on recent events? | `unstated-cultural-assumption` | Brent: *"It was your first class... This was such a long time ago."* (2011) | [Deut 24:17-22 (NIV)](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A17-22&version=NIV) | **Resolved:** the teaching predates any current event (first taught 2011); "This is what the Bible invited God's people to remember and invited God's people to be." |
+| Why should I leave *my* harvest — grain, olives, grapes — that I worked for, to strangers? | `logic-gap` | Marty: *"it's not their olive trees. They didn't do all the work... and yet I'm supposed to leave some."* | [Deut 24:19-22 (NIV)](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A19-22&version=NIV) | **Resolved (memory → mercy):** because "you were slaves in Egypt" — remembering who you were obligates you to see and provide for the foreigner, orphan, and widow. |
+| How can "obey or die" be good news rather than a threat? | `logic-gap` | Reed: *"it doesn't just lead to life, like as a reward, an arbitrary reward for following it."* | [Deut 32:46-47 (NIV)](https://www.biblegateway.com/passage/?search=Deuteronomy%2032%3A46-47&version=NIV) | **Resolved:** the commands "are your life" — obedience is the natural grain that *produces* the life God intends, not an arbitrary payout. |
 
 ## Terminology
 
-- **zakar** (זָכַר) — to remember; 14 times in Deuteronomy. Marty: *"Remember that you were slaves in Egypt... that is why I command you to do this."* Active and communal — "ask your elders."
-- **shakach** (שָׁכַח) — to forget; "do not forget" 9 times, including the note that God himself will *not* forget his covenant. Reed: *"this one is actually about God not forgetting."*
-- **the foreigner, orphan, and widow** ("AOW"; גֵּר / יָתוֹם / אַלְמָנָה) — the groups Israel must remember *because* they were once these in Egypt. Marty: *"When we remember that we were these people, we notice them."*
-- **face to face** (פָּנִים אֶל פָּנִים) — the intimacy of Moses' relationship with God, taught via a marital embrace image; paired with the Midrash of death "by the mouth of the LORD" as a kiss.
-- **suzerain-vassal covenant** — the ancient treaty form Deuteronomy follows (preamble, historical summary, stipulations, blessings/curses, concluding song). Reward-light, punishment-heavy; loyalty redirected from a human king to God.
+- **zakar** (זָכַר) — "to remember." It appears 14 times across Deuteronomy. Marty: *"There are 14 references to the term, to the word, remember. The word for remember here in Deuteronomy is zakar."* The signature phrase: "Remember that you were slaves in Egypt... that is why I command you to do this."
+- **shakach** (שָׁכַח) — "to forget." "Do not forget" appears 9 times, including the striking note that *God* will not forget His covenant. Marty: *"The word for do not forget is the word shakach. Shakach, to forget... Nine references in Deuteronomy to not forget."*
+- **the foreigner, the orphan, and the widow (the "AOW")** — the three groups Israel is to remember and care for *because* they were once foreigners, orphans, and widows in Egypt. Marty: *"They call it the AOW... the alien, the orphan, and the widow... When we remember that we were these people, we notice them."*
+- **suzerain-vassal covenant** — the ancient power-imbalanced treaty form Deuteronomy follows: preamble, historical summary, stipulations, blessings-and-curses (light on reward, heavy on punishment), and a concluding song for memory. Reed names it; Marty: *"the suzerain is holding the vassal under the weight of this relationship... the covenant's written by the suzerain, not the vassal."*
+- **"face to face"** (Hebrew idiom, *panim el-panim*) — not spatial nearness but marital-level intimacy. Marty, relaying the teacher: *"That, that is this idea of the Hebrew phrase face to face. This intimate relationship that Moses had with God."*
+- **"by the mouth of the LORD"** (al-pi YHWH) — the phrase for how Moses died (usually "by the word of the LORD"); the Midrash reads it as a kiss. Reed: *"the phrase is that he died there by the... usually gets translated 'by the word of the Lord'. But really could be translated 'by the mouth of the Lord.'"*
+
+## Illustrations & Stories
+
+- **The married couple and "face to face" (Marty, via Ray or George DeYoung).** A teacher staged a couple a foot apart, then forehead-to-forehead, then in a marital embrace — only the embrace captured the Hebrew "face to face," the intimacy Moses had with God.
+- **Moses's death as a kiss (Reed, from a Midrash).** Moses dies "by the mouth of the LORD"; the rabbis envision a kiss, with Creation "weeping along with God" and the earth wrapped around him as a tomb — "this beautiful, sad picture."
+- **The fire hose of "remember/forget" verses (the hosts, by design).** Reading ~23 verses in a row "on purpose so we could really feel the repetition, and the weight of these words just keep coming up." Reed: "it's like a fire hose of these verses."
+- **"The Family of the Unsandled" (Deut 25).** The brother who refuses levirate duty has his sandal removed and is spat upon; his house carries the moniker forever. Marty: "That's got to be a rough moniker to carry around."
+- **Church-world blind spot (Marty & Reed).** Both were raised by faithful people yet "was not taught about this at all," discipleship aimed at "how to get to heaven"; Reed names the overcorrecting "pendulum swing."
+- **The "black market BEMA" proof (Marty & Brent).** To prove the teaching isn't recent political commentary, Marty jokes he has "the black market BEMA, under the table episodes recorded on a hard drive" from 2011 — Brent confirms it was "your first class."
+- **"Remember that time when...?" (Reed's campus ministry).** With a new student body every four years, the ministry actively prompts storytelling so culture survives — "I don't know that person, but I've heard about them."
+
+## References
+
+- **Sandra Richter, *The Epic of Eden* (covenant structure).** Marty: *"One of the places you can read about this... Epic of Eden by Sandra Richter. Excellent source."*
+- **John Walton; Ray Vander Laan (RVL) — on suzerain-vassal covenants.** Marty: *"more than one scholar, Sandra Richter, John Walton, my teacher, Ray Vander Laan, on his website you can find articles"* (to be linked in the show notes).
+- **Rabbi David Fohrman — teaching on the Song of Moses (Deuteronomy 32).** The "failure and the way back" reading, and the point that Moses is not a demigod stand-in. Marty: *"Rabbi Fohrman has this great teaching... we'll hyperlink in the show notes."*
+- **Frederick Buechner, *Listen to Your Life* (remembering as spiritual discipline).** Reed: *"Buechner, our guy, he calls it, 'Listen to Your Life.' Make that an active pursuit."*
+- **The forthcoming BEMA book (Marty Solomon & Reed Dent).** Includes a chapter on the death of Moses. Reed: *"look out for the book when it comes."*
+- **Moses's epitaph (Deuteronomy 34:10-12).** The closing verses — "no prophet has risen in Israel like Moses, whom the LORD knew face to face." [Deut 34:10-12 (NIV)](https://www.biblegateway.com/passage/?search=Deuteronomy%2034%3A10-12&version=NIV)
+- **The sign of Sabbath / "remember you were slaves" (Deuteronomy 5:15).** The first *zakar* reference. [Deut 5:15 (NIV)](https://www.biblegateway.com/passage/?search=Deuteronomy%205%3A15&version=NIV)
+- **Remember the whole wilderness way (Deuteronomy 8:2-3).** Humbled, tested, fed with manna — "humankind cannot live by bread alone." [Deut 8:2-3 (NIV)](https://www.biblegateway.com/passage/?search=Deuteronomy%208%3A2-3&version=NIV)
+- **God defends the foreigner, orphan, and widow (Deuteronomy 10:18).** [Deut 10:18 (NIV)](https://www.biblegateway.com/passage/?search=Deuteronomy%2010%3A18&version=NIV)
+- **The third-year tithe for the vulnerable (Deuteronomy 14:28-29).** [Deut 14:28-29 (NIV)](https://www.biblegateway.com/passage/?search=Deuteronomy%2014%3A28-29&version=NIV)
+- **Gleaning and justice for the AOW (Deuteronomy 24:17-22).** Leave grain, olives, grapes — "remember that you were slaves." [Deut 24:17-22 (NIV)](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A17-22&version=NIV)
+- **Levirate marriage / the Family of the Unsandled (Deuteronomy 25:5-10).** [Deut 25:5-10 (NIV)](https://www.biblegateway.com/passage/?search=Deuteronomy%2025%3A5-10&version=NIV)
+- **The Amalek command (Deuteronomy 25:17-19).** Raiders who struck the weak from behind; "do not forget." [Deut 25:17-19 (NIV)](https://www.biblegateway.com/passage/?search=Deuteronomy%2025%3A17-19&version=NIV)
+- **The tithe declaration — "nor have I forgotten" (Deuteronomy 26:12-13).** [Deut 26:12-13 (NIV)](https://www.biblegateway.com/passage/?search=Deuteronomy%2026%3A12-13&version=NIV)
+- **The curse on perverting the AOW's justice (Deuteronomy 27:19).** "Then all the people shall say, Amen." [Deut 27:19 (NIV)](https://www.biblegateway.com/passage/?search=Deuteronomy%2027%3A19&version=NIV)
+- **Blessings and curses — the reward/punishment section (Deuteronomy 28).** [Deut 28 (NIV)](https://www.biblegateway.com/passage/?search=Deuteronomy%2028&version=NIV)
+- **The Song of Moses (Deuteronomy 32).** "Remember the days of old... ask your father"; "you forgot the god who gave you birth." [Deut 32 (NIV)](https://www.biblegateway.com/passage/?search=Deuteronomy%2032&version=NIV)
+- **"They are your life" (Deuteronomy 32:46-47).** Brent's closing passage. [Deut 32:46-47 (NIV)](https://www.biblegateway.com/passage/?search=Deuteronomy%2032%3A46-47&version=NIV)
+
+## Callbacks & Cross-References
+
+- **Episode 30 — "Lead with Your Voice" / striking the rock (Moses).** The epitaph conversation grows directly out of the previous episode; Fohrman links striking the rock to Moses wrongly trying to be a demigod stand-in. (Flag for cross-reference; do not re-explain there.)
+- **Episode 1 — "Trust the Story."** Marty's review names Genesis as the stage-setting "invitation to trust"; the remembering project is how Israel keeps trusting and re-telling the story.
+- **Episodes 22–25 — the Sinai "wedding" / "kingdom of priests."** Marty recaps the covenant marriage at Sinai as the partnership Deuteronomy now seals.
+- **The Numbers "Images of the Desert" set (Episodes 26–29) — "circle the wagons."** Marty explicitly recalls the desert images and the "circle the wagons" teaching: Shalom vs. Empire is told by "where you find the weak."
+- **Leviticus — priesthood / "a kingdom of priests."** Marty: Leviticus is where "God says, 'This is what priesthood means'" — part of the same partnership arc. [Leviticus (NIV)](https://www.biblegateway.com/passage/?search=Leviticus&version=NIV)
+- **Episode 32 — Session 1 Capstone (forward pointer).** Marty: "we're going to review big time in the capstone, the next episode" — "we still have a capstone, but that's a pretty good way to wrap up Session 1."
 
 ## Discussion Questions
 
-1. Deuteronomy repeats "remember" and "do not forget" dozens of times. What is the story *you* most need to keep remembering — and what happens to how you treat others when you forget it?
-2. Marty describes a circle: remembering who you were lets you *see* the foreigner, orphan, and widow, and seeing them makes you remember. Who are the "AOW" currently at the margins of your vision, and what would bringing them to the center cost you?
-3. The gleaning laws hand your hard-earned harvest to people who did none of the work. Where does that cut against your instincts about fairness and ownership — and what might God be after in it?
-4. Reed reframes Moses' death not as failure but intimacy ("face to face"). How do you define success in your own walk with God — reaching a destination, or the quality of relationship along the way?
-5. Reed urges making *remembering* an active spiritual discipline (Buechner's "Listen to Your Life"). What practice could you adopt to actively remember your story and listen for where God has been in it?
+1. Marty says the reason behind the command is always the remembered story: "Remember that you were slaves in Egypt. That is why I command you to do this." What part of *your* story — where you've been rescued, humbled, or carried — is God asking you to keep remembering so that it shapes how you live now?
+2. The episode's logic is circular: "When I remember who I was I see who they are now... when I see them... they remind me of who I was." Who are the "foreigners, orphans, and widows" in your actual life — and are they inside your community or pushed to its margins?
+3. Reed and Marty both say this emphasis was "de-emphasized to say the least" in their upbringing, which stressed "how to get to heaven." Where might you have inherited a faith that holds personal salvation and care-for-the-vulnerable *apart*, when "the Bible wants to hold all of these things together"?
+4. Reed reframes success: not "just getting to the Promised Land... this patch of earth," but "walking with God in such a way as there is this kind of intimate love even in his passing." By that measure, how would you rate a life you currently consider "successful" or "unsuccessful"?
+5. The Song of Moses is honest that "you're going to fail" — and *also* shows "how you can make your way back." Where in your own failure right now might the honest path forward be a return rather than a cover-up?
+6. Reed urges making remembering an *active* spiritual discipline — "it's not just going to happen on its own." What would it look like this week to "remove yourself from the noise" and deliberately practice remembering (journaling, telling a story, "remember that time when...?")?
 
 ## Sources
 
 - Transcript: `1-31-remember-where-you-came-from.md`
-- Deuteronomy 34:10-12 — https://www.biblegateway.com/passage/?search=Deuteronomy%2034%3A10-12&version=NIV
-- Deuteronomy 8:2-3 — https://www.biblegateway.com/passage/?search=Deuteronomy%208%3A2-3&version=NIV
-- Deuteronomy 10:18 — https://www.biblegateway.com/passage/?search=Deuteronomy%2010%3A18&version=NIV
-- Deuteronomy 14:28-29 — https://www.biblegateway.com/passage/?search=Deuteronomy%2014%3A28-29&version=NIV
-- Deuteronomy 24:17-22 — https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A17-22&version=NIV
-- Deuteronomy 25:5-10 — https://www.biblegateway.com/passage/?search=Deuteronomy%2025%3A5-10&version=NIV
-- Deuteronomy 25:17-19 (Amalek) — https://www.biblegateway.com/passage/?search=Deuteronomy%2025%3A17-19&version=NIV
-- Deuteronomy 26:12-13 — https://www.biblegateway.com/passage/?search=Deuteronomy%2026%3A12-13&version=NIV
-- Deuteronomy 27:19 — https://www.biblegateway.com/passage/?search=Deuteronomy%2027%3A19&version=NIV
-- Deuteronomy 28 — https://www.biblegateway.com/passage/?search=Deuteronomy%2028&version=NIV
-- Deuteronomy 32 — https://www.biblegateway.com/passage/?search=Deuteronomy%2032&version=NIV
-- Deuteronomy 32:46-47 — https://www.biblegateway.com/passage/?search=Deuteronomy%2032%3A46-47&version=NIV
-- Sandra Richter, *The Epic of Eden* (covenant structure)
-- John Walton; Ray Vander Laan (RVL) — suzerain-vassal covenants
-- Rabbi David Fohrman — the Song of Moses (Deuteronomy 32)
-- Frederick Buechner, *Listen to Your Life*
+- [Deuteronomy 34:10-12 (Moses's epitaph — "face to face", NIV)](https://www.biblegateway.com/passage/?search=Deuteronomy%2034%3A10-12&version=NIV)
+- [Deuteronomy 5:15 (remember you were slaves → Sabbath, NIV)](https://www.biblegateway.com/passage/?search=Deuteronomy%205%3A15&version=NIV)
+- [Deuteronomy 8:2-3 (remember the wilderness way, NIV)](https://www.biblegateway.com/passage/?search=Deuteronomy%208%3A2-3&version=NIV)
+- [Deuteronomy 10:18 (God loves the foreigner, orphan, widow, NIV)](https://www.biblegateway.com/passage/?search=Deuteronomy%2010%3A18&version=NIV)
+- [Deuteronomy 14:28-29 (third-year tithe for the vulnerable, NIV)](https://www.biblegateway.com/passage/?search=Deuteronomy%2014%3A28-29&version=NIV)
+- [Deuteronomy 24:17-22 (gleaning / justice for the AOW, NIV)](https://www.biblegateway.com/passage/?search=Deuteronomy%2024%3A17-22&version=NIV)
+- [Deuteronomy 25:5-10 (levirate marriage / Family of the Unsandled, NIV)](https://www.biblegateway.com/passage/?search=Deuteronomy%2025%3A5-10&version=NIV)
+- [Deuteronomy 25:17-19 (remember Amalek, NIV)](https://www.biblegateway.com/passage/?search=Deuteronomy%2025%3A17-19&version=NIV)
+- [Deuteronomy 26:12-13 (tithe declaration — "nor have I forgotten", NIV)](https://www.biblegateway.com/passage/?search=Deuteronomy%2026%3A12-13&version=NIV)
+- [Deuteronomy 27:19 (curse on perverting the AOW's justice, NIV)](https://www.biblegateway.com/passage/?search=Deuteronomy%2027%3A19&version=NIV)
+- [Deuteronomy 28 (blessings and curses, NIV)](https://www.biblegateway.com/passage/?search=Deuteronomy%2028&version=NIV)
+- [Deuteronomy 32 (the Song of Moses, NIV)](https://www.biblegateway.com/passage/?search=Deuteronomy%2032&version=NIV)
+- [Deuteronomy 32:46-47 ("they are your life", NIV)](https://www.biblegateway.com/passage/?search=Deuteronomy%2032%3A46-47&version=NIV)
+- [Leviticus (priesthood — "a kingdom of priests", NIV)](https://www.biblegateway.com/passage/?search=Leviticus&version=NIV)
+- Referenced resources named in the episode (not web-fetched): Sandra Richter, *The Epic of Eden* (covenant structure); John Walton and Ray Vander Laan on suzerain-vassal covenants; Rabbi David Fohrman on the Song of Moses (Deuteronomy 32); Frederick Buechner, *Listen to Your Life*; the forthcoming BEMA book co-written by Marty Solomon and Reed Dent (chapter on the death of Moses).
